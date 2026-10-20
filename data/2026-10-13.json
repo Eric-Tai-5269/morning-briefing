@@ -1,0 +1,446 @@
+{
+ "date": "2026-10-13",
+ "dateLabel": "2026 年 10 月 13 日（週二 · 開學第二天 —— **昨天掛在簡報上的兩件懸案，今天同時結案**：①「1151_程序控制」調課結果已公布 —— **10/28（三）維持原時段上課、調課取消**，你不需要再去問同學，課表也不用改；②統一獅昨晚 G4 以 2:8 落敗淘汰，**台灣大賽 7 戰全在台北大巨蛋、台南完全沒有賽事**，10/21 晚上的交通風險正式解除。**但同一天多了一件新的、更重的事：「單元操作（二）」第一次期中考確定 10/28（三）19:00–22:00**，於是 10 月下半變成兩場晚間期中考 —— **10/21 熱力學（8 天後）、10/28 單元操作（15 天後）**，而 Notion 上這兩天仍然只有「刷廁所」。台股 10/12 開低走高、終場僅跌 11.48 點收 49,301.96；美股道瓊漲 0.38%、那斯達克跌 0.44%）",
+ "generatedAt": "2026-10-13T07:10:00+08:00",
+ "weather": {
+  "icon": "☀️",
+  "high": "32",
+  "low": "24",
+  "note": "★ **今天（10/13 週二）台南晴時多雲、水氣少，白天 31–33 度、清晨約 24 度。**中央氣象署一週預報給台南 10/13 日間 25–31 度、夜間 24–28 度；AccuWeather 給今天高溫 92°F（約 33 度）、低溫 73°F（約 23 度），降雨機率僅 2%。**兩個來源都指向同一件事：今天不用帶傘，但日夜溫差約 8–9 度。**　★ **一個重要修正，請直接覆蓋你腦中昨天的版本**：昨天的簡報說「10/14–15 東北季風增強、轉雨、是本週最明顯的變天點」。**今天氣象署的一週預報已經改了 —— 台南、高雄、屏東 10/13 到 10/19 整整七天全部是「晴時多雲」，沒有任何一天轉雨、也沒有提到東北季風。**南部這週沒有變天點。（北部與東半部仍可能受季風影響，但那不影響你。）　★ **颱風的部分也鬆綁了**：昨天提到菲律賓東方低壓區「週末可能發展熱帶擾動」。本次查詢沒有找到氣象署發布任何熱帶性低壓或颱風消息，香港天文台甚至已在討論「2026 年風季是否已完結」。**結論：原本被列為變數的「週末可能不能出門」，現在可以先從複習計畫裡拿掉。**10/17（六）、10/18（日）兩個整天是你在 10/21 熱力學期中考前最大、而且現在看起來最穩的兩塊時間。　★ 穿著：薄外套＋短袖仍然適用，但本週的理由從「怕下雨」變成「只是早晚涼」。　★ 本欄未直接接氣象署 API，數字取自氣象署一週預報頁與 AccuWeather 三日預報，出門前請再看一次即時預報。"
+ },
+ "schedule": {
+  "available": true,
+  "message": "",
+  "tasks": [
+   {
+    "title": "倒垃圾",
+    "pri": "低",
+    "cat": "家事",
+    "time": "全天",
+    "done": false
+   }
+  ],
+  "note": "✅ Notion 連接器正常：「事件」資料庫（0c43c2d0-cb80-4f89-86fe-14e5ae8bffb7）今天（10/13 週二）只有 **1 筆未完成事件 —— 倒垃圾**（性質＝家事、優先度＝低、狀態＝未開始）。約 10 分鐘，**今天行事曆上真正的內容就這一筆。**　★ **今天的行事曆狀況比昨天更值得講，因為「不確定的事」已經少掉兩件、但「確定要做的事」多了一件。**昨天行事曆上的缺口是三個：調課時段不明、10/21 考試沒進去、沒有複習時段。**今天調課那一格被填平了（10/28 調課取消，維持原時段 —— 等於你的每週課表不需要任何改動），但同時出現一個新的、必須進行事曆的硬約束：10/28（三）19:00–22:00 單元操作（二）第一次期中考。**　★ 【10/13–10/31 全查過了，結論很直接】這段 19 天，Notion 共 **21 筆事件，21 筆全部是倒垃圾／刷廁所／洗衣服**。**兩場期中考、零個複習時段。**具體來說：**10/21 那天只有「刷廁所」，10/28 那天也只有「刷廁所」。**　★ **今天只要做四件事，加起來不到 15 分鐘：****①按信件區第一顆按鈕，把 10/21（三）19:00–21:00 熱力學期中考加進行事曆**（已經第 5 天了，10 秒）；**②按第二顆按鈕，把 10/28（三）19:00–22:00 單元操作（二）期中考加進去**（今天剛公布，趁記得）；**③排 4 個「熱力學複習」時段：10/15、10/17、10/19、10/20，前三天各 2 小時、10/20 考前一天 3 小時**—— 其中 10/17、10/18 是整個週末、天氣預報現在是晴時多雲、而且台南沒有球賽，是最乾淨的兩塊時間；**④順手確認一件事：10/28 白天「程序控制」的原時段落在哪裡**，因為那天晚上 19:00 要考單元操作，如果程序控制剛好是週三下午，你那天會是「上課→直接進考場」，需要提前準備。　★ 一個提醒口吻的話：**這兩場考試隔 7 天（10/21、10/28），中間沒有緩衝。**10/21 考完的那個週四不是休息日，而是單元操作的第一個複習日。現在就知道，比 10/22 才發現好。"
+ },
+ "mail": {
+  "window": "⚠️ 嚴格 24h 窗口（10/12 07:00 – 10/13 07:00 台北時間）· 收件匣 **新信 9 封，全部來自成大**（寄件人 noreply@ncku.edu.tw / no-reply@mail.ncku.edu.tw）· 成大信箱 E34131227@gs.ncku.edu.tw · 已過濾 PRO360 **0 封** · 已排除電子報／促銷／社交 **0 封** · **外部與私人信件 0 封（連續第五次掛零）** · ★ **連續四天的「0 封新信」在今天中斷了，而且是以最有用的方式中斷 —— 9 封裡有 2 封直接改變了你 10 月下半的規劃**：一封關掉了昨天那個懸案（調課取消），一封開了一個新的（單元操作期中考）。本區依緊急度排序，**前三筆是今天真正要動手的，後面是校內資訊、看過就好。**",
+  "items": [
+   {
+    "level": "red",
+    "tag": "🚨 全新 · 今天 13:20 公布 · 成大 Moodle 公佈欄 · 課程「1151_單元操作（二） UNIT OPERATIONS（1151_E326120_1）」· 授課教師 吳柏慶",
+    "title": "🚨 新增一場期中考：單元操作（二）第一次期中考 10/28（三）19:00–22:00，教室 93322／93420／93422，closed book",
+    "kind": "需要動作：立刻按右邊按鈕加進行事曆（這是今天最重要的一筆）；順便確認 10/28 白天的課表",
+    "detail": "★ 公告原文重點，一字不漏：「**第一次期中考日期為 10/28 19:00-22:00，教室為 93322、93420、93422，closed book，座位表當天公布**」。　★ **為什麼這是今天最重要的一封信**：它讓你的 10 月從「一場晚間期中考」變成「兩場晚間期中考，間隔剛好 7 天」—— **10/21（三）19:00–21:00 熱力學、10/28（三）19:00–22:00 單元操作。**兩場都在週三晚上、都在系館、都需要整天空出來。**這不是兩件獨立的事，是一個連續兩週的考試檔期。**　★ 三個要先放進腦袋的細節：**①考三小時（19:00–22:00），比熱力學的兩小時更長**，體力與專注度要算進去，當天晚餐不要隨便吃；**②closed book** —— 明確寫了，代表不能帶公式本或課本，**所有要背的東西必須在 10/28 之前進到腦子裡**，這和「可帶一張 A4」的準備方式完全不同，複習策略要不一樣；**③三間教室（93322、93420、93422）、座位表當天才公布** —— 意思是你不能事先知道自己在哪一間，**10/28 當天要提早到系館看榜，不要 18:55 才出現。**　★ **Notion 上 10/28 目前只有「刷廁所」一筆。**請直接按下面那顆按鈕，10 秒把它變成行事曆上的硬約束。　★ 一個順手的檢查：這封信公布的同一天，「程序控制」也公告 10/28 維持原時段上課（見下一筆）。**所以 10/28 那天你白天有課、晚上有三小時考試。**今天花兩分鐘確認程序控制原時段是幾點，如果落在下午，那天就要規劃「下課到考試之間」怎麼吃飯和休息。",
+    "action": {
+     "title": "單元操作（二）第一次期中考 19:00-22:00 93322/93420/93422 closed book",
+     "cat": "考試",
+     "pri": "高",
+     "date": "2026-10-28"
+    },
+    "calendar": {
+     "title": "單元操作(二)第一次期中考 19:00-22:00 93322/93420/93422 closed book",
+     "date": "2026-10-28",
+     "cat": "考試",
+     "pri": "高",
+     "label": "➕ 加入行事曆（10/28 單元操作期中考）"
+    },
+    "deadline": "10/28（三）19:00 · 15 天後"
+   },
+   {
+    "level": "red",
+    "tag": "📌 第 5 天仍未進行事曆 · 來源 10/08（四）23:33 成大 Moodle 助教郭佳孜公佈欄公告 · 今天再查 Notion，10/21 依然只有「刷廁所」",
+    "title": "📌 第 5 天了：化工熱力學第一次期中考 10/21（三）19:00–21:00、93456 教室 —— 只剩 8 天，而且現在它後面還排了另一場考試",
+    "kind": "需要動作：按右邊按鈕加進行事曆（10 秒）；今天就把 10/15、10/17、10/19、10/20 四個複習時段排進去",
+    "detail": "★ 原公告重點三行：「時間(Time): 10/21 (Wednesday). 19:00-21:00 ／ 地點(VENUE): 93456 (LECTURE ROOM) ／ *記得攜帶計算機&學生證*」。**時間、地點、攜帶物三項齊全，沒有任何待確認的空白，純粹就是還沒做。**　★ **今天這一筆的性質變了，請注意**：前四天它是「唯一一場考試，還有十天，慢慢排」。**今天開始它是「兩場考試中的第一場，只剩 8 天，而且考完只有 7 天就是第二場」。**原本可以拖的空間消失了 —— 不是因為你更忙，是因為後面被堵住了。　★ **好消息有一個，而且很具體**：昨天這一筆附帶一個未知風險 —— 「如果程序控制調課剛好落在週三晚上，會和 10/21 考試衝突」。**今天這個風險確認解除：10/28 調課取消、維持原時段，整學期課表不需要任何改動，10/21 晚上不會有補課。**另一個風險「台灣大賽在台南開打、交通壅塞」也解除了（見運動區）。**10/21 晚上現在是一個乾淨的考試時段，沒有任何已知干擾。**　★ 三個仍然有效的提醒：**①93456 不是你平常上課的教室**，是另外指定的 LECTURE ROOM，今天回系館順路走過去看一眼，成本 3 分鐘；**②19:00–21:00 是晚上的考試，那天白天的課照上**，10/21 整天被佔滿，不要排打工、補教或出遊（Notion 上那天目前只有「刷廁所」）；**③明文要求攜帶計算機與學生證** —— 成大工程類科目通常禁用手機計算機、入場要查證，**今天就把計算機拿出來按一次開機**，沒電現在換還有 8 天緩衝。　★ **複習時段的具體建議（今天就排，不要等）**：10/15（四）2h、10/17（六）2h、10/19（一）2h、10/20（二）3h。挑這四天的理由：10/14 是通識講座、10/16 是倒垃圾日，而**10/17、10/18 是週末整天、天氣預報晴時多雲、台南沒有球賽**，是考前最乾淨的兩塊時間。",
+    "action": {
+     "title": "化工熱力學第一次期中考 19:00-21:00 93456 攜帶計算機與學生證",
+     "cat": "考試",
+     "pri": "高",
+     "date": "2026-10-21"
+    },
+    "calendar": {
+     "title": "化工熱力學第一次期中考 19:00-21:00 93456 帶計算機+學生證",
+     "date": "2026-10-21",
+     "cat": "考試",
+     "pri": "高",
+     "label": "➕ 加入行事曆（10/21 熱力學期中考）"
+    },
+    "deadline": "10/21（三）19:00 · 8 天後"
+   },
+   {
+    "level": "green",
+    "tag": "✅ 結案 · 今天 15:13 公布 · 成大 Moodle 公佈欄 · 課程「1151_程序控制 PROCESS CONTROL（1151_E335500_2）」· 授課教師 王之賢",
+    "title": "✅ 懸案結束：10/28 調課取消 ——「10/28（三）維持原時段上課，不需變動」，你不用再去問同學了",
+    "kind": "不需要動作，但要把結論記住：課表零改動；今天可以把「去問調課結果」從待辦清單上刪掉",
+    "detail": "★ 公告原文：「各位同學好，**10/28（三）維持原時段上課，不需變動。**謝謝大家配合。」（王之賢，2026 年 10 月 12 日 15:13）　★ **這封信直接解決了昨天簡報上那個紅色的、最焦慮的一筆。**昨天的狀況是：Moodle 票選「調課時間調查」已於 10/11（日）23:59 關閉，你不知道結果，簡報要你今天「上課問同學或寄信給助教」，並且警告「如果調課落在週三晚上，會和 10/21 熱力學期中考衝突」。**現在答案出來了，而且是最好的那個答案：沒有調課。**　★ **具體影響，三件事同時成立：****①你的每週固定課表不需要任何改動** —— 原本擔心「有一塊每週固定時間缺口沒被填進課表」，這個缺口不存在；**②10/21（三）晚上不會有程序控制補課**，和熱力學期中考沒有衝突，不需要請假或協調；**③「去問同學調課時段」這件事可以從今天的待辦清單直接刪掉** —— 它已經不是未完成，是不存在了。　★ **但 10/28 這個日期現在要用新的眼光看**：程序控制維持原時段上課（白天），而**同一天晚上 19:00–22:00 是單元操作（二）期中考**（見上面第一筆）。所以 10/28 不是輕鬆的一天，是「白天正常上課＋晚上三小時 closed book 考試」。　★ **保留一個學到的東西（昨天那一課仍然有效）**：那兩封票選提醒信標題寫「投票調課時間調查**已關閉**」，看起來像「活動已結束」，實際上指的是關閉時間點，底下的 `[1 day(s) to go]` 才是真相。**Moodle 提醒信一律看底下的 `to go` 行，不要看標題的動詞。**這次結果剛好無害，但下一次票選未必。",
+    "deadline": "已結案 · 無需行動"
+   },
+   {
+    "level": "amber",
+    "tag": "🩸 今天就開始 · 成大服務團／成大服務團薪傳協會合辦 · 捐血車 10/13–10/15 10:00–18:00 · 光復校區雲平廣場",
+    "title": "🩸 10 月校園捐血 10/13–15 雲平廣場 —— 今天是第一天，就在你上課會經過的地方",
+    "kind": "選擇性：想捐就順路過去，不用預約；贈品清單在下方",
+    "detail": "★ 時間地點：**115 年 10 月 13、14、15 日 10:00–18:00，光復校區雲平廣場。**今天就是第一天。　★ 本月贈品（原信列出）：捐血中心送「**玫瑰天竺葵護手霜**」；搭配麥當勞【熱血專案】提供「**大麥克貴賓券**」（500cc 加倍送）；**首捐**另加贈首捐禮「咖啡券或奶昔零錢包」；服務團薪傳協會提供「**7-11 商品卡**」；校方另備「**NCKU 磁吸小燈箱**」，首次捐血者還可再獲贈品。　★ **一個實際的提醒，和你的考試檔期有關**：捐血後當天建議不要劇烈運動、要多補充水分，部分人會有短暫疲倦感。10/13–15 這三天離 10/21 熱力學期中考還有一週，**如果你要捐，這三天捐沒問題；但如果之後有別的場次排在 10/20 或 10/27，那兩天不要捐。**　★ 這一筆不需要加行事曆 —— 它是「順路就做、不順路就算了」的事，排進行事曆反而會變成壓力。",
+    "deadline": "10/13–10/15（三天）"
+   },
+   {
+    "level": "amber",
+    "tag": "🎤 明天 · 成大圖書館通識講座 · 講者：大成長城企業股份有限公司 張信政 群總經理（成大校友）",
+    "title": "🎤 明天 10/14 通識講座：「大成之道，幸福之基：ESG 與食品安全」—— 化工背景的你，這場比一般通識更有關",
+    "kind": "選擇性：想去就去，但先確認和你 10/14 的課有沒有衝突（原信未寫明確時間）",
+    "detail": "★ 主題：以台南在地企業大成長城為例，談**食品安全的重要性，以及企業在 ESG（環境、社會、公司治理）架構下如何把食安從「衛生法規遵循」變成「永續經營與市場信任的核心基礎」**。主辦單位是成大圖書館，講者為成大校友。　★ **為什麼對你比一般通識講座更值得一提**：ESG 合規、製程安全、品質管理這三件事，在化工系的就業市場上（食品、製藥、石化、材料）幾乎是同一組技能的不同名字。**這是一場「用產業語言講你課堂內容」的演講，而且講者是實際在做這件事的群總經理。**　★ ⚠️ **原信沒有寫明確的開始時間與地點**（只寫「本週三 10/14」）。如果你要去，**今天花一分鐘上圖書館網頁或回信確認時間地點**，不要當天才找。　★ 和考試的關係：10/14 離 10/21 還有 7 天，去一場演講不影響複習進度。但如果它撞到你排的複習時段，**以複習為優先** —— 這一筆的優先度明確低於上面三筆。",
+    "deadline": "明天 10/14（三）· 時間地點待確認"
+   },
+   {
+    "level": "amber",
+    "tag": "📝 有明確截止日 · 成大教務處綜合業務組（黃柔瑄）· 依教育部 115 年 10 月 6 日臺教高 1152203283 號函辦理",
+    "title": "📝 教育部補助「大學校院學生出國參加國際性學術技藝能競賽」—— 11/6（五）16:30 截止，紙本一式六份",
+    "kind": "選擇性，但如果有任何打算就要現在評估：準備時間長、程序麻煩、逾期一律不受理",
+    "detail": "★ 關鍵三行（原信）：**①有意申請者請於 115 年 11 月 6 日（星期五）16:30 前，將申請資料紙本一式六份核章後送至教務處綜合業務組黃小姐**；**②逾期、資料不全、資格不符者不予受理**；**③申請資料（含附件）可編輯電子檔請寄 z11505320@ncku.edu.tw**。相關資訊已公告於綜合業務組網頁。　★ **為什麼放進簡報而不是直接過濾掉**：這是**本窗口內唯一一封有明確硬截止日、而且不是考試**的信。「紙本一式六份＋核章」意味著要跑系辦簽名，**不是前一天能完成的事**；而 11/6 之前你還夾著 10/21 和 10/28 兩場期中考。**如果你完全沒有出國比賽的計畫，今天就當作看過、忘掉它；但如果有一點點想法，今天就要決定，因為可以準備的乾淨時間只有 10/29–11/5 那一週。**　★ 這一筆不建議現在加行事曆（還沒決定要不要做）。真的要做再加，並且要加的是「10/29 開始準備」而不是「11/6 截止」。",
+    "deadline": "11/6（五）16:30 · 24 天後"
+   },
+   {
+    "level": "amber",
+    "tag": "📚 校內資訊 · 成大課程與教學中心 · 115-1 學期課業輔導值班時間調整",
+    "title": "📚 課輔時間異動：物理所吳同學改週一、二；會計所陳同學改週二、五",
+    "kind": "資訊：如果你有預約課輔的習慣，時間變了；沒有的話可略過",
+    "detail": "★ 變動內容：**物理所｜吳同學** 原每週二、五 ➜ **調整為每週一、二**；**會計所｜陳同學** 原每週一、二 ➜ **調整為每週二、五**。最新課輔班表與預約資訊：https://stc.ctld.ncku.edu.tw/#Appointmet　★ **為什麼對你可能有用（即使你沒在用課輔）**：熱力學和單元操作的計算，底層都是物理與微積分。**如果 10/15 的複習時段卡在某一章卡住，課輔是比自己硬撐更快的解法 —— 而物理所那位現在是週一、二值班，剛好落在 10/19、10/20 兩個考前日。**　★ 這封信本身不需要行動，但值得記住「考前卡住時有這條路」。",
+    "deadline": "即時生效"
+   },
+   {
+    "level": "amber",
+    "tag": "🎵 校內藝文 · 成大藝文活動宣傳 · 打擊重奏音樂會《共構・kòng-kóo》",
+    "title": "🎵 10/17（六）19:30 成功廳 打擊重奏音樂會《共構・kòng-kóo》—— 現場領票免費入場，但它撞到你的複習週末",
+    "kind": "選擇性：免費、不用搶票，但 10/17 是我建議的複習日，自己權衡",
+    "detail": "★ 資訊：**演出時間 10/17（六）19:30（入場 19:00–19:30）／地點 成功大學光復校區成功廳／票券 現場領取直接入場**（免費）／更多資訊 https://linktr.ee/nckupercussion。　★ 節目名稱的巧思（原信說明）：台語「打鼓」有個講法是「摃鼓」（kòng-kóo），讀音剛好和中文「共構」相同，而樂團合奏本身就是一種共構。　★ **誠實的權衡**：10/17（六）是我在上面建議的四個熱力學複習時段之一，而且是週末整天那一塊。**但音樂會是 19:30 開始 —— 如果你白天 2 小時複習照做，晚上去聽，兩件事完全不衝突。**免費、在校內、不用搶票、走路可到。**這是本窗口內唯一一件「純粹讓你休息」的事，而考前一週留一個晚上給非課業的東西，通常比硬讀到底有效。**",
+    "deadline": "10/17（六）19:30 · 4 天後"
+   },
+   {
+    "level": "amber",
+    "tag": "📖 課程資料 · 成大 Moodle 公佈欄 · 課程「1151_論孟 THE ANALECTS（1151_B114800）」· 授課教師 陳弘學",
+    "title": "📖 論孟更新授課講義（001論孟授課講義.docx）＋ 另有一場田野研究演講推薦",
+    "kind": "需要動作但只要 30 秒：上 Moodle 把講義下載下來，免得之後找不到",
+    "detail": "★ **論孟講義**：陳弘學老師於 10/12 11:00 在公佈欄上傳「**001論孟授課講義.docx**」（Word 2007 文件）。**今天順手下載**，Moodle 的附件之後常被新版本蓋掉，而且考前再找通常找不到。　★ **另一封（併在這一筆）：演講推薦「邊饒邊研究｜深入菲律賓移工嘻哈世界的田野工作」**，講者徐笙豪，由「場域觀察和現象學方法」課堂舉辦。原信說它不只談研究方法，還會從真實田野經驗談「研究者要怎麼走進一個陌生的社群」。**原信同樣沒有寫明確時間地點**，有興趣要自己查。　★ 兩件都是低優先度。放在這裡的唯一理由是講義要下載 —— **那是會影響你學期成績、而且今天只要 30 秒的事。**",
+    "deadline": "今天順手做（下載講義）"
+   }
+  ],
+  "footnote": "★ **本區資料來源與過濾說明**：以 Gmail 連接器搜尋 `after:2026/10/12 in:inbox -category:promotions -category:social`，取回 9 封，全部落在 10/12 07:00–10/13 07:00 台北時間窗口內，**9 封全部是成大信件，因此本區即為成大專區**，沒有獨立的外部信件段落。**PRO360 過濾 0 封、電子報／促銷／社交排除 0 封**。　★ **今天這一區的結構和前四天完全不同**：前四天是「0 封新信，改為追蹤未結案的事」；**今天是 9 封新信，其中 2 封改寫了你 10 月下半的規劃（一封結案、一封新增），1 封仍然欠著（10/21 熱力學）。**　★ **如果你今天只看三行，就是這三行**：①10/28 調課取消，課表不用改；②10/28 晚上多一場三小時 closed book 期中考；③10/21 熱力學還是沒進 Notion，按第二顆按鈕就好。"
+ },
+ "news": {
+  "window": "過去 48h（10/11 07:10 – 10/13 07:10 台北時間）· 來源 Havana Times（國際簡報彙整）／Euronews／TechCrunch／VentureBeat／Meta 官方 Newsroom／The Motley Fool／Benzinga／NetworkWorld／TechXplore／The Daily Star／GovTech／MentalHealthDaily／中央社 CNA／NOWnews／Yahoo 奇摩運動／自由體育／FOX Sports／NiEW／Pollstar／Billboard JAPAN · 每則附原始連結 · 英文摘要約 100 字、中文僅一行副標",
+  "groups": [
+   {
+    "label": "頭條",
+    "items": [
+     {
+      "en": "Riyadh's main airport is hit on two consecutive days, flights are cancelled and the city's schools move online",
+      "zh": "利雅德國際機場連兩天遇襲 —— 首日飛彈攻擊至少 12 死、300 多人受傷，次日客運航廈再遭擊中 1 死 11 傷，沙烏地取消航班、首都學校改遠距上課",
+      "summary": "A Houthi missile struck a passenger terminal at Riyadh's King Khalid International Airport on Sunday, killing one person and wounding eleven. The strike on the same terminal a day earlier killed at least twelve and injured more than three hundred. Saudi authorities cancelled flights and moved Riyadh schools to distance learning. Houthi-aligned media report Saudi warplanes bombed Sana'a airport and other sites in Yemen in response. The escalation matters because Gulf aviation and export infrastructure is now being hit directly rather than merely threatened, which is what transmits the conflict into oil and freight prices.",
+      "source": "Havana Times（國際簡報彙整）／Euronews",
+      "url": "https://havanatimes.org/news/international-news-briefs-for-monday-october-12-2026/"
+     },
+     {
+      "en": "Trump announces an 'energy ceasefire' for Ukraine; Russia bombs a Kharkiv power plant hours later and Zelensky says the deal was news to him",
+      "zh": "川普在 Truth Social 宣布對烏「能源停火」，俄軍數小時後轟炸哈爾科夫電廠；澤倫斯基稱「我也是看新聞才知道」，歐盟批評川普普丁協議「令人擔憂」並表明對俄制裁continue",
+      "summary": "Trump announced an energy ceasefire on Truth Social, after which Russia bombed a power plant in Kharkiv. Zelensky said the announcement was news to him and offered to hold elections and halt strikes on Russian energy sites if Putin agrees to a sixty-day ceasefire. Trump separately said it is time for Ukraine to get a new president. European capitals say they were blindsided again, called the Trump-Putin understanding concerning, and confirmed sanctions on Russia will continue. Russian attacks killed at least six civilians on Sunday, including three at a Kharkiv grocery store.",
+      "source": "Havana Times／Euronews",
+      "url": "https://www.euronews.com/video/2026/10/12/latest-news-bulletin-october-12th-2026-evening"
+     },
+     {
+      "en": "The United States sanctions the International Criminal Court hours after a former ICC judge wins the Nobel Peace Prize",
+      "zh": "美國再度制裁國際刑事法院 —— 時間點就在前 ICC 法官 Navi Pillay 獲頒諾貝爾和平獎數小時後；累計已制裁 17 名法官與官員，ICC 呼籲 125 個成員國出面捍衛",
+      "summary": "Washington imposed new sanctions on the International Criminal Court only hours after Navi Pillay, a former ICC judge, was awarded the Nobel Peace Prize. The United States has now sanctioned seventeen ICC judges and officials. The court called on its one hundred and twenty-five member states to defend it. The sequencing is the story: a prize intended to confer legitimacy was met within the same news cycle by measures designed to strip it, which tells you the dispute is about whether the institution itself is recognised, not about any single case before it.",
+      "source": "Havana Times",
+      "url": "https://havanatimes.org/news/international-news-briefs-for-monday-october-12-2026/"
+     },
+     {
+      "en": "Mass protests against Modi's government sweep Delhi; thousands detained and Rahul Gandhi marches on the Supreme Court",
+      "zh": "印度反莫迪政府示威席捲德里 —— 警方週六拘留數千人，包含青年主導「蟑螂人民黨」三名領袖（週日獲釋、條件是一年內不得破壞和平），拉胡爾甘地率隊遊行至最高法院",
+      "summary": "Protests against Prime Minister Modi's government swept Delhi over the weekend. Police detained thousands on Saturday, including three leaders of the youth-led Cockroach Janta Party, whom a magistrate released on Sunday on condition they not breach the peace for one year. Rahul Gandhi is leading a march toward the Supreme Court. The detail worth holding onto is the release condition: a one-year peace bond functions as a pre-emptive ban on further organising, which is a quieter instrument than prosecution and harder to contest.",
+      "source": "Havana Times",
+      "url": "https://havanatimes.org/news/international-news-briefs-for-monday-october-12-2026/"
+     },
+     {
+      "en": "North Korea fires several ballistic missiles into the Sea of Japan",
+      "zh": "北韓向日本海發射多枚彈道飛彈 —— 同日歐洲另有兩則值得記：法國巴黎最老室內市集紅孩兒市場夜間大火燒毀、諾貝爾經濟學獎由美國學者 Hall 與 Woodford 共同獲得",
+      "summary": "North Korea fired several ballistic missiles into the Sea of Japan, according to the day's bulletins. The same cycle carried two European items worth noting: an overnight fire gutted the Marche des Enfants Rouges, the oldest covered food market in Paris, and the Nobel Prize in economics went to two Americans, Hall and Woodford. Elsewhere a headmaster was shot at a school in southern France and a fourteen-year-old was arrested, and Raphael Glucksmann won the French left's presidential primary.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/video/2026/10/12/latest-news-bulletin-october-12th-2026-evening"
+     }
+    ]
+   },
+   {
+    "label": "科技",
+    "items": [
+     {
+      "en": "Meta releases Muse Wonder and Muse Wonder Full, its first frontier-class models, and claims the lead on long-term memory",
+      "zh": "Meta 發表首批前沿模型 Muse Wonder 與 Muse Wonder Full —— 自稱分數對標 GPT-6 Astra 與 Fable 5.1，並在記憶與持續學習基準 MemoryBench 上勝過 Fable、Opus、Astra",
+      "summary": "Meta's Superintelligence Lab released Muse Wonder and Muse Wonder Full on October 12, its first frontier-class models, both larger and stronger on complex work such as coding than the lightweight Muse Spark. Meta's model card claims scores comparable to GPT-6 Astra and Fable 5.1, and says Wonder beats Fable, Opus and Astra on MemoryBench, a memory and continual-learning benchmark. Wonder is served through the Meta Model API; Wonder Full is restricted to Muse Code subscribers. Training ran at Meta's Prometheus data centre in central Ohio.",
+      "source": "TechCrunch／VentureBeat／Meta Newsroom",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/"
+     },
+     {
+      "en": "Memory stocks fall together even as Samsung warns of shortages that will push prices up through 2026",
+      "zh": "記憶體股同步下跌 —— SanDisk 跌逾 6%、美光與 SK 海力士同步走弱，理由是「記憶體競爭疑慮」；但同一週 Samsung 才警告 2026 年缺貨將推升全產業價格，兩個訊號方向相反",
+      "summary": "Micron, SK Hynix and SanDisk all fell on October 12, with SanDisk down more than six percent on what coverage described as memory competition concerns. Memory weakness was the main drag on the Nasdaq composite that day. The contradiction is worth sitting with: in the same period Samsung warned that memory shortages will drive an industry-wide price surge through 2026, and SK Hynix has said tightness may persist beyond 2030. Prices and equities are telling opposite stories, which usually means the market is pricing competitive share loss rather than end demand.",
+      "source": "Benzinga／NetworkWorld／The Motley Fool",
+      "url": "https://www.benzinga.com/markets/tech/26/10/62260979/micron-sk-hynix-sandisk-drop-in-sync-whats-happening"
+     },
+     {
+      "en": "AI optical and analog names are sold hard as investors pull back from the AI trade",
+      "zh": "AI 光通訊與類比族群重摔 —— Lumentum 跌近 10%、抹掉前一週全部漲幅，Semtech 跌 10.15%、Marvell 跌 3.42%；不是個別公司壞消息，是資金整體從 AI 概念股撤出",
+      "summary": "Lumentum Holdings fell almost ten percent on October 12, erasing the previous week's gains, and Semtech dropped just over ten percent, while Marvell Technology lost three and a half percent. Coverage attributed the moves to investors pulling back from AI stocks rather than to company-specific news. This is the second-order effect of the early-October report that OpenAI's revenue is running roughly twenty billion dollars below prior projections: the selling has rotated from the headline names into the optical, analog and interconnect suppliers one layer down.",
+      "source": "The Motley Fool／TechCrunch／CNN Business",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/10/12/stock-market-today-oct-12-dow-gains-as-memory-stocks-weigh-on-nasdaq/"
+     }
+    ]
+   },
+   {
+    "label": "運動",
+    "items": [
+     {
+      "en": "CTBC Brothers beat Uni-Lions 8-2 in the decider and reach the Taiwan Series for a third straight year, setting up the first ever Dragons-Brothers final",
+      "zh": "中信兄弟 G4 以 8:2 擊敗統一獅、連 3 年闖進台灣大賽 —— 對手是味全龍，史上首次「龍象爭霸」，10/17 開打、7 戰全部排在台北大巨蛋。★ 對你的直接意義：台南不會有台灣大賽賽事，10/21 晚上的交通風險解除",
+      "summary": "CTBC Brothers won the decisive fourth game of the CPBL playoff challenge series 8-2 over the Uni-Lions, reaching the Taiwan Series for a third consecutive year. They face the Wei Chuan Dragons in what is the first Dragons-versus-Brothers final in league history, starting October 17, with all seven potential games scheduled at the Taipei Dome rather than split between home parks. For a reader in Tainan the practical consequence is that the Uni-Lions' elimination removes any prospect of Taiwan Series traffic around the Tainan ballpark in late October.",
+      "source": "中央社 CNA／NOWnews／Yahoo 奇摩運動",
+      "url": "https://www.cna.com.tw/news/aspt/202610120299.aspx"
+     },
+     {
+      "en": "The four-game Lions-Brothers series drew 81,853 fans, a record for the CPBL challenge round",
+      "zh": "獅象大戰 4 場打好打滿、累計 81,853 人進場，刷新中職季後挑戰賽紀錄 —— 平均每場超過 2 萬人，統一獅曾在系列賽 0:2 落後後扳平、最終仍倒在生死戰",
+      "summary": "The Uni-Lions and CTBC Brothers went the full four games, drawing a cumulative 81,853 spectators and setting a new attendance record for the CPBL playoff challenge series, an average above twenty thousand per game. The Lions had fought back from a two-game deficit to level the series and force Monday's decider, which would have been only the second comeback from 0-2 in challenge-series history had they completed it. Blake started for the Lions against the Brothers' Cheng Hao-chun in the decider.",
+      "source": "Yahoo 奇摩運動／自由體育",
+      "url": "https://tw.sports.yahoo.com/news/%E4%B8%AD%E8%81%B7%E5%AD%A3%E5%BE%8C%E8%B3%BD-%E7%8D%85%E8%B1%A1%E5%A4%A7%E6%88%B04%E5%A0%B4%E6%89%93%E5%A5%BD%E6%89%93%E6%BB%BF-%E7%B4%AF%E8%A8%888%E8%90%AC1853%E4%BA%BA%E9%80%B2%E5%A0%B4%E5%88%B7%E6%96%B0%E6%8C%91%E6%88%B0%E8%B3%BD%E7%B4%80%E9%8C%84-135307943.html"
+     },
+     {
+      "en": "MLB's championship rounds open: Brewers lead the Dodgers 1-0 in the NLCS, with the ALCS between Rays and Guardians also under way",
+      "zh": "MLB 聯盟冠軍賽開打 —— 釀酒人 10/11 G1 以 2:1 小勝道奇、系列賽 1:0 領先，G2 由山本由伸對上 Logan Henderson；美聯冠軍賽光芒對守護者同步進行。★ 兩場都在台北時間 10/13 上午進行中，結果本期尚未確定",
+      "summary": "The Milwaukee Brewers lead the Los Angeles Dodgers one game to none in the National League Championship Series after a 2-1 win in game one on October 11. Game two was scheduled for nine in the evening Eastern time on October 12, pairing Yoshinobu Yamamoto, who carried a 1.29 earned run average into the start, against Logan Henderson at 1.80. The American League Championship Series between the Tampa Bay Rays and Cleveland Guardians opened the same day. Both games were still in progress at the time this briefing was generated.",
+      "source": "FOX Sports／CBS Sports／ESPN",
+      "url": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/"
+     }
+    ]
+   },
+   {
+    "label": "教育心理",
+    "items": [
+     {
+      "en": "US universities are abandoning AI detectors, concluding the tools create more injustice than they prevent",
+      "zh": "美國大學開始放棄 AI 偵測器 —— 面對「作業代寫產業化」，校方發現偵測工具誤判率高、對非母語學生特別不利，與其繼續依賴，不如改設計評量方式",
+      "summary": "American universities are moving away from AI detection software as they grapple with what reporting calls homework scams. The reasoning is that detectors produce false positives at rates institutions cannot defend in an academic-integrity hearing, and that they penalise non-native English writers disproportionately. Separately, researchers have flagged the scale of AI misuse in higher education as very serious. The emerging institutional answer is to redesign assessment, through supervised work and oral defence, rather than to police the text after the fact.",
+      "source": "TechXplore／The Daily Star／GovTech",
+      "url": "https://techxplore.com/news/2026-10-grappling-homework-scams-universities-shun.html"
+     },
+     {
+      "en": "Unclear institutional AI rules are linked to more academic cheating, not less",
+      "zh": "研究指出：AI 使用規則「寫得不清楚」的課程，學生違規使用率反而更高 —— 不是學生更想作弊，而是模糊地帶讓人自行解釋成允許。對照組是規則明確的課程，違規率明顯較低",
+      "summary": "A study reported in early October links vague institutional and course-level rules on artificial intelligence to higher rates of academic misconduct among college students. The mechanism is not increased willingness to cheat but ambiguity: where a syllabus does not say what is permitted, students resolve the uncertainty in their own favour and genuinely believe they have complied. Courses with explicit, specific statements of allowed use show markedly lower violation rates. The practical implication for a student is to get the rule in writing before using a tool, not after.",
+      "source": "MentalHealthDaily／EdSource",
+      "url": "https://mentalhealthdaily.com/2026/10/09/ai-academic-cheating-college-students-unclear-ai-rules"
+     },
+     {
+      "en": "Greece moves to ban social media for under-15s",
+      "zh": "希臘將立法禁止 15 歲以下使用社群媒體 —— 成為歐洲在青少年心理健康與螢幕時間議題上立法最激進的國家之一，同日布魯塞爾也舉行大規模氣候遊行",
+      "summary": "Greece is introducing a ban on social media use for children under fifteen, according to the day's European bulletins, placing it among the most interventionist European states on the question of adolescent screen time and mental health. The policy direction follows a broader shift in which governments have stopped treating platform access as a parental matter and begun legislating an age floor directly. The open question such bans leave unanswered is enforcement: age verification at national scale is the part that has defeated comparable measures elsewhere.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/video/2026/10/12/latest-news-bulletin-october-12th-2026-evening"
+     }
+    ]
+   },
+   {
+    "label": "產業",
+    "items": [
+     {
+      "en": "The frontier-model price band is now crowded: Muse Wonder lands at $4 in and $20 out, deliberately level with Opus 5.5 and GPT-6 Sol",
+      "zh": "前沿模型定價戰白熱化 —— Meta Muse Wonder 定在每百萬 token 輸入 4 美元、輸出 20 美元，刻意與 Claude Opus 5.5、GPT-6 Sol 同一價位帶；差異化不打價格，改打「主動記憶」",
+      "summary": "Meta priced Muse Wonder at four dollars per million input tokens and twenty per million output, which coverage describes as roughly level with Opus 5.5 and GPT-6 Sol. Matching rather than undercutting is the signal: Meta is not buying share on price but competing on capability, and the capability it chose to lead with is active memory, the retention and synthesis of user-supplied information over long periods. Wonder Full, the stronger variant, is withheld from the API and reserved for Muse Code subscribers, which keeps the best model inside Meta's own product.",
+      "source": "TechCrunch／VentureBeat／Meta Newsroom",
+      "url": "https://venturebeat.com/technology/metas-new-muse-wonder-and-muse-wonder-full-models-achieve-frontier-performance-but-only-the-weaker-one-is-available-via-api"
+     },
+     {
+      "en": "The OpenAI revenue shortfall is still setting the tone for AI equities a week later",
+      "zh": "OpenAI 營收缺口仍在發酵 —— 10/08 報導稱其營收比先前預估少約 200 億美元，當天引爆那斯達克與晶片股賣壓；一週後的 10/12，那斯達克仍跌 0.44%，而道瓊同日上漲 0.38%",
+      "summary": "The report in early October that OpenAI's revenue is running about twenty billion dollars below prior projections remains the organising fact for AI equities. It drove chipmakers and the Nasdaq 100 lower on October 8, and the pattern was still visible on October 12, when the Nasdaq composite fell 0.44 percent while the Dow Jones rose 0.38 percent. The divergence between the two indices on the same day is the cleanest available measure of how narrowly the selling is targeted at AI capital-expenditure exposure rather than at equities generally.",
+      "source": "CNN Business／TechCrunch／Yahoo Finance",
+      "url": "https://www.cnn.com/2026/10/08/investing/openai-nasdaq-stocks"
+     },
+     {
+      "en": "Memory supply is tightening while memory shares fall, and the quantum names moved only with the market",
+      "zh": "記憶體基本面與股價背道而馳 —— Samsung 警告 2026 缺貨將推升全產業價格、SK 海力士稱短缺可能延續到 2030 年之後，但 10/12 記憶體股同步下跌。★ 量子運算：本窗口內沒有可交叉確認的重大進展，清單內 IONQ、QBTS、RGTI 等僅隨大盤波動",
+      "summary": "Samsung has warned that memory shortages will drive an industry-wide price surge through 2026, and SK Hynix has suggested the tightness may last beyond 2030, yet Micron, SK Hynix and SanDisk all fell together on October 12. When contract prices and share prices diverge this cleanly, the market is usually repricing competitive position rather than demand. On quantum computing, no verifiable milestone surfaced inside this forty-eight-hour window; the quantum names on the watchlist moved with the broad market and nothing company-specific was confirmed.",
+      "source": "NetworkWorld／Astute Group／Quantum Computing Report",
+      "url": "https://www.networkworld.com/article/4113772/samsung-warns-of-memory-shortages-driving-industry-wide-price-surge-in-2026.html"
+     }
+    ]
+   },
+   {
+    "label": "追星",
+    "items": [
+     {
+      "en": "Fujii Kaze plays Kaohsiung National Stadium on October 31, still the only Taiwan date by anyone on your list",
+      "zh": "藤井風 Prema World Tour 10/31 高雄國家體育場 —— 18 天後，仍是清單 16 組歌手裡唯一有台灣場的一位；巡演接著是福岡 11/14–15、大阪 12/10・12–13、東京巨蛋 12/19–20、曼谷 12/26，首爾 2027 年 1 月，香港場已取消",
+      "summary": "Fujii Kaze's Prema World Tour reaches Kaohsiung National Stadium on October 31, 2026, a date added after the original routing was announced. It is eighteen days away and remains the only Taiwan show by any of the sixteen artists on the tracking list. The tour then plays Mizuho PayPay Dome Fukuoka on November 14 and 15, Kyocera Dome Osaka on December 10 and 12 to 13, Tokyo Dome on December 19 and 20, and Bangkok on December 26, with Seoul following in January 2027. The Hong Kong date was cancelled.",
+      "source": "NiEW／CDJapan／Bella.tw",
+      "url": "https://niewmedia.com/en/news/2604fujiikaze/",
+      "spotify": "https://open.spotify.com/search/Fujii%20Kaze"
+     },
+     {
+      "en": "YOASOBI announce a ten-city Asia dome and stadium tour for 2026-27 that includes Taipei, Hong Kong, Seoul and Singapore",
+      "zh": "YOASOBI 宣布「ASIA 10-CITY DOME & STADIUM TOUR 2026-2027」—— 日本 5 城（大阪、名古屋、福岡、札幌、東京）＋海外台北、首爾、香港、新加坡，另有 1 城待公布。★ 有台北場但日期與售票資訊都還沒出來，這是接下來最該盯的一筆",
+      "summary": "YOASOBI have announced the ASIA 10-CITY DOME & STADIUM TOUR 2026-2027, spanning five Japanese cities (Osaka, Nagoya, Fukuoka, Sapporo and Tokyo) and four confirmed overseas stops in Taipei, Seoul, Hong Kong and Singapore, with one further overseas city still to be named. No individual dates and no ticket-sale information have been published; the announcement says only that more details are coming. Given that dome and stadium shows in Taipei sell out on the first on-sale day, the actionable step is to watch for the date announcement rather than the show itself.",
+      "source": "NiEW",
+      "url": "https://niewmedia.com/en/news/2512yoasobi/",
+      "spotify": "https://open.spotify.com/search/YOASOBI"
+     },
+     {
+      "en": "Mrs. GREEN APPLE's sixth album is out and their first arena tour in three years is under way, with Pollstar calling them the band redefining the scale of Japanese touring",
+      "zh": "Mrs. GREEN APPLE 第 6 張原創專輯已於 9/30 發行，三年來首次 arena 巡迴同步啟動 —— Pollstar 10/06 專文稱其正把日本演唱會產業推上新量級（arena 與 stadium 同時填滿）；目前公布場次集中在日本，尚無台灣場",
+      "summary": "Mrs. GREEN APPLE released their sixth original full-length album on September 30 and launched their first arena tour in three years alongside it. Pollstar ran a feature on October 6 describing the band as dominating arenas and stadiums simultaneously and elevating Japanese touring to a new scale, which is the industry framing rather than fan framing and is why it is worth noting here. Announced dates remain concentrated in Japan; no Taiwan show has been confirmed, so this is a watch item rather than an action item.",
+      "source": "Pollstar／Billboard JAPAN／Anime News Network",
+      "url": "https://news.pollstar.com/2026/10/06/mrs-green-apple-dominates-arenas-stadiums-elevating-japanese-touring-to-new-heights/",
+      "spotify": "https://open.spotify.com/search/Mrs.%20GREEN%20APPLE"
+     },
+     {
+      "en": "No new tour, album or merchandise announcements inside the window for the remaining thirteen artists on the list",
+      "zh": "清單其餘 13 組本窗口無新公告 —— Yuuri、YUIKA、Ado、King Gnu、back number、LiSA、Official髭男dism、Aimer、米津玄師、Vaundy、tuki.、RADWIMPS、あいみょん 在 10/11–10/13 這 48 小時內沒有可確認的巡演、專輯或周邊消息",
+      "summary": "For the other thirteen artists on the tracking list - Yuuri, YUIKA, Ado, King Gnu, back number, LiSA, Official HIGE DANdism, Aimer, Kenshi Yonezu, Vaundy, tuki., RADWIMPS and Aimyon - no tour, album or merchandise announcement could be confirmed inside the forty-eight-hour window. This is reported explicitly rather than omitted so that an empty section is not mistaken for a failed lookup. The three live items above are therefore the complete set: one Taiwan show in eighteen days, one Taipei date pending, one Japan-only tour in progress.",
+      "source": "Billboard JAPAN／NiEW／CDJapan（清單逐一查核）",
+      "url": "https://www.billboard-japan.com/",
+      "spotify": "https://open.spotify.com/search/J-POP"
+     }
+    ]
+   }
+  ]
+ },
+ "market": {
+  "asOf": "台股＝**2026/10/12（週一）13:30 收盤**（連休三天後的第一個交易日）；美股＝**2026/10/12（週一）收盤**（美國債市因哥倫布日休市，股市正常交易）。★ **今天這一區終於是「真正的新資料」** —— 過去三天的簡報都停在台股 10/08、美股 10/09，因為中間是國慶補假與週末。**現在兩邊都更新到同一天 10/12，而且兩邊都有故事。**",
+  "highlight": "★★★ 今天這一區只有三件事：**①台股開低走高、守住 49,300 —— 這是今天最值得記的一筆。**早盤因台積電 ADR 連跌與 OpenAI 營收消息一度大跌 544 點、下探 48,947 點，上演「4 萬 9 保衛戰」，**但終場只跌 11.48 點收 49,301.96（-0.02%）**，幾乎抹平全部跌幅。拉抬的是金融股（富邦金、台新新光金控、中信金、國泰金），台積電收 2,540 元、僅跌 10 元（-0.39%）。**休市三天累積的恐慌，在一個交易日內被消化掉了。**　**②美股同日分化得非常乾淨**：道瓊 +0.38% 收 51,851、S&P 500 -0.06% 收 7,807、那斯達克 -0.44% 收 27,246。**同一天、同一個市場，傳產漲、科技跌 —— 這是「資金從 AI 撤出」最清楚的一次呈現，不是全面下跌。**　**③今天 ≥5% 的異動全部在清單外，而且全部集中在 AI 供應鏈的第二層**：Semtech -10.15%、Lumentum -9.9%、SanDisk -6%，反向則是 Figs +12%。**清單內 50 餘檔，今天沒有一檔確認 ≥5%** —— 這本身就是訊息：你的清單偏大型權值，波動被稀釋了。",
+  "note": "★ 開盤前要分清楚的三條線：　**①【台股：10/12 是「驚嚇但沒受傷」的一天，不要只看收盤數字】**加權指數收 49,301.96、**跌 11.448 點（-0.02%）**。但盤中最低下探 48,947 點、一度跌 544 點 —— **如果你只看收盤，會完全錯過今天真正發生的事。**觸發點是週末美股 AI 殺盤（OpenAI 營收傳低於預期、費半單日重摔約 3.39%、台積電 ADR 兩天累跌約 4%），台指期夜盤一度掉到 48,705。**開盤反映了全部壞消息，然後買盤把它收回來。**台積電開 2,510 元、盤中最低見 2,520 元附近，終場收 2,540 元、跌 10 元（-0.39%）。成交值：財報狗記為約 **8,894.58 億元**、經濟日報報導記為約 **8,439 億元**，**兩個來源不一致，請以下單平台為準**（前一交易日約 9,201.72 億元，無論採哪個數字都是量縮）。　**②【台股盤面：今天是「金融撐盤、電子分化」，和 10/08 完全相反】**拉抬指數的是**富邦金、台新新光金控、中信金、國泰金**等金融權值 —— 而 10/08 金融股才是當天最弱（-1.68%）。**漲且量大**：大立光、國巨、世芯-KY、台光電、華通、日月光投控、鴻勁、長榮、欣銓（**台光電、日月光、華通、世芯-KY 都在你的清單內，而且是逆勢上漲**）。**弱且量大**：聯發科、南亞、台達電、南亞科、台塑、創意、聯電、鴻海、金像電、臻鼎-KY、友達（**聯發科、台達電、南亞科、創意、鴻海、金像電 都在清單內**）。★ **可以拿去用的一句話：你的清單今天內部打對台 —— CCL／封測／ASIC 設計（台光電、日月光、世芯）走強，而記憶體／散熱電源／AI 伺服器鏈（南亞科、台達電、鴻海、金像電）走弱。這和美股「記憶體與光通訊被殺、傳產與金融被買」是同一個方向。**另有報導提及長榮、萬海、台星科等出現漲停，但**未確認為收盤結果，列為示意**。　**③【美股：分化比漲跌更重要】**道瓊 +0.38%（51,851）、S&P 500 -0.06%（7,807）、那斯達克 -0.44%（27,246）。類股上**通訊服務與民生防禦領漲、科技落後**。黃金跌 0.64% 至 4,167.56 美元，10 年期公債殖利率升 0.01 個百分點至 5.24%（**債市當天休市，殖利率變動參考價值較低**）。個股：**Meta +3.4%**（發表 Muse Wonder 前沿模型，見科技區）、**Salesforce 因分析師調升評等走高**、**NVIDIA -1.3%**、**Marvell -3.42%**、**比特幣 -1.3%**。　★ **今天這一區唯一需要你動手的事：沒有。**股市區今天是背景資訊 —— **真正要你動手的三件事全部在「信件」與「行程」區（兩場期中考＋四個複習時段）。**如果今天時間有限，**先按那兩顆行事曆按鈕，再回來看這一區。**",
+  "indices": [
+   {
+    "market": "TW",
+    "name": "加權指數 TAIEX",
+    "value": "49,301.96",
+    "change": "-0.02",
+    "note": "10/12（一）13:30 收盤 · **跌 11.448 點、-0.02%** · **盤中最低 48,947 點、一度跌 544 點，終場幾乎收復全部跌幅** —— 這是今天台股最重要的事實。成交值：財報狗約 8,894.58 億元／經濟日報約 8,439 億元（**兩來源不一致**），前一交易日約 9,201.72 億元 · 拉抬者為金融權值（富邦金、台新新光金控、中信金、國泰金）· 台積電收 2,540 元（-0.39%）· ★ **休市三天 + 週末美股 AI 殺盤的壞消息，在開盤 9:00 一次反映完畢，然後被買盤吃掉。這代表 49,000 這一帶目前有實質支撐。**"
+   },
+   {
+    "market": "TW",
+    "name": "元大台灣50 (0050)",
+    "value": "約 114.8（示意）",
+    "change": "-0.13",
+    "note": "10/12（一）**跌 0.13%**（來源：ETF 盤後彙整）。★ **本次查詢未能取得 0050 的確認收盤價**，表上的「約 114.8」是以 10/08 收盤 114.95 元搭配 -0.13% 推算，**屬示意，請以下單平台為準**。折溢價：對 NAV 約 +0.29%。★ 值得注意：**0050 跌 0.13%、略遜於加權指數的 -0.02%**，因為它權重集中在台積電（-0.39%）、鴻海（弱）、聯發科（弱），而今天撐盤的金融股在 0050 裡的權重遠低於它們。**0050 今天是「電子的鏡子」，不是大盤的鏡子。**"
+   },
+   {
+    "market": "TW",
+    "name": "元大高股息 (0056)",
+    "value": "約 58.6（示意）",
+    "change": "0.51",
+    "note": "10/12（一）**漲 0.51%**（來源：ETF 盤後彙整）。★ **未取得確認收盤價**，「約 58.6」由 10/08 收盤 58.30 元搭配 +0.51% 推算，**屬示意**。★ **今天 0056 和 0050 的方向相反，這不是雜訊，是結構**：0056 成分偏金融與傳產，而今天正是金融股（富邦金、台新新光金控、中信金、國泰金）把指數從低點拉回來的那一天。**10/08 金融最弱、0056 相對抗跌；10/12 金融最強、0056 直接收漲。兩天連起來看，你手上這兩檔 ETF 是一組相當乾淨的對沖。**全台 ETF 當日 53 檔漲、3 檔平、30 檔跌。"
+   },
+   {
+    "market": "US",
+    "name": "道瓊工業指數 Dow Jones",
+    "value": "51,851",
+    "change": "0.38",
+    "note": "10/12（一）收盤 **51,851、+0.38%** —— **三大指數裡唯一上漲的一個。**領漲類股為通訊服務與民生防禦（consumer defensive），科技落後。★ 道瓊成分偏傳統產業與金融，科技權重低，**所以它上漲、那斯達克下跌，不是矛盾，是同一件事的兩面：資金在 AI 與非 AI 之間換邊。**這一天的道瓊與那斯達克落差達 0.82 個百分點。"
+   },
+   {
+    "market": "US",
+    "name": "S&P 500",
+    "value": "7,807",
+    "change": "-0.06",
+    "note": "10/12（一）收盤 **7,807、-0.06%**，幾乎收平。★ S&P 500 同時包含傳產與科技，**所以它的「幾乎不動」正好是道瓊 +0.38% 與那斯達克 -0.44% 相互抵銷的結果。**如果你只看 S&P 500，會以為這天什麼都沒發生 —— **實際上這天內部換手劇烈。**★ 本週焦點轉向財報季開跑與通膨數據，這是接下來幾天的主要變數。"
+   },
+   {
+    "market": "US",
+    "name": "那斯達克綜合指數 Nasdaq Composite",
+    "value": "27,246",
+    "change": "-0.44",
+    "note": "10/12（一）收盤 **27,246、-0.44%** —— **三大指數最弱，而且原因很單一：記憶體與 AI 供應鏈。**拖累者包含 SanDisk（-6% 以上）、美光、SK 海力士同步走弱，以及 Lumentum（-9.9%）、Semtech（-10.15%）、Marvell（-3.42%）。NVIDIA -1.3%。唯一的大型逆勢是 **Meta +3.4%**（發表 Muse Wonder）。★ **這是 10/08「OpenAI 營收傳低於預期約 200 億美元」那條新聞的第二波 —— 賣壓已經從主角（NVDA、台積電）轉移到第二層供應商（光通訊、類比、記憶體）。**"
+   },
+   {
+    "market": "US",
+    "name": "Invesco QQQ Trust (QQQ)",
+    "value": "未取得（示意）",
+    "change": "-0.44",
+    "note": "★ **本次查詢未能取得 QQQ 的確認收盤價與漲跌幅。**表上的 -0.44% 是**直接沿用那斯達克綜合指數的漲跌幅作為示意**，並非 QQQ 的實際數字 —— **QQQ 追蹤的是那斯達克 100（非綜合指數），兩者通常有數十個基點的差異，尤其在今天這種「大型科技分化、Meta 大漲而記憶體重摔」的盤面下差距可能更大。請以下單平台為準。**★ 方向可以確定（下跌），幅度不可引用。"
+   }
+  ],
+  "movers": [
+   {
+    "name": "⚠️ 先說清楚今天這一區的資料基準（和前三天完全不同）",
+    "ticker": "—",
+    "change": "0",
+    "price": "台股＝2026/10/12（一）收盤異動；美股＝2026/10/12（一）收盤",
+    "reason": "★ **今天和前三天最大的差別：異動名單是全新的。**過去三天這一區一直停在台股 10/08、美股 10/09，因為中間沒有任何交易日。**今天兩邊都更新到 10/12，名單整個換掉。**　★ **今天的核心結論一句話**：**≥5% 的異動全部落在清單外，而且全部集中在「AI 供應鏈第二層」（光通訊、類比、NAND）—— 清單內 50 餘檔今天沒有一檔確認 ≥5%。**　★ 仍需標示的資料限制：**①台股個股的確認收盤漲跌幅本次仍未全面取得**，下方台股異動以「漲跌且量大」的公開報導分類為主，**未逐檔換算百分比者標示為示意**；**②報導提及長榮、萬海、台星科等漲停，但來源為相關新聞連結標題、未確認為收盤結果，列為示意**；**③0050、0056 僅取得漲跌幅、未取得收盤價，表上價格為推算示意**；**④QQQ 完全未取得，漲跌幅沿用那斯達克綜合指數，僅供方向參考。****全部請以下單平台為準。**　★ **今天這一區不需要你做任何動作。**真正要動手的三件事在「信件」與「行程」區。"
+   },
+   {
+    "name": "🇺🇸 清單外最熱①　Semtech —— 今天全市場最大跌幅，類比晶片被當成 AI 代理股賣掉",
+    "ticker": "SMTC",
+    "change": "-10.15",
+    "price": "單日 -10.15%",
+    "reason": "**這是 10/12 全市場確認的最大單日跌幅，而且沒有任何公司個別壞消息。**報導把它和 Lumentum 歸在同一個原因：**投資人整體從 AI 概念股撤出。**　★ 為什麼放在最上面：**Semtech 不在你的清單內，但它說明的事情直接適用於你的清單。**Semtech 做的是類比與連接晶片 —— 在 AI 資料中心裡屬於「第二層供應商」，不是 NVIDIA 那種主角，而是主角的上下游。**當市場開始殺第二層供應商，意思是「對 AI 資本支出的懷疑」已經從情緒變成對供應鏈營收的實際下修預期。**　★ **對照你的清單該怎麼看**：你的美股清單裡性質最接近 Semtech 的是 **Marvell（MRVL，資料中心、網通、ASIC）**，今天 **-3.42%**；台股裡性質最接近的是 **台光電（2383）、金像電（2368）、欣興（3037）** 這些 PCB／CCL 標的。**而今天台光電反而是「漲且量大」—— 這個分歧值得記住：美股在殺第二層，台股的第二層卻在漲。**兩者不可能長期背離，接下來幾天看哪一邊先收斂。"
+   },
+   {
+    "name": "🇺🇸 清單外最熱②　Lumentum —— 跌近 10%，一天抹掉前一週全部漲幅",
+    "ticker": "LITE",
+    "change": "-9.90",
+    "price": "單日約 -9.9%（報導稱 almost 10%）",
+    "reason": "**Lumentum 做 AI 資料中心的光通訊元件（光收發模組、雷射），是 AI 建設最直接的受益者之一。今天跌近 10%，而且報導明確寫「erasing the prior week's gains」—— 一天抹掉一週。**　★ **這一筆比 Semtech 更值得想，因為它是「漲回去又跌下來」**：前一週它因為 AI 題材大漲，這一週因為同一個題材反轉而全數吐回。**這種「一週內來回」的型態，通常代表籌碼是短線資金而不是長線持有者 —— 也就是說，這個族群的價格現在對新聞的敏感度遠高於對基本面的敏感度。**　★ **實際用法**：你的清單沒有光通訊純股，但 **華通（2313，PCB、衛星通訊概念）、欣興（3037，載板）** 在 AI 資料中心供應鏈上的位置與它相鄰。**如果你在觀察這一類標的，今天學到的是「它們的波動幅度是大型權值股的 5–10 倍」—— 風險標示上你的清單把華通列為「高」、欣興列為「中高」，今天的美股對照證明這個標示是對的。**"
+   },
+   {
+    "name": "🇺🇸 清單外最熱③　SanDisk 跌逾 6%，而 Samsung 同期在警告記憶體「缺貨漲價」",
+    "ticker": "SNDK",
+    "change": "-6.00",
+    "price": "單日 -6% 以上，理由為「記憶體競爭疑慮」",
+    "reason": "**SanDisk（NAND Flash）今天跌逾 6%，美光與 SK 海力士同步走弱，是那斯達克 -0.44% 的最大單一拖累。**報導給的理由是「memory competition concerns」。　★ **這一筆的價值在於它和基本面明顯矛盾，而矛盾本身就是資訊**：同一個時期，**Samsung 警告 2026 年記憶體缺貨將推升全產業價格，SK 海力士更稱短缺可能延續到 2030 年之後。****合約價在漲，股價在跌。**當這兩件事同時發生，市場通常不是在反映「需求轉弱」，而是在反映「某一家的市佔要被搶走」—— 也就是競爭格局的重分配，不是產業的衰退。　★ **直接對照你的清單**：記憶體分類有 **南亞科（2408，DRAM、DDR4/DDR5）、華邦電（2344）、旺宏（2337）**，美股有 **Micron（MU，HBM、DRAM）**。**今天南亞科在台股是「弱且量大」，與美股記憶體同步 —— 這一組是今天台美最同步的族群。**★ 要分清楚的是：**漲價對「有 HBM 產能的人」是利多，對「只有傳統 DRAM／NAND 的人」是成本與競爭壓力。這就是為什麼同一條「記憶體漲價」新聞，不同公司股價會往反方向走。**"
+   },
+   {
+    "name": "🇺🇸 清單外最熱④　Figs +12% —— 今天唯一的大漲，而且和 AI 完全無關",
+    "ticker": "FIGS",
+    "change": "12.00",
+    "price": "單日 +12% 以上，近五日累計 +30% 以上",
+    "reason": "**醫護服裝品牌 Figs 今天漲逾 12%，五日累計漲逾 30%，是 10/12 確認的最大單日漲幅。**　★ **為什麼一個賣刷手服的公司值得放進你的簡報**：因為它是今天「資金去了哪裡」的答案。在那斯達克 -0.44%、AI 供應鏈被連續重殺的同一天，**漲最多的是一家民生消費品公司，而類股表現也顯示「通訊服務與民生防禦領漲、科技落後」。****這不是巧合，是輪動。**　★ **對照你的清單怎麼用**：你的美股清單有一個「防禦型」分類 —— **Johnson & Johnson（JNJ）、Procter & Gamble（PG）、Coca-Cola（KO）**，風險標示都是「低」。**今天這一區的存在意義就是在這種日子裡發揮作用。**台股這邊對應的是「金融防禦」—— **富邦金、國泰金、中信金、玉山金、兆豐金，而今天台股正是靠富邦金、中信金、國泰金把指數從 -544 點拉回 -11 點。****台美兩邊在同一天用同樣的邏輯運作，這是今天最乾淨的一個對照。**"
+   },
+   {
+    "name": "🇺🇸 清單內最重要　Meta +3.4% —— 全市場唯一「用自己的消息逆勢上漲」的大型科技股",
+    "ticker": "META",
+    "change": "3.40",
+    "price": "單日約 +3.4%（參考價 613.68）",
+    "reason": "**在那斯達克 -0.44%、整個 AI 供應鏈被賣的一天，Meta 上漲約 3.4% —— 原因是它當天發表了首批前沿模型 Muse Wonder 與 Muse Wonder Full。**（細節見科技區與產業區：定價每百萬 token 輸入 4 美元／輸出 20 美元，刻意與 Claude Opus 5.5、GPT-6 Sol 同一價位帶；在記憶基準 MemoryBench 上自稱勝過 Fable、Opus、Astra；較強的 Wonder Full 不開放 API、只給 Muse Code 訂戶。）　★ **這一筆是今天最值得想的不對稱**：市場正在懲罰「賣 AI 基礎設施的人」（記憶體、光通訊、類比晶片），同時獎勵「自己就能用 AI 做出產品的人」。**Semtech -10%、Lumentum -10%、SanDisk -6%，而 Meta +3.4%。同一天、同一個題材、相反的方向。**　★ **為什麼這對你的清單有用**：你的「核心科技」分類（MSFT、GOOGL、META、AAPL、AMZN）風險標示全是「中」，而「AI半導體」分類（NVDA、AVGO、AMD、MU、MRVL）是「中高」到「高」。**今天的盤面精確驗證了這個風險分級 —— 不是因為基礎設施公司比較差，而是因為它們的營收完全依賴別人的資本支出決策，而應用層公司的營收來自自己的使用者。這個差別在 AI 資本支出被質疑的時候會被放大。**★ 本段為盤面事實與結構說明，不是投資建議。"
+   },
+   {
+    "name": "🇹🇼 台股今天的真正故事　金融撐盤、指數從 -544 點收復到 -11 點",
+    "ticker": "2881・2891・2882",
+    "change": "0",
+    "price": "富邦金、中信金、國泰金、台新新光金控為當日主要拉抬者（未取得逐檔確認漲跌幅，示意）",
+    "reason": "**今天台股最重要的不是任何一檔個股，是「指數怎麼從 48,947 回到 49,301」這件事。**早盤因週末美股 AI 殺盤與台積電 ADR 兩天累跌約 4%，大盤一度跌 544 點、上演「4 萬 9 保衛戰」，**終場僅跌 11.448 點。拉抬者是金融權值。**　★ **這和 10/08 完全相反，而這個反轉本身是今天最有資訊量的事**：10/08 金融股 -1.68% 是當天最弱大類（富邦金 -1.61%、國泰金 -2.65%），**10/12 金融股變成撐住整個市場的那一群。**你的清單「金融防禦」有 **富邦金（2881）、國泰金（2882）、中信金（2891）、玉山金（2884）、兆豐金（2886）**，風險標示「中低」到「低」。**今天是這一組標的的教科書範例日 —— 它們的作用不是漲，是在別人跌的時候不跌。**　★ **清單內今天逆勢走強（漲且量大）**：**台光電（2383，高速 CCL）、日月光投控（3711，封測）、華通（2313，PCB）、世芯-KY（3661，ASIC 設計）** —— 另有大立光、國巨、鴻勁、長榮、欣銓同列。　★ **清單內今天走弱（弱且量大）**：**聯發科（2454）、台達電（2308）、南亞科（2408）、創意（3443）、鴻海（2317）、金像電（2368）** —— 另有南亞、台塑、聯電、臻鼎-KY、友達同列。　★ **把這兩行放在一起看，今天你的清單是內部打對台**：**CCL／封測／ASIC 設計走強，記憶體／散熱電源／AI 伺服器鏈走弱。**這個分法和美股完全一致（記憶體與光通訊被殺、防禦與傳產被買），**代表這不是台股的本土行情，是全球同一個資金決策在兩個市場同時執行。**"
+   },
+   {
+    "name": "🚨 待確認　川湖（10/08 跌停）—— 本次未取得 10/12 的收盤資料",
+    "ticker": "2059",
+    "change": "0",
+    "price": "10/08 跌停收 10,615 元；10/12 收盤未取得",
+    "reason": "★ **誠實交代一個缺口**：川湖（2059，伺服器滑軌、機構件，清單內唯一一檔機構件，參考價 14,180 元）在 10/08 跌停收 10,615 元，是前三天這一區的頭號追蹤標的。**本次查詢未能取得它在 10/12 的收盤價或漲跌幅，因此無法回答「跌停有沒有打開」這個問題。**　★ **為什麼不猜**：10/12 的盤面是「開低走高、金融撐盤」，在這種日子裡機構件這類中小型高波動標的可能跟著反彈，也可能繼續獨立走弱 —— **兩種都合理，所以任何推測都沒有價值。請直接在下單平台查 2059 的 10/12 收盤。**　★ 仍然有效的背景：它連兩個交易日進榜（10/07 進跌幅前五、10/08 跌停），同族群穎崴、松川精密、巨鎧精密同期也在跌幅前五，**整組「設備與機構件」當時都在回檔**，所以更可能是族群性修正而非公司個別問題。從 14,180 元參考價到 10,615 元，波段回落約 **-25%**。　★ **今天唯一和它有關的可用線索**：清單內的機構件／設備相鄰族群今天沒有出現在「弱且量大」名單裡，而封測（日月光）與 CCL（台光電）反而走強。**這是弱線索，不是結論。**"
+   },
+   {
+    "name": "📌 清單內 ≥5% 的異動：今天一檔都沒有確認 —— 這件事本身要講清楚",
+    "ticker": "—",
+    "change": "0",
+    "price": "台股清單 50 餘檔、美股清單 40 餘檔，10/12 均無確認 ≥5% 的單日異動",
+    "reason": "★ **規格要求「列出當日 ≥5% 個股」，今天的答案是：清單內沒有。**美股清單內最大變動是 **Meta +3.4%** 與 **Marvell -3.42%**，台股清單內最大為台積電 -0.39%，其餘標的的確認百分比本次未全面取得。　★ **但「沒有」和「查不到」是兩件不同的事，這裡要分開說**：**美股部分是真的沒有** —— 今天 ≥5% 的名單（Semtech、Lumentum、SanDisk、Figs）已經全部查核並列在上面，四檔都在清單外。**台股部分是查不到** —— 本次未取得台股個股的逐檔收盤漲跌幅，只取得「漲且量大／弱且量大」的分類報導，**所以台股清單內理論上可能有 ≥5% 的標的被遺漏，請以下單平台的漲跌幅排行為準。**　★ **為什麼清單內很少出現 ≥5%，這是結構性的**：你的清單以大型權值與金融防禦為主幹（台積電、鴻海、聯發科、台達電、五大金控、MSFT、GOOGL、AAPL…），**這類標的的單日波動被市值與流動性稀釋，天然不容易達到 5%。**真正會頻繁出現 ≥5% 的是清單裡標示「很高」風險的那幾檔 —— **量子電腦（IONQ、QNT、QBTS、RGTI、QUBT）、太空衛星（SPCX、RKLB、ASTS）、加密相關（COIN、MSTR、CRCL、TRON、HOOD）、電動車（RIVN、LCID）。****本次未取得這些標的 10/12 的確認漲跌幅，而它們才是最可能有大變動的那一群 —— 這是今天這一區最大的資料缺口。**"
+   }
+  ],
+  "quotes": {
+   "2330": "-0.39",
+   "META": "3.40",
+   "NVDA": "-1.30",
+   "MRVL": "-3.42",
+   "0050": "-0.13",
+   "0056": "0.51"
+  },
+  "disclaimer": "【已交叉確認、可以放心引用的數字】　**台股 2026/10/12（一）收盤**：加權指數 49,301.96、跌 11.448 點（-0.02%）、盤中最低約 48,947 點（一度跌 544 點）；台積電收 2,540 元、跌 10 元（-0.39%）、開盤 2,510 元；前一交易日成交值約 9,201.72 億元。拉抬指數者為富邦金、台新新光金控、中信金、國泰金。**美股 2026/10/12（一）收盤**：道瓊 51,851（+0.38%）、S&P 500 7,807（-0.06%）、那斯達克綜合 27,246（-0.44%）；Semtech -10.15%、Lumentum 約 -9.9%、SanDisk -6% 以上、Figs +12% 以上（五日 +30% 以上）、Meta 約 +3.4%、NVIDIA -1.3%、Marvell -3.42%、比特幣 -1.3%；黃金 -0.64% 至 4,167.56 美元、10 年期公債殖利率 5.24%（債市當日休市）。　【**標示為示意、不可直接引用**】　①**台股成交值兩來源不一致**（財報狗約 8,894.58 億／經濟日報約 8,439 億）；②**0050、0056 僅有漲跌幅（-0.13%、+0.51%），收盤價為推算**；③**QQQ 完全未取得，表上漲跌幅沿用那斯達克綜合指數**；④**台股個股未取得逐檔收盤漲跌幅**，「漲且量大／弱且量大」為報導分類；⑤**報導提及長榮、萬海、台星科漲停，未確認為收盤結果**；⑥**川湖（2059）10/12 收盤未取得**；⑦**清單內高波動族群（量子、太空衛星、加密、電動車）10/12 漲跌幅未取得。**　★ 全部請以下單平台最新資料為準。本區為資訊整理，非投資建議。",
+  "historyNote": "個股 sparkline 依「當日漲跌幅」與 config/site.json 的參考價重建、僅供示意；縱軸為實際幣別（台股新台幣／美股美元）。★ **本次（10/13）相對 10/12 的資料覆蓋率變化：大幅改善，但方向和前幾天不同。**前三天的問題是「沒有新的收盤資料」（10/09 國慶補假 + 週末，全球主要市場都沒交易）；**今天台股與美股都更新到 10/12 同一天，指數層級的資料品質是這一週最好的一次 —— 台股加權、美股三大指數全部取得確認收盤值。**★ **但個股層級反而退步**：前幾天至少有 8 檔台股的漲跌幅或金額，**今天只確認台積電一檔（-0.39%），其餘改以「漲且量大／弱且量大」的分類報導呈現。**美股個股則較完整（Semtech、Lumentum、SanDisk、Figs、Meta、NVDA、MRVL 共 7 檔確認）。★ **下一次要優先補的三個缺口**：①台股清單內逐檔收盤漲跌幅（才能確認有無 ≥5%）；②清單內高波動族群（量子 5 檔、太空衛星 3 檔、加密 5 檔、電動車 3 檔）的美股收盤；③川湖（2059）10/12 之後的走勢。"
+ }
+}
