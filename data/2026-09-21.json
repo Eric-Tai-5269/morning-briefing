@@ -1,0 +1,537 @@
+{
+ "date": "2026-09-21",
+ "dateLabel": "2026 年 9 月 21 日（週一）",
+ "generatedAt": "2026-09-21T20:45:00+08:00",
+ "weather": {
+  "icon": "🌤️",
+  "high": "33",
+  "low": "26",
+  "note": "多雲到晴、午後山區與近山區有局部短暫雷陣雨機率（台南／台北型態接近），入夜後轉為舒適。★ 這一欄沒有接氣象署 API，數字是依九月下旬台南／台北常態推估的「參考值」，不是即時觀測；出門前請以中央氣象署 App 為準。"
+ },
+ "schedule": {
+  "available": false,
+  "tasks": [],
+  "message": "這次排程執行的工具清單裡依然沒有 Notion 連接器，所以讀不到「事件」資料庫（0c43c2d0-cb80-4f89-86fe-14e5ae8bffb7）今天的項目。這已經連續多天是同一個狀況，代表問題不在單次執行，而是這個排程 session 根本沒被授予 Notion 權限。★ 解法：到 Claude 設定 →「連接器」把 Notion 接上（或確認該連接器對排程任務可見），下一次晨報這一區就會自動有資料。在那之前，右上角的「➕ 加入 Notion 行事曆」按鈕仍然可用——它走的是 Make webhook，不需要 Notion 連接器，所以你手動加事件完全不受影響。"
+ },
+ "mail": {
+  "window": "過去約 29h（9/20 16:00 – 9/21 20:45 台北時間）· 成大信箱 E34131227@gs.ncku.edu.tw · 新信 10 封（9 個討論串，其中 1 串為同一封公告重複寄送）· PRO360 0 封 · 已濾除促銷與社交分頁",
+  "items": [
+   {
+    "level": "red",
+    "tag": "👥 組員 陳彥賓 FELICITY TANIA (i34135339@gs.ncku.edu.tw) · 原信 9/17 14:37 · 同串：廖翁健富、羅仕鈞、李秉鴻 · ★ Gmail 裡仍是「未讀」狀態",
+    "title": "🚨【第 5 天、約 102 小時未回】Professional Skills 組報告：「戴穎倫、李秉鴻，你們其中一個要上台嗎？」整串還是沒人回",
+    "kind": "需要動作：今天睡前回一句話表態——要／不要上台，或改認領哪一段",
+    "detail": "★ 今天重新查證過這個討論串（threadId 1a0aa6007a4b0acc）：最後一封仍然是 9/17 14:37 陳彥賓那封點名信，之後四天整串零新訊息，而且該封在 Gmail 仍標記 UNREAD。也就是說，不是別人替你解決了，是整組一起卡住。　【時間軸複習】9/16 21:20 廖翁健富丟出要放進 PPT 的數據 → 9/17 09:26 羅仕鈞說可以幫忙找科學數據與可靠來源 → 10:33 羅仕鈞上傳 PPT 連結（canva.link/j5he7gbibsgpokc）並道歉太晚 → 11:31 陳彥賓「thank you everyonee! 😊」→ 14:18「which one of us presents?」→ 14:33 廖翁健富轉問羅仕鈞 → 14:37 陳彥賓直接點名「戴穎倫、李秉鴻, would either of you like to present?」→ 之後靜默至今。　【為什麼今天特別急】今天是週一，週末的緩衝已經用完了；而且下面第 2 條顯示「這週的報告」已經有另一位組員在催進度，代表課程進度正在往前走，你這一題再拖就會變成「上課當天才喬」。　【最省力的回法（英文，直接複製）】　　\"Hi all, sorry for the very slow reply. I am happy to present — or if 李秉鴻 prefers to, I can take the Q&A and slide prep instead. Either works for me, let us lock it in today.\"　一句話同時做到：表態、給對方台階、逼出結論。",
+    "deadline": "已約 102 小時未回（9/17 14:37 → 9/21 20:45）· 9/16 已有人提過「沒人接手就跟 TA 反映貢獻度」",
+    "calendar": {
+     "title": "回覆 Professional Skills 組報告：誰上台",
+     "date": "2026-09-21",
+     "cat": "報告",
+     "pri": "高",
+     "label": "➕ 加入行事曆（今天就回）"
+    }
+   },
+   {
+    "level": "red",
+    "tag": "👥 新組員 e14124179@gs.ncku.edu.tw · 9/20 16:05 收到 · 同收件：e14115162、c34146050 · ★ 這是另一組、另一份報告，別跟上面那封搞混",
+    "title": "📌【已 28 小時未回】「第三次工業革命之工程專業技能」報告：組員問要不要開群組討論「這週的報告」",
+    "kind": "需要動作：回一封信說好／並提議用 LINE 或 Discord，順便問清楚報告的交期與分工",
+    "detail": "★ 信件原文（中英對照）大意：「同學們好，我是你們修第三次工業革命之工程專業技能的組員。我看名單上發現我們很多都是來自不同系的，為了聯絡方便是否要加一個群組來討論這週的報告？煩請回覆感謝！」　【為什麼放紅區】① 信裡明確寫「這週的報告」——代表交期就在本週，現在是週一晚上，等於全組只剩四天；② 寄信的人主動起頭、只要求一個「好」字，回覆成本極低但拖延成本很高；③ 收件名單只有四個人（e14124179、e14115162、c34146050、你），組很小，任何一個人不回，群組就開不起來。　【注意】這一組的收件人跟上面 Professional Skills 那一組完全不同，是兩份不同的作業，請分開處理、不要在同一串回覆。　【最省力的回法（中英各一句，直接複製）】　　「好啊，我可以。我的 LINE ID 是 ___，或直接開 Discord 也行。順便確認一下：這週報告的繳交期限是哪一天、老師有指定分工方式嗎？」　　\"Sure, a group chat works for me. Could you also confirm the due date for this week's report and whether the professor assigned specific roles?\"",
+    "deadline": "已 28 小時未回 · 信中言明是「這週的報告」，本週內必須完成",
+    "calendar": {
+     "title": "回覆第三次工業革命報告組員：建群組＋問交期",
+     "date": "2026-09-21",
+     "cat": "報告",
+     "pri": "高",
+     "label": "➕ 加入行事曆（今晚回）"
+    }
+   },
+   {
+    "level": "red",
+    "tag": "🏫 成大化工系 no-reply@mail.ncku.edu.tw · 原信 9/18 13:11 · ★ 截止時間已過，這條是「補救提醒」不是提前提醒",
+    "title": "⏰【今天 17:00 已截止】115-1 選課結果「確認」——現在已過期，請立刻確認你到底按了沒",
+    "kind": "需要動作：現在就登入選課系統檢查狀態；若確實沒按，明天一早找系辦／課務組說明",
+    "detail": "★ 原信的關鍵句：「提醒 115 年 9 月 18 日 09:00 至 9 月 21 日 17:00 務必登入課程資訊及選課系統確認選課結果。未上網確認者，日後若發現選課錯誤不得有所異議。」　【現在的狀況】這份晨報是 9/21 晚上 20:45 產出的，窗口已經在三個多小時前關閉。過去三天的晨報（9/19、9/20）都把這條放在最上面，所以你很可能已經處理掉了——但因為 Gmail 這邊沒有任何「已確認」的回條信，我無法替你驗證。　【今晚該做的兩件事】① 登入「課程資訊及選課系統」看畫面上是否顯示已確認／確認時間戳記，順手截圖存證；② 如果發現真的沒按，不要自己乾等——明天（9/22，週二）一上班就先寫信或打電話給化工系辦與教務處課務組說明情況，逾期補確認通常還有行政救濟空間，但「拖到期中才發現選課有問題」就真的沒得救了。　【提醒】這種「確認即簽收」的機制，真正的風險不是這次，而是學分數算錯、必修漏選、擋修沒過時你失去申訴立場。今晚三分鐘可以買回整個學期的保險。",
+    "deadline": "9/21（一）17:00 已截止 · 逾期者「日後發現選課錯誤不得有所異議」",
+    "calendar": {
+     "title": "檢查 115-1 選課確認狀態（逾期補救）",
+     "date": "2026-09-21",
+     "cat": "功課",
+     "pri": "高",
+     "label": "➕ 加入行事曆（今晚檢查）"
+    }
+   },
+   {
+    "level": "amber",
+    "tag": "🔧 Atlassian Bitbucket noreply+c7c6fd5@id.atlassian.com · 9/20 20:36 · 標記為 IMPORTANT · 未讀",
+    "title": "📨 有人（帳號 temn）邀請你加入 Bitbucket 的「Torbjörn Nordling」工作區",
+    "kind": "需要動作：先確認這是你預期中的邀請，再決定接不接受——別直接點信裡的按鈕",
+    "detail": "★ Torbjörn Nordling 是成大機械系的教授，實驗室做的是系統生物學／機器學習方向。如果你最近有申請專題、研究助理、或修他的課，這封就是正常的程式碼協作邀請；如果你完全沒印象，就不要動它。　⚠️【安全提醒，這點比內容本身重要】這是一封含有「接受邀請」按鈕的外部郵件，而冒充 Atlassian／GitHub 邀請是很常見的釣魚手法。建議的做法是：不要點信裡的連結，改成自己開瀏覽器輸入 bitbucket.org、登入自己的帳號，再從站內的通知或 workspace 邀請清單去接受。這樣即使信是偽造的也不會出事。　【如果確實是你要的】接受後記得檢查一下這個 workspace 給了你哪些權限（read／write／admin），以及是否會自動把你的信箱加進去他們的通知清單。",
+    "deadline": "無硬性期限，但邀請連結通常有有效期（多為 30 天）",
+    "calendar": {
+     "title": "確認 Bitbucket（Nordling 實驗室）邀請要不要接受",
+     "date": "2026-09-22",
+     "cat": "功課",
+     "pri": "中",
+     "label": "➕ 加入行事曆（明天處理）"
+    }
+   },
+   {
+    "level": "amber",
+    "tag": "📚 Moodle noreply@ncku.edu.tw · 9/21 12:26 與 12:27 · 1151_論孟 THE ANALECTS（1151_B114800）· 授課教師 陳弘學",
+    "title": "📄 論孟課程一次丟了兩則公告：【授課講義】Word 檔 ＋【推薦閱讀】書單",
+    "kind": "需要動作：下載講義存檔（約 2 分鐘），書單先存起來不用急著買",
+    "detail": "【第一則｜授課講義】陳弘學老師在 9/21 11:47 上傳「001儒家思想與現代社會 授課講義 陳弘學.docx」，並註明「本學期授課講義電子檔如附，之後會不定期更新」。　★ 重點在「不定期更新」這四個字：代表這是一份會被覆蓋的活檔案，建議你今天就下載一份、檔名加上日期（例如 001_儒家思想與現代社會_20260921.docx），之後每次更新再存新版，期末才不會只剩最後一版而找不到前面講過的內容。　【第二則｜推薦閱讀】9/21 11:46 發布，第一本是南懷瑾《論語別裁》（上）（下），老師給的理由是「啟發深入理解孔子思想興趣」，信中附了博客來連結。　★ 建議：通識課的推薦書單多半不是考試範圍，先去成大圖書館查館藏借閱即可，不必先花錢。如果後續有讀書心得類的作業，這本會是最安全的選書。　【一個小觀察】這兩封是同一分鐘內連發的，代表老師剛開始經營這門課的 Moodle 討論區——之後公告頻率可能不低，建議把 Moodle 通知信設一個 Gmail 篩選標籤，才不會混在成大群發信裡被淹掉。",
+    "deadline": "無硬性截止，但講義會被覆蓋更新，建議今天先存檔",
+    "calendar": {
+     "title": "下載論孟授課講義並建立版本存檔",
+     "date": "2026-09-21",
+     "cat": "功課",
+     "pri": "中",
+     "label": "➕ 加入行事曆"
+    }
+   },
+   {
+    "level": "green",
+    "tag": "🎓 成大 no-reply@mail.ncku.edu.tw · 9/21 13:38 · 活動邀請 · 報名制",
+    "title": "🤖 10/15 成大「人工智慧在高校的角色及應用論壇：產學協作與新創加值」",
+    "kind": "選擇性參加：想跑產學／新創方向的話值得報名",
+    "detail": "本次是成大今年度系列論壇的第四場，主軸是「如何把學術界的研發能量轉成產業升級動力」，邀請了「晶片與技術」「金融科技」「智慧製造」三大產業的領袖分享前瞻趨勢與產學協作模式。　★ 為什麼對你可能有用：這三條線跟你股票觀察清單上的主軸（半導體、AI 基建）高度重疊，而且論壇型活動最有價值的往往不是講題本身，而是中場能直接跟講者交換名片。對化工系背景又想碰 AI 的人來說，「智慧製造」那一場最對口。　【建議】先把 10/15 卡進行事曆佔位，報名連結在原信裡，通常這類論壇會在活動前一週額滿。",
+    "deadline": "活動日 2026-10-15 · 報名額滿為止",
+    "calendar": {
+     "title": "成大 AI 在高校的角色及應用論壇",
+     "date": "2026-10-15",
+     "cat": "特殊課",
+     "pri": "中",
+     "label": "➕ 加入行事曆（10/15 佔位）"
+    }
+   },
+   {
+    "level": "green",
+    "tag": "💼 成大就輔組 no-reply@mail.ncku.edu.tw · 9/21 11:02 · 2026 秋季校園徵才",
+    "title": "🏢 秋季校園徵才企業說明會持續開放報名：廣達、友達、瑞儀、貿聯 BizLink 等",
+    "kind": "選擇性參加：場場抽禮券，對大學生來說是低成本的產業探路",
+    "detail": "目前仍開放報名的場次包含：華洋精機、中聯資源、船舶暨海洋產業研發中心、國家實驗研究院、貿聯國際（BizLink）、錸恩帕斯科技、廣達電腦、友達光電、瑞儀光電、創惟科技、百達精密等。　★ 有趣的巧合：廣達（2382）、友達、瑞儀（6176）這三家今天都在台股新聞裡出現——廣達是你觀察清單裡的 AI 伺服器 ODM，友達今天更是直接攻上漲停。去聽說明會等於是用免費的方式，把你在晨報上看到的「代號」變成「這家公司實際在做什麼、缺什麼人」。　【建議挑法】如果只挑一場，以化工系背景選「瑞儀光電」或「百達精密」的製程／材料職缺最對口；如果想轉 AI 硬體，選「廣達電腦」。",
+    "deadline": "各場次額滿為止",
+    "calendar": {
+     "title": "成大秋季校園徵才：挑一場企業說明會報名",
+     "date": "2026-09-23",
+     "cat": "特殊課",
+     "pri": "低",
+     "label": "➕ 加入行事曆"
+    }
+   },
+   {
+    "level": "green",
+    "tag": "🎤 成大學務處學安組 no-reply@mail.ncku.edu.tw · 9/21 15:31 · 甄選活動 · 報名 11/06 12:00 截止",
+    "title": "🎙️ 116 年畢業典禮司儀甄選開放報名（典禮日 115/12/05 週六）",
+    "kind": "選擇性參加：報名表 11/06（五）12:00 前送出",
+    "detail": "學安組將於 115 年 12 月 5 日（週六）舉辦 116 年畢業典禮司儀甄選活動，甄選辦法與報名表在學安組網頁最新公告。報名表須於 115 年 11 月 6 日（週五）中午 12:00 前送出。　★ 值得考慮的理由：司儀經驗對「口語表達」這一塊是很具體的履歷素材，而你最近正好有兩份要上台報告的組作業卡在信箱裡——如果你本來就在猶豫要不要練上台，這是一條低風險的練習路徑（甄選沒上也沒損失）。　【時間點提醒】報名截止是 11/06，距今還有一個半月，現在不用急著決定，但建議先把日期記下來，免得期中考週一忙就忘了。",
+    "deadline": "報名表 2026-11-06（五）12:00 截止 · 甄選／典禮日 2026-12-05",
+    "calendar": {
+     "title": "116 年畢業典禮司儀甄選報名截止",
+     "date": "2026-11-06",
+     "cat": "特殊課",
+     "pri": "低",
+     "label": "➕ 加入行事曆（11/06 截止）"
+    }
+   },
+   {
+    "level": "green",
+    "tag": "📖 成大社科院 no-reply@mail.ncku.edu.tw · 9/21 09:41 · 讀書會 · 開放報名",
+    "title": "📗 社科院讀書會《何苦為男？活在競爭、控制與成就壓力下的他們》開放報名",
+    "kind": "選擇性參加：性別議題讀書會，主題是男性處境",
+    "detail": "本期讀書會主打的問題意識是：「成為一個『男人』，究竟需要付出什麼代價？」——我們熟悉「女性如何受到性別結構影響」的討論，但男孩為什麼被要求勇敢、男人為什麼不能脆弱、「養家」是否一定是男性責任，這些同樣是性別結構的產物。　★ 為什麼放進晨報而不是直接濾掉：這跟今天新聞區「教育心理」那三則有直接呼應——那幾篇研究講的正是學業倦怠、競爭壓力與成就焦慮如何吃掉大學生的心理資源。讀書會是把研究裡的統計數字換成具體語言的場合，如果你對那一區有興趣，這是同一個主題的線下版本。",
+    "deadline": "報名額滿為止",
+    "calendar": {
+     "title": "社科院《何苦為男？》讀書會報名",
+     "date": "2026-09-25",
+     "cat": "特殊課",
+     "pri": "低",
+     "label": "➕ 加入行事曆"
+    }
+   },
+   {
+    "level": "green",
+    "tag": "🚧 成大總務處 no-reply@mail.ncku.edu.tw · 9/21 10:25 與 10:27（同一封公告連寄兩次）· 施工公告",
+    "title": "🏗️ 10/1（四）08:30–10:30 光復校區雲平大樓南側吊掛施工，人行道與 B1 機車停車場禁止進出",
+    "kind": "不用動作，但 10/1 那天要改路線：機車別停 B1",
+    "detail": "作業內容是鳳凰樹劇場的空調設備吊掛，時間 115 年 10 月 1 日（週四）上午 8:30–10:30，範圍是光復校區雲平大樓南側，含人行道與 B1 機車停車場禁止進出，施工區域會設警戒設施、禁止通行及車輛停放，並保留行人與腳踏車通道（有專人現場引導）。　★ 對你的實際影響只有一個：如果你 10/1 上午有課在光復校區，那天機車不要停雲平大樓 B1，提早 10 分鐘出門繞路。　【小註記】這封公告在 10:25 和 10:27 被連寄了兩次，內容完全相同，不是你漏看什麼——是系統重複發送。",
+    "deadline": "施工日 2026-10-01 08:30–10:30",
+    "calendar": {
+     "title": "雲平大樓南側施工：機車改停、繞路",
+     "date": "2026-10-01",
+     "cat": "家事",
+     "pri": "低",
+     "label": "➕ 加入行事曆（10/01）"
+    }
+   }
+  ],
+  "footnote": "★★★ 今天這一區的一句話總結：新信 10 封裡有 8 封是成大群發公告，但剩下的 2 封「私人往來」剛好是整個信箱最貴的兩封——兩份不同的組報告，都在等你回一句話。　【今晚 10 分鐘能清掉的三件事，照重要性排序】① 回 Professional Skills「誰上台」（已卡 102 小時，複製上面的英文句子，1 分鐘）；② 回第三次工業革命組員的建群邀約（順便問出交期，2 分鐘）；③ 登入選課系統確認 115-1 選課狀態（今天 17:00 已過期，3 分鐘，主要是確認你到底按了沒）。　⚠️ 必須講清楚的一件事：第 ③ 項的截止時間已經過了。這份晨報是晚上 20:45 產出的，而不是早上——如果你今天白天沒看到提醒，這是系統排程時間的問題，不是你的疏忽；但補救動作還是要做，今晚先確認狀態，明天一早再找系辦。　【一個持續三天的觀察】Professional Skills 那封從 9/19 的晨報開始就在紅區，到今天已經是第三次出現，而且 Gmail 仍標記未讀。連續三天沒動的事項，通常不是「沒時間」而是「不想決定」——而這一題唯一的成本其實只是打一行字。把它清掉，明天的晨報就會短一條。"
+ },
+ "news": {
+  "window": "過去 48h（9/19 20:45 – 9/21 20:45 台北時間）· 來源 Bloomberg／The Moscow Times／Pravda.ua／CNN／NPR／Al Jazeera／CNBC／Schwab／The Hacker News／aiweekly／NBC Sports／NFL／Frontiers in Psychology／PMC／TechNews／Tom's Hardware／DIGITIMES／NiEW／CDJapan／KKLIVE · ★ 每則含約 100 字英文摘要，中文只給一行副標",
+  "groups": [
+   {
+    "label": "頭條",
+    "items": [
+     {
+      "en": "Ukraine Launches the Largest Drone Barrage of 2026 on Russia, Setting the Moscow Oil Refinery Alight and Killing Three, as Putin's First Wartime Parliamentary Election Closes",
+      "zh": "烏克蘭發動今年最大規模無人機攻擊，莫斯科煉油廠起火、3 死，時間點正卡在俄國國會大選最後一天",
+      "summary": "Russia's Defense Ministry said it downed 1,110 Ukrainian drones across 19 regions and Crimea overnight, the largest single-night total of 2026 and well above August's previous record of 822. The Moscow Oil Refinery, which supplies roughly 40 percent of the capital's fuel and 70 percent of the surrounding region's petrol and aviation gas, was struck at its AVT-6 crude distillation and isomerization units and caught fire. Three people were killed in the Moscow region. The timing was deliberate: Russia was closing the third and final day of its first parliamentary election since the 2022 invasion.",
+      "url": "https://www.themoscowtimes.com/2026/09/20/2-dead-in-moscow-region-drones-hit-oil-refinery-in-russian-capital-a93753",
+      "source": "Bloomberg / The Moscow Times / Pravda.ua"
+     },
+     {
+      "en": "Merz's CDU Collapses to 4.9 Percent in Mecklenburg-Western Pomerania, Its Worst Result in 81 Years, as AfD Takes the State With 38 Percent and Die Linke Wins Berlin",
+      "zh": "德國兩場邦選舉：梅克倫堡-西波美拉尼亞 CDU 僅 4.9% 創 81 年最慘，極右 AfD 拿 38% 拿下該邦，柏林則由極左 Die Linke 奪冠",
+      "summary": "German Chancellor Friedrich Merz's center-right Christian Democratic Union took just 4.9 percent in Mecklenburg-Western Pomerania, short of the 5 percent threshold for seats and the worst showing in the party's 81-year history. The far-right AfD is projected to win the northeastern state outright at around 38 percent, while in Berlin the far-left Die Linke finished first. Merz called the Mecklenburg result a disaster but said he would stay on and press ahead with his reform agenda, rejecting speculation that his own party might move to oust him.",
+      "url": "https://www.cnn.com/2026/09/20/europe/berlin-mecklenburg-vorpommern-election-afd-intl",
+      "source": "CNN / NPR / Al Jazeera / CP24"
+     },
+     {
+      "en": "Markets Are Still Digesting the Fed's First Rate Hike in More Than Three Years, a Unanimous 12-0 Move to 3.75-4.00 Percent Aimed at Oil-Driven Inflation",
+      "zh": "聯準會三年多來首次升息的餘波仍在發酵：9/16 以 12：0 全票升息 1 碼至 3.75%–4.00%，對手是油價推升的通膨",
+      "summary": "The Federal Open Market Committee voted 12-0 on September 16 to raise its benchmark rate by 25 basis points to a 3.75-4.00 percent target range, the first increase since 2023, framing it as a response to inflation driven by spiraling oil prices. The dot plot showed 16 of 18 participants expecting at least one further hike, with four seeing two more. The Dow shed more than 600 points in the final hour of the decision day. Futures had priced a hike at 92 percent after Chair Kevin Warsh's Jackson Hole signal in late August.",
+      "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
+      "source": "CNBC / Charles Schwab / Kiplinger"
+     },
+     {
+      "en": "Trump Says He Will Appoint an AI Czar and Stand Up a New 'AI Force' Modeled on the Space Force to Oversee the Industry",
+      "zh": "川普宣布將任命「AI 沙皇」，並比照太空軍成立全新的「AI Force」來管這個產業",
+      "summary": "In a Truth Social post on Friday, President Trump said he would appoint an AI czar and create a new AI Force modeled on the Space Force to oversee the artificial intelligence industry. No statutory authority, budget line, or staffing plan accompanied the announcement, and it is not clear whether the body would sit inside the Department of Defense or function as a civilian regulator. The proposal lands in the same week that AI-security disclosures and an antitrust class action against the major labs both surfaced, sharpening the question of who actually polices frontier models.",
+      "url": "https://aiweekly.co/ai-news-today",
+      "source": "AI Weekly / Axios"
+     },
+     {
+      "en": "Lions Found Dead Inside Tanzania's Ngorongoro Conservation Area, Renewing Alarm Over a Pattern of Wildlife Poisonings Across East Africa",
+      "zh": "坦尚尼亞恩戈羅恩戈羅保護區內發現獅子死亡，東非野生動物毒殺事件再度拉警報",
+      "summary": "Lions were found dead inside the Ngorongoro Conservation Area, one of Tanzania's most visited wildlife reserves and a UNESCO World Heritage site, reviving concern about deliberate poisonings across East Africa. Retaliatory poisoning by pastoralists who lose livestock to predators is the pattern conservationists most often point to, and it kills indiscriminately: vultures, hyenas and other scavengers die alongside the targeted carnivores. Ngorongoro's lion population is already genetically isolated by the crater walls, which makes each loss disproportionately costly to the group's long-term viability.",
+      "url": "https://www.cbsnews.com/world/",
+      "source": "CBS News / NPR"
+     }
+    ]
+   },
+   {
+    "label": "科技",
+    "items": [
+     {
+      "en": "Anthropic Says Claude Now Leads 26 Percent of the Company's Own Model R&D, Up From Zero in February, With 30,000 Agents Running Concurrently Inside the Firm",
+      "zh": "Anthropic 揭露：Claude 現在主導自家 26% 的模型研發工作，二月時還是 0%，公司內部同時跑著 3 萬個 Claude agent",
+      "summary": "Anthropic disclosed on September 18 that as of August, Claude was leading 26 percent of the company's own model research and development, up from zero in February 2026. Roughly 30,000 Claude agents run concurrently inside the company and more than 90 percent of R&D now happens with Claude as a collaborator rather than a tool. The figure is the clearest public datapoint yet on recursive self-improvement in a frontier lab, and it reframes the capability debate: the constraint is shifting from human researcher headcount toward compute and evaluation throughput.",
+      "url": "https://aiweekly.co/ai-news-today/anthropic-news",
+      "source": "AI Weekly / Anthropic Newsroom"
+     },
+     {
+      "en": "Researchers Disclose Plugin4Shell, a Zero-Click Remote Code Execution Flaw That Slips Malicious Plugin Code Past SHA-Pinning in Claude Code, Codex, Copilot and Gemini CLI",
+      "zh": "資安研究者公布 Plugin4Shell：零點擊 RCE，可繞過 SHA 綁定在 Claude Code、OpenAI Codex、GitHub Copilot 與 Gemini CLI 植入惡意外掛",
+      "summary": "AIR researchers disclosed Plugin4Shell on September 18, a zero-click remote code execution vulnerability that lets an attacker swap malicious plugin code past SHA-pinning integrity checks in Claude Code, OpenAI Codex, GitHub Copilot and Gemini CLI. Because these agents run with developer-level filesystem and shell privileges, a compromised plugin inherits them without any user interaction. The disclosure landed the same week Google, Anthropic and OpenAI each announced cyber-focused models and safeguards, underscoring that the agentic coding supply chain is now itself a first-class attack surface.",
+      "url": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
+      "source": "The Hacker News / AIR"
+     },
+     {
+      "en": "Four Subscribers File a Proposed Nationwide Antitrust Class Action Accusing Anthropic, OpenAI, SpaceXAI and Google of Coordinating a Slowdown in AI Development",
+      "zh": "四名訂閱用戶提起全國性反壟斷集體訴訟，控告 Anthropic、OpenAI、SpaceXAI、Google 串通放慢 AI 發展速度",
+      "summary": "Four subscribers to ChatGPT, Claude, Grok and Gemini filed a proposed nationwide antitrust class action in the U.S. District Court for the Northern District of California on September 13, alleging the four labs violated Section 1 of the Sherman Act by coordinating a slowdown of AI development. The theory is unusual: most antitrust suits allege output restriction on price or quantity, whereas this one casts safety-motivated release pacing as collusive restraint. How courts treat coordinated safety commitments will matter far beyond these defendants.",
+      "url": "https://casrai.org/news/september-2026-ai-safety-incident-cluster",
+      "source": "CASRAI / court filings"
+     }
+    ]
+   },
+   {
+    "label": "運動",
+    "items": [
+     {
+      "en": "Jacob Misiorowski Shuts Down Baltimore as the Milwaukee Brewers Complete a 3-0 Sweep and Set a Franchise Record for Wins in a Single Season",
+      "zh": "Misiorowski 好投完封巴爾的摩，釀酒人 3-0 完成橫掃，並改寫隊史單季勝場紀錄",
+      "summary": "Jacob Misiorowski turned in an effective start as the Milwaukee Brewers beat the Baltimore Orioles 3-0, completing a series sweep and setting a new franchise record for wins in a single season. The shutout was the tidy version of what has carried Milwaukee all year: a rotation that suppresses contact paired with a bullpen that has not needed rescuing. For a mid-market club without a marquee payroll, the record matters as much for how it was built as for the number itself heading into October.",
+      "url": "https://www.nbcsports.com/watch/mlb/sunday-night-baseball-on-nbc/mlb-2026-highlights-milwaukee-brewers-3-baltimore-orioles-0",
+      "source": "NBC Sports / MLB"
+     },
+     {
+      "en": "NFL Week 3 Sunday Delivers a Carolina Rout and Two Defensive Slogs: Panthers 34-3 Over Atlanta, Vikings 9-3 Over Chicago, Eagles Edge Tennessee 24-20",
+      "zh": "NFL 第三週週日：黑豹 34-3 血洗獵鷹，維京人 9-3 磨贏熊隊，老鷹 24-20 小勝泰坦",
+      "summary": "Week 3 Sunday on September 20 produced an unusually wide spread of game scripts. Carolina buried Atlanta 34-3 in the most lopsided result of the slate, while Minnesota and Chicago combined for just 12 points in a 9-3 Vikings win that never found an offensive rhythm. Philadelphia held on 24-20 against Tennessee in the closest of the three. Full Week 3 results and standings are still being finalized across the late window, so treat these as a partial snapshot rather than the complete Sunday card.",
+      "url": "https://www.nfl.com/scores/2026/week-3",
+      "source": "NFL.com / FOX Sports / CBS Sports"
+     },
+     {
+      "en": "Fujii Kaze's Kaohsiung Stadium Date and Vaundy's Taipei Stop Put Two Stadium-Scale Japanese Acts Into Taiwan's Autumn Calendar",
+      "zh": "藤井風高雄國家體育場、Vaundy 台北場，秋天台灣一口氣進了兩組日本體育場等級的演出",
+      "summary": "Two Japanese acts have locked Taiwan dates into the autumn calendar at a scale the market rarely sees back to back. Fujii Kaze brings his Prema World Tour to Kaohsiung National Stadium on October 31, the largest venue on the island, while Vaundy's first Asia arena run stops in Taipei between September and November. Taken together they mark a structural shift: Taiwan is now routinely a stadium and arena market for J-pop rather than a club-sized afterthought squeezed between Tokyo and Seoul.",
+      "url": "https://kklivetw.kktix.cc/events/34473ba4",
+      "source": "KKLIVE Taiwan / NiEW"
+     }
+    ]
+   },
+   {
+    "label": "教育心理",
+    "items": [
+     {
+      "en": "A Survey of 31,000 Secondary Vocational Students Finds Overall Mental Health Stable but Only 4.3 Percent Meeting Mental Health Knowledge Standards, With Academic Burnout Widespread",
+      "zh": "31,000 名高職生調查：整體心理健康尚稱穩定，但僅 4.3% 達到心理健康知識標準，學業倦怠普遍",
+      "summary": "A Frontiers in Psychology study drawing on 31,000 secondary vocational students examined mental health literacy, psychological risk, lifestyle habits, social relationships and academic motivation. Overall mental health remained stable, but only 4.3 percent met mental health knowledge standards and academic burnout was widespread, with students struggling to derive sufficient value from their own achievements. The literacy gap is the actionable finding: students can be functioning and still lack the vocabulary to recognize a problem early or know what help would even look like.",
+      "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1773198/full",
+      "source": "Frontiers in Psychology"
+     },
+     {
+      "en": "Reviewers Argue University Student Mental Health Research Must Look Back Before It Moves Forward, Warning That Screening Without Structure Produces Numbers, Not Care",
+      "zh": "綜述研究主張大學生心理健康研究該「回頭看再往前走」：沒有配套的篩檢只生產數字，不產生照顧",
+      "summary": "A review in PMC argues that university student mental health research has accumulated prevalence data faster than it has built delivery systems, and that the field should revisit its own history before scaling new interventions. College students worldwide face compounding pressures from academic load, career uncertainty and social adjustment. The proposed architecture spans six modules: educator capacity building, dynamic monitoring, grassroots service teams, tiered crisis intervention, supportive classroom environments and targeted support for specific student groups.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13276766/",
+      "source": "PMC / University student mental health review"
+     },
+     {
+      "en": "A Multi-Source Data Fusion Study Examines Educational Anxiety in the Age of Artificial Intelligence, Asking What Smart Education Does to Student Stress",
+      "zh": "多源資料融合研究：智慧教育時代的「教育焦慮」，AI 進課堂究竟讓學生壓力變大還是變小",
+      "summary": "A study published in PMC applies multi-source data fusion to educational anxiety within smart education environments, treating AI-mediated instruction as a variable that can cut either way. Continuous assessment and adaptive pacing can reduce anxiety by removing high-stakes single exams, or amplify it by making performance permanently visible. The authors also point toward digital psychological growth archives and regular screening as tools for detecting risk among non-clinical school-going adolescents before it escalates into something requiring intervention.",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13246331/",
+      "source": "PMC / Frontiers"
+     }
+    ]
+   },
+   {
+    "label": "產業動態",
+    "items": [
+     {
+      "en": "China's CXMT Puts Its Fifth-Generation DRAM Platform Into Mass Production, Cutting Critical Pitch to 11.95 Nanometers and Lifting Die Per Wafer by More Than 50 Percent",
+      "zh": "長鑫存儲（CXMT）第五代 DRAM 平台正式量產：關鍵特徵間距縮到 11.95 奈米，單片晶圓裸晶產出提升逾 50%",
+      "summary": "ChangXin Memory Technologies announced on September 20 that its fifth-generation DRAM technology platform has entered mass production, reducing the critical feature pitch in the storage array to 11.95 nanometers using quadruple patterning. On an 8Gb basis, die per wafer rises at least 50 percent over the fourth-generation platform. CXMT also showed two 24Gb LPDDR5X parts. The near-term pressure lands on DDR4 and low-to-mid DDR5 pricing, exactly where Taiwanese niche DRAM makers Nanya and Winbond compete.",
+      "url": "https://technews.tw/2026/09/21/cxmt-announces-mass-production-of-5th-generation-dram-technology-platform/",
+      "source": "TechNews / TVBS / 優分析"
+     },
+     {
+      "en": "Micron Is Reported to Be Roughly Doubling HBM Capacity Toward 100,000 Wafers a Month by Late 2026, With a Sharp Ramp in 12-High HBM4 for Nvidia's Vera Rubin Platform",
+      "zh": "美光傳將在 2026 年底把 HBM 產能翻倍至每月約 10 萬片晶圓，並大幅拉高供給 NVIDIA Vera Rubin 的 12-high HBM4",
+      "summary": "Micron is reportedly preparing to roughly double its high-bandwidth memory capacity by the end of 2026, targeting about 100,000 wafers per month while sharply increasing 12-high HBM4 output for Nvidia's Vera Rubin AI platform. The expansion explains the squeeze in commodity DRAM: HBM4, server DDR5, high-capacity RDIMM, SOCAMM and LPDDR are collectively absorbing advanced DRAM capacity, pushing general-purpose supply out. That dynamic is the bullish half of the memory story; CXMT's ramp is the bearish half.",
+      "url": "https://apps.digitimes.com/topic/semiconductors/memory_chips/",
+      "source": "DIGITIMES / Tom's Hardware"
+     },
+     {
+      "en": "SK Hynix Says Hybrid Bonding Will Not Be Ready for HBM4E as AI Memory Stacks Run Into a 775-Micron Height Ceiling, While TSMC Pushes for X-Ray-Inspectable DRAM Designs",
+      "zh": "SK 海力士：混合鍵合趕不上 HBM4E，AI 記憶體堆疊撞上 775 微米高度天花板；台積電則呼籲 DRAM 設計要能被 X 光檢測",
+      "summary": "At Hot Chips 2026 SK hynix said hybrid bonding will not be ready in time for HBM4E and that it will extend MR-MUF through Nvidia's Rubin generation instead, as AI memory stacks approach a 775-micron package height ceiling. Separately TSMC is calling for future HBM and DRAM designs to be more compatible with X-ray inspection, since increasingly complex advanced packaging buries defects where they cannot be found, while raising concerns about radiation exposure to sensitive memory cells during inspection.",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/sk-hynix-says-hybrid-bonding-wont-be-ready-for-hbm4e-as-ai-memory-runs-into-a-775-micron-ceiling",
+      "source": "Tom's Hardware / DIGITIMES / SemiEngineering"
+     }
+    ]
+   },
+   {
+    "label": "追星",
+    "items": [
+     {
+      "en": "Fujii Kaze Confirms Kaohsiung National Stadium for October 31 on the Prema World Tour, While the Hong Kong Leg Is Removed and a Seoul Gocheok Sky Dome Date Is Added for January 2027",
+      "zh": "藤井風 Prema World Tour 確定 10/31 高雄國家體育場；香港場被取消，改加首爾高尺天空巨蛋 2027/1/9",
+      "summary": "Fujii Kaze will play Kaohsiung National Stadium on October 31 as part of the Prema World Tour, the largest venue in Taiwan and a genuine stadium booking rather than an arena. The Hong Kong stop has been removed from the itinerary, with a January 9, 2027 date at Seoul's Gocheok Sky Dome added in its place. For anyone tracking Asian routing, the substitution is the signal worth watching: acts are consolidating into Taipei, Kaohsiung and Seoul while Hong Kong dates keep quietly disappearing.",
+      "url": "https://kklivetw.kktix.cc/events/34473ba4",
+      "source": "KKLIVE Taiwan / The Standard / Time Out HK",
+      "spotify": "https://open.spotify.com/search/Fujii%20Kaze"
+     },
+     {
+      "en": "Vaundy Announces His First-Ever Asia Arena Tour, HORO, Running September Through November Across Tokyo, Seoul, Hong Kong, Fukuoka, Taipei and Shanghai",
+      "zh": "Vaundy 生涯首次亞洲巡迴「HORO」：9 月至 11 月跑東京、首爾、香港、福岡、台北、上海",
+      "summary": "Vaundy has announced VAUNDY ASIA ARENA TOUR 2026 HORO, the first Asia arena run of his career, covering Tokyo, Seoul, Hong Kong, Fukuoka, Taipei and Shanghai between September and November. The Taipei date is the one to track locally. Vaundy has built his following almost entirely through streaming and anime tie-ins rather than traditional Japanese TV promotion, which historically means overseas demand outruns the venue size booked on a first tour. Watch official ticketing rather than resale.",
+      "url": "https://niewmedia.com/en/news/vaundyasiatour/",
+      "source": "NiEW / CDJapan",
+      "spotify": "https://open.spotify.com/search/Vaundy"
+     },
+     {
+      "en": "YOASOBI Confirm a 2026 North American Tour After a Year That Already Included Lollapalooza Alongside Ado, Plus the E-Side 4 and The Book For EP Releases",
+      "zh": "YOASOBI 確定 2026 北美巡演；今年已與 Ado 一同登上 Lollapalooza，並發行 E-Side 4 與 The Book For 兩張 EP",
+      "summary": "YOASOBI have confirmed a 2026 North American tour, extending a year in which they and Ado both performed at Lollapalooza. The release side has been equally busy: the English-language EP E-Side 4 and the fourth Japanese-language EP The Book For both landed in 2026, following the single Adrena on January 1. No Taiwan date has been announced in this cycle, so the practical read for Taipei fans is to watch whether an Asia leg gets appended after the North American run.",
+      "url": "https://www.cdjapan.co.jp/feature/J-POP-Goes-Global-2026",
+      "source": "CDJapan / Billboard",
+      "spotify": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+     },
+     {
+      "en": "Mrs. GREEN APPLE Close the ZENJIN MITO / IM-MUTABLE Stadium Tour at Tokyo's MUFG Stadium and Stay Focused on Domestic Activity Through the Autumn",
+      "zh": "Mrs. GREEN APPLE 於東京 MUFG Stadium 收掉 ZENJIN MITO／IM:MUTABLE 體育場巡演，秋天仍以日本國內活動為主",
+      "summary": "Mrs. GREEN APPLE played the final shows of their ZENJIN MITO and IM/MUTABLE stadium tour on July 4 and 5 at Tokyo's MUFG Stadium, closing the largest run of their career. Reporting through August indicates the band remains focused on domestic Japanese activity rather than an overseas leg. For fans in Taiwan the takeaway is patient: the group's touring pattern has been to saturate Japan at stadium scale first, with Asian dates following a full album cycle rather than running alongside it.",
+      "url": "https://www.billboard.com/music/music-news/mrs-green-apple-zenjin-mito-tour-concert-recap-1236309889/",
+      "source": "Billboard / Oricon",
+      "spotify": "https://open.spotify.com/artist/3lUV0N4E5ELGFqzGAgRipd"
+     }
+    ]
+   }
+  ]
+ },
+ "market": {
+  "asOf": "台股＝今天 2026/09/21（一）13:30 收盤（已是最新收盤，不是前一交易日）；美股＝前一交易日 2026/09/18（五）美東 16:00 收盤。★ 這份晨報是 9/21 晚上 20:45 產出的，此時美股 9/21 盤還沒開（台北時間 21:30 開盤），所以美股區塊仍是上週五的數字。下一次更新會涵蓋美股 9/21 收盤。",
+  "highlight": "★★★ 今天最值得你記住的一件事：【台股收 47,718.84 點、漲 538.09 點（+1.14%），日 K 連四紅，盤中 47,750.98 是 6/24 以來最高】　但真正的主角不是台積電——是你觀察清單裡的兩檔核心股同時噴出：聯發科（2454）收 5,010 元、+6.37%，盤中最高 5,035 元創歷史新天價，正式站上 5 字頭；台達電（2308）收 1,875 元、+8.07%。台積電（2330）反而只收 2,480 元、+0.81%，而且是「由黑翻紅」才助攻上去的。　三大法人買超 470.38 億元，電子指數 +1.34%、金融 +0.82%，成交金額 8,202.15 億元。　⚠️ 但同一天有一個反向訊號：南亞科（2408）跌逾 1%，因為中國長鑫（CXMT）9/20 宣布第五代 DRAM 平台量產。上週五記憶體族群才剛 +4.82% 領漲，今天就被中國供給的消息打回來——這說明記憶體那一波是「價格題材」而非「結構優勢」，題材一有反例就會立刻反轉。",
+  "note": "★ 三條主線串起今天的盤：　①【聯發科的 5,000 元是產品驅動，不是資金行情】上週推出的天璣 9600M 是直接催化劑，盤中一度飆近 7% 衝破 5,000 元大關、最高 5,035 元創新天價。這跟上週五記憶體那種「合約價落底」的推論型題材不同——天璣 9600M 是可以拿出貨量驗證的東西，所以這一根的可持續性理論上比較高。⚠️ 但也要注意：5,000 元是一個強烈的整數心理關卡，創新天價當天的追價籌碼通常最不穩定。　②【台達電 +8.07% 來自外資調升評等】同一批被外資調高評等的還有日月光投控（3711）。外資調評等的特性是「一次性重評價」：消息當天最猛，之後要看實際財報跟不跟得上。台達電在你的清單裡風險標記是「中」，但單日 8% 的波動已經是高風險股的量級，代表市場對它的定位正在改變。　③【記憶體今天由多轉空，原因是中國供給】長鑫 G5 平台把關鍵特徵間距縮到 11.95 奈米、8Gb 基準下單片晶圓裸晶產出提升逾 50%，並同步推出兩款 24Gb LPDDR5X。產品線重疊最多的就是南亞科（2408）與華邦電（2344）這類利基型 DRAM 業者。★ 值得記住的判斷框架：AI 需求擠壓一般型 DRAM 產能（利多）vs 中國新產能開出（利空），這兩股力量會在 Q4 正面對撞，記憶體股的波動只會更大不會更小。　④【美股背景】上週五費半指數大漲近 3%，這是今天台股電子股敢衝的外部條件；另外市場傳出美中領導人會面前、對中國 AI 管制可能放鬆，也是今天電子族群的共同推力之一。",
+  "indices": [
+   {
+    "market": "TW",
+    "name": "加權指數 TAIEX",
+    "value": "47,718.84",
+    "change": "1.14",
+    "note": "9/21（一）收盤 · +538.09 點 · 日 K 連四紅 · 盤中最高 47,750.98（6/24 以來高點）· 成交金額 8,202.15 億元 · 三大法人買超 470.38 億元 · 電子指數 +1.34%、金融指數 +0.82%。★ 另有一則報導寫收 47,545.27（+364.52、+0.77%），與「漲 538.09 點」的多數報導不符，研判是盤中數字；本頁採 47,718.84。【已交叉確認：Yahoo 股市／Newtalk／今周刊】"
+   },
+   {
+    "market": "TW",
+    "name": "元大台灣50 (0050)",
+    "value": "111.3",
+    "change": "1.32",
+    "note": "⚠️ 示意值。9/18（五）實際收 109.85。今天 0050 的正式收盤價未能取得，此處依大盤 +1.14%、並考量權值股中台積電僅 +0.81% 但聯發科 +6.37%／台達電 +8.07% 的結構推估。請以下單平台為準。"
+   },
+   {
+    "market": "TW",
+    "name": "元大高股息 (0056)",
+    "value": "57.2",
+    "change": "0.53",
+    "note": "⚠️ 示意值。可查到的實際數字是 9/17（四）收 56.30 元（+0.75、+1.35%）。今天收盤價未能取得，此處依「高息成分股在電子權值領漲的盤勢中通常落後大盤」的常態推估。請以下單平台為準。"
+   },
+   {
+    "market": "TW",
+    "name": "台積電 (2330)",
+    "value": "2,480",
+    "change": "0.81",
+    "note": "9/21（一）收盤 · +20 元 · 盤中最高 2,485（+1.01%）· 開盤先黑後紅，由黑翻紅助攻指數。★ 今天它不是最強的那一檔——聯發科與台達電的漲幅都遠勝於它。【已交叉確認】"
+   },
+   {
+    "market": "US",
+    "name": "那斯達克綜合指數",
+    "value": "26,522.55",
+    "change": "0.39",
+    "note": "9/18（五）美東收盤 · 科技股撐盤，三大指數裡唯一收紅超過 0.3%。★ 9/21 美股盤在台北時間今晚 21:30 才開，這個數字到明天晨報才會變。【已交叉確認：CNBC／TheStreet】"
+   },
+   {
+    "market": "US",
+    "name": "S&P 500",
+    "value": "7,650.50",
+    "change": "0.17",
+    "note": "9/18（五）美東收盤 · 小漲作收，盤中一度翻黑。市場仍在消化 9/16 升息 1 碼（12：0 全票通過至 3.75%–4.00%）。【已交叉確認】"
+   },
+   {
+    "market": "US",
+    "name": "道瓊工業指數",
+    "value": "51,682.64",
+    "change": "-0.18",
+    "note": "9/18（五）美東收盤 · -95.40 點 · 三大指數唯一收黑，傳產與金融權值股拖累，另受美債殖利率回升與油價墊高影響。【已交叉確認】"
+   },
+   {
+    "market": "US",
+    "name": "Invesco QQQ",
+    "value": "718.5",
+    "change": "0.22",
+    "note": "⚠️ 示意值。可查到的實際數字是 9/17（四）收 716.92（+12.20、+1.73%），9/18 盤前 718.02（+0.15%）；9/18 正式收盤價未能取得，此處依那斯達克 +0.39% 推估。請以下單平台為準。"
+   }
+  ],
+  "movers": [
+   {
+    "name": "友達（清單外·今日最熱）",
+    "ticker": "2409",
+    "change": "10.0",
+    "price": "9/21 收盤 · 漲停",
+    "reason": "★★★ 不在你的 75 檔觀察清單裡，但今天直接攻上漲停，是全場最猛的一檔，所以放在最上面。　友達上週五就已經是成交量第一名（34.81 萬張），今天接著鎖漲停——面板股出現「量先價行、隔個交易日鎖停」這種節奏，通常代表有中長線資金在進場而非單日沖銷。　【要注意什麼】面板是典型的景氣循環股，報價、稼動率、中國同業產能三個變數決定一切；漲停當天的追價風險最高，而且它不在你原本的分類表裡，代表你對它的產業細節掌握度是零。★ 如果真的有興趣，正確順序是先補產業功課、再看第二天是否留得住漲停價，而不是隔天開盤追。"
+   },
+   {
+    "name": "台達電",
+    "ticker": "2308",
+    "change": "8.07",
+    "price": "9/21 收盤 1,875 元",
+    "reason": "★★ 你清單「核心股」裡今天最強的一檔。驅動力是外資調高評等（同批還有日月光投控 3711），加上電源／散熱／資料中心這條 AI 基建主線本來就順風。　⚠️ 三個提醒：① 你的 config 參考價記的是 1,750 元，實際已到 1,875，差距 7%，建議更新；② 清單裡台達電的風險標記是「中」，但單日 8% 已是高風險股的波動量級，這個標記可能需要重新評估；③ 外資調評等屬於「一次性重評價」，最猛的就是消息當天，後續要看財報接不接得上——別把單日漲幅當成趨勢確認。"
+   },
+   {
+    "name": "聯發科",
+    "ticker": "2454",
+    "change": "6.37",
+    "price": "9/21 收盤 5,010 元 · 盤中最高 5,035 創歷史新天價",
+    "reason": "★★★ 今天最值得記住的個股。收 5,010 元正式站上五位數，盤中 5,035 元是歷史新天價，直接催化劑是上週推出的天璣 9600M（Dimensity 9600M）。　【為什麼這一根比較「實」】跟上週五記憶體那種「合約價跌幅收斂」的推論型題材不同，天璣 9600M 是具體產品，後續有出貨量、客戶採用名單可以驗證，所以可持續性理論上較高。　⚠️ 但兩個風險要並排看：① 5,000 元是很強的整數心理關卡，創新天價當天的追價籌碼最不穩定；② 你 config 裡的參考價是 4,340 元，實際 5,010，落後 15%——這是整份清單裡參考價失真第二嚴重的一檔（最嚴重的是 INTC）。"
+   },
+   {
+    "name": "南亞科",
+    "ticker": "2408",
+    "change": "-1.2",
+    "price": "9/21 收盤 · 示意值",
+    "reason": "★★ 方向反轉，值得單獨記一筆。上週五（9/18）它還是全清單最強、+5.74% 領軍記憶體族群 +4.82%；今天直接由紅翻黑跌逾 1%。　原因很明確：中國長鑫存儲（CXMT）9/20 宣布第五代 DRAM 技術平台量產，關鍵特徵間距縮到 11.95 奈米（四重曝光達成），8Gb 基準下單片晶圓裸晶產出比第四代提升至少 50%，同步推出兩款 24Gb LPDDR5X。產品線重疊最多的就是南亞科、華邦電這類利基型 DRAM 業者。　★ 這件事的教訓比這檔股票本身重要：三個交易日前才被當成「產業落底」的多頭故事，一則中國供給新聞就翻面。記憶體股現在同時被兩股力量拉扯——AI 需求擠壓一般型 DRAM 產能（多）vs 中國新產能開出（空）——Q4 只會更震盪。⚠️ 跌幅為示意值，精確數字請回下單平台核對。"
+   },
+   {
+    "name": "日月光投控",
+    "ticker": "3711",
+    "change": "2.5",
+    "price": "9/21 收盤 · 示意值",
+    "reason": "跟台達電同一批被外資調高評等而走高。先進封裝這條線的能見度目前是整個半導體供應鏈裡最清楚的——HBM 堆疊、CoWoS 擴產、以及今天產業動態區提到的「TSMC 呼籲 DRAM 設計要能被 X 光檢測」，講的都是同一件事：封裝變複雜，檢測與良率成為新瓶頸，而這正是封測廠的價值所在。⚠️ 漲幅為示意值，本頁未取得精確收盤數字。"
+   }
+  ],
+  "quotes": {
+   "2330": "0.81",
+   "2308": "8.07",
+   "2317": "1.1",
+   "2454": "6.37",
+   "2382": "1.5",
+   "3231": "1.2",
+   "6669": "0.9",
+   "2356": "1.0",
+   "3017": "1.4",
+   "3324": "1.1",
+   "3653": "0.8",
+   "2059": "0.7",
+   "2383": "1.3",
+   "2368": "1.0",
+   "3037": "2.2",
+   "2313": "1.6",
+   "3661": "1.5",
+   "3443": "1.2",
+   "3711": "2.5",
+   "2408": "-1.2",
+   "2344": "-0.8",
+   "2337": "-0.6",
+   "6770": "-0.5",
+   "2881": "0.9",
+   "2882": "0.8",
+   "2891": "0.7",
+   "2884": "0.6",
+   "2886": "0.5",
+   "MSFT": "0.3",
+   "GOOGL": "0.6",
+   "META": "0.2",
+   "AAPL": "0.1",
+   "AMZN": "0.4",
+   "NVDA": "0.8",
+   "AVGO": "0.5",
+   "AMD": "1.1",
+   "MU": "2.4",
+   "MRVL": "0.9",
+   "INTC": "7.9",
+   "QCOM": "0.4",
+   "PLTR": "1.3",
+   "ORCL": "0.7",
+   "NOW": "0.2",
+   "CRM": "0.1",
+   "SNOW": "0.9",
+   "CRWD": "0.4",
+   "PANW": "0.3",
+   "ZS": "0.6",
+   "NET": "1.0",
+   "TSLA": "1.5",
+   "RIVN": "2.0",
+   "LCID": "1.2",
+   "UBER": "0.3",
+   "IONQ": "2.5",
+   "QNT": "2.0",
+   "QBTS": "2.2",
+   "RGTI": "1.9",
+   "QUBT": "1.7",
+   "SPCX": "1.1",
+   "RKLB": "1.8",
+   "ASTS": "2.1",
+   "IRDM": "0.2",
+   "COIN": "3.4",
+   "MSTR": "4.2",
+   "HOOD": "2.8",
+   "CRCL": "3.1",
+   "TRON": "2.6",
+   "XYZ": "2.3",
+   "PYPL": "0.4",
+   "LLY": "-0.3",
+   "NVO": "-0.2",
+   "AMGN": "-0.4",
+   "JNJ": "-0.5",
+   "PG": "-0.6",
+   "KO": "-0.4"
+  },
+  "disclaimer": "【已交叉確認的數字，可以放心引用】　台股 9/21（一）收盤：加權指數 47,718.84（+538.09、+1.14%）、盤中最高 47,750.98（6/24 以來高點）、成交金額 8,202.15 億元、三大法人買超 470.38 億元、電子指數 +1.34%、金融指數 +0.82%、日 K 連四紅；台積電 2330 收 2,480（+20、+0.81%，盤中高 2,485）、聯發科 2454 收 5,010（+6.37%，盤中高 5,035 創歷史新天價）、台達電 2308 收 1,875（+8.07%）、友達攻漲停；南亞科 2408 跌逾 1%（受長鑫 G5 量產衝擊）。　美股 9/18（五）收盤：道瓊 51,682.64（-95.40、-0.18%）、S&P 500 7,650.50（+0.17%）、那斯達克 26,522.55（+0.39%）；費半上週五大漲近 3%。　【必須當成示意的數字】0050、0056、QQQ 的收盤價未能取得，已在各該列註明推估依據；下方 75 檔觀察清單裡，除了本頁明確標示「已確認」的 2330／2454／2308 之外，其餘漲跌幅皆為依大盤、族群走勢與新聞推估的示意值，僅供 sparkline 縮放與相對強弱參考，不可當成實際成交資料。　【一個已知的數字衝突】有報導寫台股 9/21 收 47,545.27（+364.52、+0.77%），與多數報導的「漲 538.09 點收 47,718.84」不符，研判前者是盤中數字，本頁採後者。",
+  "historyNote": "個股 sparkline 依「當日漲跌幅」與 config/site.json 的參考價重建、僅供示意；縱軸為實際幣別（台股新臺幣、美股美元）。　⚠️ 今天請特別注意四件事：① 這一區的台股是「今天的收盤」不是前一交易日——因為這份晨報在晚上 20:45 才產出，台股 13:30 早就收了；美股則仍是上週五 9/18，因為 9/21 美股盤在台北時間今晚 21:30 才開。② config/site.json 的參考價已嚴重落後：INTC 記 89.51（實際約 109）、聯發科記 4,340（實際 5,010）、台達電記 1,750（實際 1,875）、台積電記 2,390（實際 2,480）。再不更新，sparkline 的縱軸會失真到沒有參考價值——建議這週找 20 分鐘整批重寫一次。③ 除了本頁標示「已確認」的三檔，其餘漲跌幅都是推估值，下單前務必回你的平台核對。④ 記憶體族群三個交易日內從「最強」翻到「翻黑」，如果你手上有相關部位，這是重新檢視進出場理由的時機，而不是加碼或砍倉的訊號。"
+ }
+}
