@@ -1,0 +1,602 @@
+{
+ "date": "2026-10-22",
+ "dateLabel": "2026 年 10 月 22 日（週四）—— **今天只有三件事值得你花時間**：①**薔琵颱風今天上午 11:30 發陸上警報，氣象署 10:00 風雨預報顯示 10/23（五）全台 17 縣市達停班停課標準、台南在列**（沿海鄉鎮風力達標），明天很可能放颱風假 —— 所有「要跑系辦／生輔組」的事今天就要做完。②**陳果夫先生獎學金紙本收件 10/23（五）截止**，而 10/23 正是最可能停班停課那天 —— 今天不交就幾乎沒機會。③**兩個期中考與一次補課定案**：程序控制 11/4(三) 10:10–12:00 在 93422（ch1~ch6、要帶工程計算機）、日文（三）期中考在第九週 11/2–11/6 且**旁聽生要登記才能考**、單元操作（二）補課確定 10/29(四) 19:10–21:00 在 93406。",
+ "weather": {
+  "icon": "🌀",
+  "high": 29,
+  "low": 24,
+  "note": "★ **今天（10/22，週四）全台進入薔琵颱風外圍環流影響期。**氣象署 10/22 08:00 定位：中心位於**鵝鑾鼻東南東方約 560 公里**，以每小時 19 公里向西北移動，近中心最大風速 **51 m/s（強烈颱風）**；**上午 11:30 發布陸上警報**，首波以花蓮、台東為主，海上警戒含巴士海峽、台灣東半部海面（蘭嶼、綠島）與北部海面。　★ **台南今天**：白天多雲、外圍環流尚未明顯進場，體感悶熱（高溫約 29°C、低溫約 24°C），但**沿海風力入夜後逐步增強**。　★ **真正的雨與風在 10/23–10/24**：北部、宜蘭、中部山區與花蓮山區留意局部大雨或豪雨，北部與宜蘭山區不排除豪雨以上；10/23 颱風最接近時，北海岸、宜蘭、恆春半島可能出現**接近 12 級強陣風**，沿海浪高可達約 6 公尺。　★ **路徑最大變數**：太平洋高壓導引氣流減弱，不排除**滯留或打轉**，若更靠近台灣，風雨影響時間會明顯拉長 —— 這也是為什麼「10/23 放不放假」到今天晚上才會定案。（天氣數值為公開報導整理，請以中央氣象署最新發布為準）"
+ },
+ "schedule": {
+  "available": true,
+  "message": "",
+  "tasks": [
+   {
+    "title": "洗衣服",
+    "pri": "低",
+    "cat": "家事",
+    "time": "全天",
+    "done": false
+   }
+  ],
+  "note": "★ **Notion「事件」資料庫今天（10/22，週四）只有 1 筆：洗衣服（家事／低優先／未開始）**，負責人欄位空白（這代表它不會出現在「我的任務」視圖，想被提醒就要補上負責人）。　★ **往後一週（10/23–10/31）資料庫裡全部都是家事輪值**：10/23 倒垃圾、10/24 洗衣服、10/25 刷廁所＋倒垃圾、10/26 洗衣服、10/27 倒垃圾、10/28 刷廁所、10/29 洗衣服、10/30 倒垃圾、10/31 洗衣服 —— **沒有任何一筆學業事項被建檔**。　★ **這就是今天最該修的洞**：信件區已經確認了 4 個有明確日期的學業節點（10/23 獎學金截止、10/29 單元操作補課、11/2–11/6 日文期中考、11/4 程序控制期中考）＋ 1 個行政節點（10/30 前領書卷獎獎狀），**全部都不在 Notion 裡**。請用信件區每封信下方的「加入行事曆」按鈕一次補完，否則颱風假一過、課程全部擠在同一週時會直接漏掉。　★ **颱風提醒**：若 10/23 台南停班停課，倒垃圾（清運很可能停收）與任何「要出門辦的事」都會被迫延後，這也是今天要把 10/23 的事情提前做完的第二個理由。"
+ },
+ "mail": {
+  "window": "⚠️ 本期窗口已延長：**10/21 07:00 – 10/22 23:00 台北時間（約 40 小時）** —— 因為排程實際在台北時間 10/23 凌晨才執行，為避免 10/22 一整天的信漏掉而擴大掃描。收件匣符合條件 **9 封（含 1 筆昨日未結案事項），全部來自成功大學**，外部／個人信件 **0 封**；已過濾電子報、促銷、團購、活動宣傳與自動通知共 24 封（含 PRO360 相關 0 封）。來源信箱：**e34131227@gs.ncku.edu.tw**。",
+  "items": [
+   {
+    "level": "red",
+    "tag": "🔴 最高優先 · 成大化工系辦 · 賴姵含（專案工作人員）· z10209040@ncku.edu.tw · 10/21 17:52 到信",
+    "title": "💰 【獎學金／清寒・大學部二年級以上】115 學年度陳果夫先生獎學金 —— **紙本收件 10/23（五）截止，而 10/23 正是最可能放颱風假的那天**",
+    "kind": "需要動作（今天就做，30–60 分鐘）：①先確認三個資格是否全中 ——（a）家境清寒、（b）上學年度第 1、2 學期學業成績**均達 80 分以上**、（c）本學年度**未領取其他獎學金**；②若符合，今天備齊紙本（成績單、清寒證明、申請書）並**今天就送到生輔組**；③若不確定資格，今天上班時間直接打化工系辦或生輔組問清楚 —— 明天可能沒人上班。",
+    "detail": "★ 化工系專案工作人員 **賴姵含** 於 **2026/10/21（三）17:52** 轉知生輔組辦理之「115 學年度陳果夫先生獎學金」，信件主旨已自行標註「**還有 2 天截止!!**」，**紙本收件至 10 月 23 日（星期五）截止**。　★ 申請資格：本校在學**二年級以上大學部**學生，須同時符合（1）家境清寒；（2）上學年度第 1、2 學期學業成績**均達 80 分以上**；（3）本學年度**未領取其他獎學金**。　★ 獎助名額與金額：本校推薦**交管、機械、電機、資源、化工**等系所學生 —— **化工系在推薦名單內**，這是本系同學可直接適用的獎項。　★ **為什麼今天非做不可**：氣象署 10/22 10:00 風雨預報顯示 **10/23（五）台南達停班停課標準**，若台南市政府宣布停班停課，生輔組與系辦**不收件、不受理**，而這個獎學金是「紙本收件」沒有線上替代管道 —— 一旦 10/23 放假，截止日是否順延完全看校方臨時公告，風險不該由你承擔。　★ 注意「未領取其他獎學金」這條與下方第 6 封的**曹教授簡禹紀念獎學金（11/20 截止）互斥風險**：兩個都申請時要先確認是否衝突，建議今天一併問清楚。",
+    "deadline": "2026-10-23（五）紙本收件截止（距今 1 天，且當天極可能停班停課）",
+    "action": "今天確認資格並把紙本送到生輔組，不要留到 10/23",
+    "calendar": {
+     "title": "繳交陳果夫獎學金紙本（生輔組，10/23 截止）",
+     "date": "2026-10-22",
+     "cat": "報告",
+     "pri": "高"
+    }
+   },
+   {
+    "level": "red",
+    "tag": "🔴 高優先 · 成大 Moodle · 單元操作（二）童翊雯 · noreply@ncku.edu.tw · 10/22 19:48 到信",
+    "title": "📅 1151_單元操作（二）：**10/29（四）19:10–21:00 在 93406 補課定案** —— 因 10/26（一）光復節補假停課而移到週四晚上",
+    "kind": "需要動作（2 分鐘）：①按下方「加入行事曆」把 10/29（四）19:10–21:00 的補課寫進 Notion；②檢查 10/29 晚上原本有沒有排其他事（Notion 當天只有「洗衣服」，所以是乾淨的）；③記住教室是 **93406**，不是平常上課的教室。",
+    "detail": "★ 童翊雯於 **2026/10/22（四）19:48** 在 Moodle「1151_單元操作（二） UNIT OPERATIONS (II)（1151_E326120_1）」公佈欄發文：「同學們好，由於下週 **10/26（一）光復節補假停課**，因此本課程最終確定將於 **10/29（四）19:10–21:00 在 93406 教室**進行補課，謝謝！」　★ 關鍵字是「**最終確定**」—— 先前可能有過其他候選時段，這封是定案版，之前記的時間請直接覆蓋。　★ **為什麼要立刻記**：10/29 是週四晚上，不是你平常會預期有課的時段，而且那一週（10/26–10/30）同時卡著 **10/30 前要領書卷獎獎狀**、**11/2 起日文期中考**、**11/4 程序控制期中考** —— 這是一個「行程密度突然上升」的週，漏記一堂晚上的補課代價很高。",
+    "deadline": "2026-10-29（四）19:10–21:00 · 93406 教室",
+    "action": "加入行事曆，並確認 10/29 晚上沒有衝堂",
+    "calendar": {
+     "title": "單元操作（二）補課 19:10–21:00（93406）",
+     "date": "2026-10-29",
+     "cat": "特殊課",
+     "pri": "高"
+    }
+   },
+   {
+    "level": "orange",
+    "tag": "🟠 高優先 · 成大 Moodle · 程序控制 王之賢 · noreply@ncku.edu.tw · 10/21 12:24 到信",
+    "title": "📝 1151_程序控制：**期中考 11/4（三）10:10–12:00 在 93422，範圍 ch1~ch6，要帶工程計算機**",
+    "kind": "需要動作（今天 5 分鐘＋之後要排讀書時間）：①加入行事曆；②今天就把 ch1~ch6 的講義與作業清點一遍，確認手上有齊；③把工程計算機找出來並換電池（考場不借）；④因為 10/26 連假＋可能的颱風假會吃掉時間，建議現在就把 11/1–11/3 標成「程序控制衝刺」。",
+    "detail": "★ 王之賢於 **2026/10/21（三）12:24** 在 Moodle「1151_程序控制 PROCESS CONTROL（1151_E335500_2）」公佈欄發布期中考資訊：「**時間：11/4(三) 10：10~12：00　地點：93422　範圍：ch1~ch6　請攜帶工程計算機**」。　★ 範圍 **ch1~ch6** 在程序控制這門課通常涵蓋 process dynamics、Laplace transform 建模、一階／二階系統響應、PID 控制器與閉迴路穩定性 —— 是整學期最吃「會不會算」而不是「背不背得起來」的一段，臨時抱佛腳效果最差。　★ **時程擠壓警告**：從今天（10/22）到考試只有 13 天，其中 **10/23 可能颱風假（不等於可讀書，颱風天常停電停網）**、**10/24–10/26 連假（10/26 光復節補假）**、**10/29 晚上要補單元操作**、**11/2–11/6 日文（三）期中考週** —— 真正乾淨的讀書時段只剩約 6 個整天。",
+    "deadline": "2026-11-04（三）10:10–12:00 · 93422 · 範圍 ch1~ch6",
+    "action": "加入行事曆、清點 ch1~ch6 教材、準備工程計算機",
+    "calendar": {
+     "title": "程序控制期中考 10:10–12:00（93422，ch1~ch6，帶工程計算機）",
+     "date": "2026-11-04",
+     "cat": "考試",
+     "pri": "高"
+    }
+   },
+   {
+    "level": "orange",
+    "tag": "🟠 中高優先 · 成大 Moodle · 日文（三）黃宇誠 · noreply@ncku.edu.tw · 10/21 19:30 到信",
+    "title": "🇯🇵 1151_日文（三）：**期中考預計第九週 11/2~11/6 課堂時段舉行；旁聽生預設不考，要考必須主動登記**",
+    "kind": "需要動作（今天 3 分鐘決定）：①先確認自己是**正式修課**還是**旁聽**；②若是旁聽且想考（想驗收程度、想拿成績參考），**要主動登記**，否則系統預設你不考；③加入行事曆並留意「各班級子課程」後續會公布的詳細時間與範圍。",
+    "detail": "★ 黃宇誠於 **2026/10/21（三）19:30** 在 Moodle「1151_日文（三） JAPANESE (III)（META_1151_A160130_1）」公佈欄發文：「請各位旁聽生注意，本課程預計於**第九週（11/2~11/6）課堂時段**辦理期中考，詳細資訊之後會在各班級的子課程公布。**旁聽生預設會是不參加考試，但如果有旁聽生想要參加考試可以登記**。」　★ 這封信的重點是「**預設值對你不利**」—— 不做任何事就等於放棄考試機會。如果你是為了學日文、想知道自己 N3/N4 程度落在哪裡而旁聽，這場期中考是學期內唯一的免費檢測點。　★ **和你最近想學日文的目標直接相關**：日文（三）進度通常已進入**て形／た形變化、授受動詞（あげる・くれる・もらう）、可能形與條件形（たら・ば）**這一段，是 N4 往 N3 的分水嶺 —— 考一次比自己讀三週更能看出盲點。　★ 注意這門課是 **META 課程（跨班母課程）**，所以「詳細資訊在子課程公布」意思是你要去自己那一班的 Moodle 頁面看，母課程不會再發第二封。",
+    "deadline": "2026-11-02 ~ 2026-11-06（第九週課堂時段）· 旁聽生登記無明確截止日，愈早愈好",
+    "action": "確認修課身分；若旁聽且想考，今天就去登記",
+    "calendar": {
+     "title": "日文（三）期中考週開始（旁聽生需先登記）",
+     "date": "2026-11-02",
+     "cat": "考試",
+     "pri": "中"
+    }
+   },
+   {
+    "level": "yellow",
+    "tag": "🟡 中優先 · 成大 Moodle · 工程數學（一）劉瑞農 · noreply@ncku.edu.tw · 10/22 00:18–00:45 連發 5 封",
+    "title": "📐 1151_工程數學（一）：**Moodle 上架新 handouts 與影片，並連發 3 則 handout 勘誤（errata），外加一份 MIT 18.03 參考課程**",
+    "kind": "需要動作（今天 20–30 分鐘）：①上 Moodle 下載新的 handouts 與影片；②**把 3 則勘誤逐一標回自己手上的講義**（一則是 handout 左下角 typo、一則是 handout 底部的 erratum、一則是**影片裡的錯誤**）；③影片有錯這件事最危險 —— 如果你已經照影片做過題目，要回去重做；④MIT 18.03 當作補充，不急。",
+    "detail": "★ 劉瑞農在 **2026/10/22（四）00:18–00:45** 之間於「1151_工程數學（一） ENGINEERING MATHEMATICS (I)（1151_E220610_3）」公佈欄密集發了 5 則貼文：　**①00:18「回應: Updates」** —— The following materials have been posted on Moodle: Handouts & 影片（新教材上架）。　**②00:20「Errata of the handout」** —— There is a typo in the bottom left of the handout（講義左下角有誤）。　**③00:20「回應: Errata of the handout」** —— There is a misleading colors in the …（配色誤導）。　**④00:21「回應: Errata of the handout」** —— There is an erratum in the bottom of …（講義底部勘誤）。　**⑤00:22「回應: Errata of the handout」** —— There is an error in the video of the …（**影片內容有誤**）。　**⑥00:45「MIT 18.03 Differential Equations (Spring 2006)」** —— 推薦 MIT 公開課作為 ODE 補充教材。　★ **為什麼值得花半小時**：老師在半夜連發三則勘誤、其中一則是影片錯誤，代表**這份教材剛剛大改**。工程數學的勘誤不像文字課錯字無害 —— 一個符號或正負號錯掉，整題解法會走到完全不同的答案，而且你會一直以為自己算對。　★ MIT 18.03（Spring 2006）是 Arthur Mattuck 的經典 ODE 課程，講 first-order ODE、linear systems、Laplace transform —— **和上面程序控制 ch1~ch6 的數學基礎高度重疊**，這份補充教材其實一石二鳥。",
+    "deadline": "無硬性截止，但建議今天完成（教材剛改過，愈晚對照愈容易用到錯版本）",
+    "action": "下載新 handouts／影片，並把 3 則勘誤標回講義",
+    "calendar": {
+     "title": "工程數學：下載新 handouts 並標回 3 則勘誤",
+     "date": "2026-10-22",
+     "cat": "功課",
+     "pri": "中"
+    }
+   },
+   {
+    "level": "yellow",
+    "tag": "🟡 中優先 · 成大化工系辦 · 賴姵含 · z10209040@ncku.edu.tw · 10/21 10:25 到信",
+    "title": "💰 【獎學金／大二以上】115 學年度成大曹教授簡禹紀念獎學金 —— **線上收件至 11/20（五）中午 12:00 截止**，門檻比陳果夫寬",
+    "kind": "需要動作（今天 10 分鐘評估）：①這是**線上收件**，不受颱風假影響，所以不急著今天交，但**今天要先判斷要不要申請**；②門檻只要「各學期學業總平均 70 分以上＋品德優良」，比陳果夫的 80 分寬很多；③**關鍵：先確認和陳果夫的「未領取其他獎學金」條件是否互斥**，再決定申請順序；④加入行事曆設在 11/18 提醒自己，不要卡在 11/20 中午。",
+    "detail": "★ 賴姵含於 **2026/10/21（三）10:25** 轉知生輔組公告「115 學年度國立成功大學－曹教授簡禹紀念獎學金」，**線上收件至 11 月 20 日中午 12:00 截止**，相關資訊亦公告於系網頁。　★ 獎助對象：**本校化工系及化學系大學部二年級以上**之學生；各學期學業總平均成績 **70 分以上**，且品德優良。　★ **這個獎學金是為化工系量身訂做的** —— 申請池只有化工＋化學兩系的大二以上學生，競爭者數量遠小於全校性獎項，中獎機率結構上就比較高。　★ **和陳果夫的取捨**：陳果夫要 80 分以上＋家境清寒＋未領其他獎學金、10/23 紙本截止；曹教授簡禹只要 70 分以上、11/20 線上截止。若兩者的「未領取其他獎學金」條款互斥，**合理策略是先衝門檻高但時間緊的陳果夫，再視結果決定曹教授簡禹** —— 但這要今天跟系辦確認，不要自己猜。",
+    "deadline": "2026-11-20（五）中午 12:00 線上收件截止（距今 29 天）",
+    "action": "今天評估資格與互斥性，行事曆設 11/18 提醒",
+    "calendar": {
+     "title": "曹教授簡禹紀念獎學金線上申請（11/20 中午截止）",
+     "date": "2026-11-18",
+     "cat": "報告",
+     "pri": "中"
+    }
+   },
+   {
+    "level": "red",
+    "tag": "🔴 昨日未結案 · 成大化工系辦 · 賴姵含 · z10209040@ncku.edu.tw · 10/20 14:40 到信（仍未完成）",
+    "title": "📕 【結轉提醒】114-2 成大書卷獎獎狀 —— **10/30（五）前要親自到化工系辦 93516 領**，可用平日因連假與颱風再被壓縮到只剩 3 天",
+    "kind": "需要動作（今天或 10/27 之前就要去）：①先點公告連結確認自己在不在受獎名單；②若在名單上，**今天趁系辦還開著就去 93516 領**；③領取時間是平日 8–12／13–16，颱風假與連假都不算。",
+    "detail": "★ 這是 **10/20（二）14:40** 的信，昨天（10/21）的簡報已列為最高優先但尚未結案，今天必須重新提醒，因為**可用時間又變少了**。　★ 原始內容：化工系專案工作人員賴姵含寄給本系大學部同學，公告「114 學年度第 2 學期」優良學生書卷獎受獎名單，**獎狀須於 10/30（五）前親自到化工系辦（93516）領取**，領取時間為平日 8:00–12:00／13:00–16:00。　★ **為什麼今天要再推一次**：從 10/22 到 10/30 表面上有 9 天，但扣掉 **10/23（可能颱風假）**、**10/24–10/25（週末）**、**10/26（光復節補假停課）**，真正能進系辦的平日只剩 **10/22（今天）、10/27、10/28、10/29、10/30** 共 5 天，而其中 10/29 晚上還有補課、10/30 是最後一天沒有緩衝。　★ **最佳做法**：今天你本來就要為陳果夫獎學金跑一趟系辦／生輔組 —— **把領獎狀和問獎學金併成同一趟**，一次解決兩件事。",
+    "deadline": "2026-10-30（五）前領取（距今 8 天，可用平日僅 5 天）",
+    "action": "今天和獎學金一起跑一趟，順便到 93516 領書卷獎獎狀",
+    "calendar": {
+     "title": "領書卷獎獎狀（化工系辦 93516，平日 8-12／13-16）",
+     "date": "2026-10-30",
+     "cat": "報告",
+     "pri": "高"
+    }
+   },
+   {
+    "level": "green",
+    "tag": "🟢 低優先 · 成大學務處 · no-reply@mail.ncku.edu.tw · 10/22 15:18 到信（第 2 次通知）",
+    "title": "📋 【填問卷，抽大獎】成大全校學生網路問卷調查 —— 第 2 次通知，還沒填的話 5 分鐘可解決",
+    "kind": "需要動作（5 分鐘，可排到颱風假在家時做）：點 https://stud2.adm.ncku.edu.tw/evaluation/115/ 填完即完成，有抽獎。",
+    "detail": "★ 成大學務處於 **2026/10/22（四）15:18** 寄出「每年舉辦的全校學生網路問卷調查**第 2 次通知**」，問卷網址 **https://stud2.adm.ncku.edu.tw/evaluation/115/** 。　★ 這是「第 2 次通知」代表第一次你沒填 —— 學務處的問卷通常會發到第 3、4 次，與其被一直提醒，不如趁 10/23 可能在家的時候一次清掉。　★ 這類全校問卷無截止壓力也無學分影響，所以放在最低優先，**但它是唯一一件「颱風假窩在家也能完成」的事項** —— 如果明天真的停班停課，這就是最適合清掉的待辦。",
+    "deadline": "信中未載明截止日（通常到學期中後段）",
+    "action": "颱風假在家時花 5 分鐘填完",
+    "calendar": {
+     "title": "填成大全校學生網路問卷（抽獎）",
+     "date": "2026-10-23",
+     "cat": "功課",
+     "pri": "低"
+    }
+   },
+   {
+    "level": "green",
+    "tag": "🟢 僅供知悉 · 成大化學工程學系 · no-reply@mail.ncku.edu.tw · 10/21 11:57–12:03 兩封",
+    "title": "🚪 化工系館門禁兩則：**後門刷卡機位置變更（移到進門右手邊）** ＋ **實驗室發生偷竊，系辦要求落實門禁閉鎖**",
+    "kind": "不需要動作，但今天去系館時要知道：①後門刷卡機已**移到要進門的右手邊**，刷不到不要以為壞了；②系上**有實驗室發生偷竊財物事件**，離開實驗室／辦公室務必關窗上鎖，看到陌生人可通報校安中心（分機 55555）或駐警隊（分機 66666）。",
+    "detail": "★ **第一封（10/21 12:03）**：系上後門門禁刷卡機因**西曬嚴重**導致機器時有故障、液晶面板長期紫外線曝曬老化發黑，與廠商討論後**更換卡機位置**，變更後位置在**要進門的右手邊**（信中附照片）。　★ **第二封（10/21 11:57）**：系辦籲請提高門禁警覺 ——「**近日本系有實驗室發生偷竊財物事件**」，請各實驗室、辦公室下班時間務必落實系所、館、大樓門禁閉鎖，加強檢視門窗（含上層氣窗）閉鎖狀況；如發現陌生人士或非系館人員遊晃、逗留，請主動詢問或通報**校安中心（分機 55555）**、**駐警隊（分機 66666）**。　★ **和你今天的行程有關**：你今天要去化工系辦（領獎狀＋問獎學金），順手確認一下新的刷卡機位置，省得下次晚上回實驗室卡在門外。",
+    "deadline": "無",
+    "action": "知悉即可；今天去系館時留意新刷卡機位置",
+    "calendar": null
+   }
+  ],
+  "footnote": "★ **今天信件區的一句話結論：9 封成大信裡，只有一件事會因為「拖到明天」而真正無法挽回 —— 陳果夫獎學金 10/23 紙本截止，而 10/23 很可能停班停課。**　★ **今天出門一趟可以一次解決三件事**：（1）到化工系辦 93516 領書卷獎獎狀（10/30 前，可用平日只剩 5 天）；（2）順便問清楚陳果夫與曹教授簡禹兩個獎學金的「未領取其他獎學金」是否互斥；（3）確認後門新刷卡機位置。　★ **今天在家可以解決三件事**：（1）下載工程數學新 handouts 並標回 3 則勘誤（含影片錯誤）；（2）用下方按鈕把 4 個考試／補課節點寫進 Notion；（3）如果是日文（三）旁聽生且想考期中考，去登記。　★ **過濾掉的 24 封**包含：圖書館快訊、原資中心文化活動（11/14 毛利文化、11/21 網袋勾織、11/17 生態知識營）、通識 AI 講座（10/28）、學術誠信講座（11/20）、鳳凰新創獎公告、雪梨大學見面會（11/19）、成功論壇（11/5）、職涯教練說明會、外語進修班、黃韻玲講座（11/10）、大南方論壇（10/31）、人權藝術節書展（10/22–23）、SEL 嘉年華單車搬遷公告（同一事發兩封）、合作社團購、雲平咖啡校慶伴手禮、三星禮券、生理用品補助（資格不符）、OIA eNews 月刊 —— 這些都沒有需要你今天動手的事。**PRO360 相關信件本期為 0 封。**"
+ },
+ "news": {
+  "window": "過去 48h（10/20 23:00 – 10/22 23:00 台北時間）· 來源：Democracy Now! 10/22 Headlines／Yahoo Finance／9to5Mac／Techzine／MedicalXpress／Futurity／The Avocado Sportacados／NiEW／otomo.net。**新聞摘要一律約 100 字英文，中文僅一行副標。**",
+  "groups": [
+   {
+    "label": "頭條",
+    "items": [
+     {
+      "en": "U.S. and Israeli Militaries Draft Plans to Resume Strikes on Iran After Midterm Elections",
+      "zh": "**五角大廈與以色列軍方已擬定「期中選舉後重啟對伊朗空襲」的具體計畫** —— 同時伊朗革命衛隊稱擊中波斯灣北部四艘油品轉運船，荷莫茲海峽另有三艘船觸雷，油運風險直接升高。",
+      "summary": "Iran's Revolutionary Guard says it struck four oil-transfer vessels in the northern Persian Gulf, while three other ships hit mines in the Strait of Hormuz. The New York Times reports the Pentagon and Israel's military have drafted specific plans to resume strikes on Iran after the U.S. midterm elections, suggesting the current pause is tactical rather than a de-escalation. The Strait of Hormuz carries roughly a fifth of global oil, so mining incidents and vessel strikes there feed directly into shipping insurance costs and crude prices. Markets have so far treated the escalation as contained, but the reported post-midterm timeline gives a concrete date range for renewed risk.",
+      "source": "Democracy Now! — Headlines for October 22, 2026",
+      "url": "https://www.democracynow.org/2026/10/22/headlines"
+     },
+     {
+      "en": "Saudi Arabia Says Four People Are Killed as Houthis Attack Oil Field and King Fahd Airport",
+      "zh": "**沙烏地阿拉伯遭胡塞武裝攻擊油田與法赫德國王國際機場，至少 4 死 8 傷，美國已下令駐沙外交人員撤離。**",
+      "summary": "Saudi officials say a strike on King Fahd International Airport killed at least two people and wounded eight, while a Houthi drone attack on an oil field reportedly killed two more. The United States has ordered its diplomats in Saudi Arabia to evacuate, an unusually strong signal that Washington expects further attacks rather than a one-off strike. Hitting both civil aviation infrastructure and upstream oil facilities in the same window marks an escalation beyond the Houthis' earlier shipping-focused campaign. Combined with the Strait of Hormuz incidents, the region now has two simultaneous threats to energy logistics.",
+      "source": "Democracy Now! — Headlines for October 22, 2026",
+      "url": "https://www.democracynow.org/2026/10/22/headlines"
+     },
+     {
+      "en": "Russia Kills More Civilians in Ukraine as U.S. Envoy Witkoff Praises Putin as a \"Humanitarian\"",
+      "zh": "**俄軍一夜攻擊烏克蘭 12 個州、基輔至少 2 死；美方特使威特科夫稱普丁為「人道主義者」，遭兩黨同聲批評。**",
+      "summary": "Russian drones and missiles struck twelve Ukrainian regions overnight, killing at least two people in Kyiv. Kremlin officials said U.S.-brokered talks will resume next month, which places the diplomatic track and the escalating strike campaign on parallel lines rather than in sequence. U.S. envoy Steve Witkoff's description of Vladimir Putin as a \"humanitarian\" drew bipartisan criticism in Washington and raised questions about the administration's negotiating posture. For Taiwan-based readers, the pattern worth watching is not the rhetoric but whether negotiations proceeding alongside continued strikes becomes an accepted template.",
+      "source": "Democracy Now! — Headlines for October 22, 2026",
+      "url": "https://www.democracynow.org/2026/10/22/headlines"
+     },
+     {
+      "en": "U.N. Says World Has Lost Its Chance to Limit Global Heating to 1.5°C",
+      "zh": "**聯合國報告正式宣告：將升溫控制在工業化前 1.5°C 以內的機會已經失去**，但大幅減排與停止森林砍伐仍能縮短並縮小「超標期」。",
+      "summary": "A new United Nations report concludes the world has missed its chance to hold warming to 1.5 degrees Celsius above preindustrial levels, shifting the framing from prevention to overshoot management. The report argues that deep emissions cuts and an end to deforestation could still shorten the overshoot period and reduce its peak magnitude, which matters because the duration above 1.5 degrees drives how much irreversible damage accumulates. For chemical engineering students the practical consequence is that carbon capture, process electrification and heat-integration work move from optional sustainability projects toward core design constraints.",
+      "source": "Democracy Now! — Headlines for October 22, 2026",
+      "url": "https://www.democracynow.org/2026/10/22/headlines"
+     },
+     {
+      "en": "Nigeria Reports Its First Case of Ebola in Over a Decade",
+      "zh": "**奈及利亞確診十多年來首例伊波拉病例**，患者由衣索比亞入境、曾赴剛果民主共和國；當前疫情累計逾 4,600 死、近 1 萬人感染。",
+      "summary": "Nigeria has confirmed an Ebola case in a patient who flew in from Ethiopia after traveling to the Democratic Republic of the Congo, the country's first in more than ten years. The wider outbreak has already killed over 4,600 people and infected nearly 10,000. The significance is the travel chain: a case arriving by air in Africa's most populous country, with Lagos as a major aviation hub, changes the containment problem from a regional one to a potentially international one. Health authorities will now be racing to complete contact tracing across at least three countries.",
+      "source": "Democracy Now! — Headlines for October 22, 2026",
+      "url": "https://www.democracynow.org/2026/10/22/headlines"
+     }
+    ]
+   },
+   {
+    "label": "科技",
+    "items": [
+     {
+      "en": "Critical PHP Flaws Leave the Majority of Websites on the Internet Vulnerable",
+      "zh": "**PHP 爆出可讓攻擊者接管伺服器的重大漏洞，影響網路上多數網站** —— 維基百科與 BBC 部分服務一度離線搶修。",
+      "summary": "Critical vulnerabilities have been found in PHP, the language behind most of the world's websites, which could let attackers take over servers and steal data. Parts of Wikipedia and the BBC went offline while programmers rushed to patch the bug. This is the rare class of flaw where the blast radius is defined by language adoption rather than by any single product, so patch coverage will lag for months on unmaintained sites. The market read-through was immediate: cybersecurity names including Zscaler, Okta, Cloudflare and CrowdStrike rose five to seven percent intraday on October 21.",
+      "source": "Democracy Now! — Headlines for October 22, 2026",
+      "url": "https://www.democracynow.org/2026/10/22/headlines"
+     },
+     {
+      "en": "Meta Ordered to Pay a $25 Billion Fine Over Facebook Data Misuse",
+      "zh": "**新墨西哥州法官判 Meta 賠 250 億美元**，源自劍橋分析醜聞中誤導用戶資料用途 —— 為該公司史上最大罰款，但仍遠低於州方主張的約 2,200 億美元上限。",
+      "summary": "A New Mexico judge ordered Meta to pay twenty-five billion dollars for misleading users about how their Facebook data was handled, in a case stemming from the Cambridge Analytica scandal. It is the largest fine in the company's history, though far below the roughly two hundred twenty billion dollars the state argued the statute allowed. The gap between the awarded and maximum amounts is the detail to watch, because it sets an informal discount factor other state attorneys general will cite in pending privacy suits. Appeals are near certain given the size of the award.",
+      "source": "Democracy Now! — Headlines for October 22, 2026",
+      "url": "https://www.democracynow.org/2026/10/22/headlines"
+     },
+     {
+      "en": "Musk Says SpaceX and Tesla Have Formed Special Committees to Discuss a Potential Merger",
+      "zh": "**馬斯克表示 SpaceX 與特斯拉已各自成立特別委員會，討論可能的合併** —— SpaceX 財報優於預期後股價收漲 7.79%，特斯拉同日漲 3.41%。",
+      "summary": "Elon Musk said SpaceX and Tesla have each formed special committees to discuss a potential merger, the clearest signal yet that the two companies' capital structures could be combined. SpaceX closed October 21 at 159.31 dollars, up 7.79 percent after quarterly results beat estimates, while Tesla closed at 386.47 dollars, up 3.41 percent. Special committees are the standard governance device for related-party transactions, so their formation indicates the discussion has moved past the informal stage. Separately, AT&T fell 6.45 percent as investors weighed competitive pressure from SpaceX's Starlink Mobile plans.",
+      "source": "Yahoo Finance — Stock market today, Wednesday October 21 2026",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-october-21-dow-sp-500-nasdaq-100000105.html"
+     }
+    ]
+   },
+   {
+    "label": "運動",
+    "items": [
+     {
+      "en": "World Series Set: Tampa Bay Rays vs. Milwaukee Brewers, Neither Franchise Has Ever Won",
+      "zh": "**世界大賽對戰組合出爐：坦帕灣光芒對密爾瓦基釀酒人** —— 光芒在美聯冠軍賽六戰勝出，釀酒人橫掃國聯冠軍賽；兩隊都從未奪冠，今年必定誕生新王。",
+      "summary": "The Tampa Bay Rays, who won the American League Championship Series in six games, will face the Milwaukee Brewers, who swept the National League Championship Series. Neither franchise has ever won a World Series, so this year guarantees a first-time champion. The contrast in paths is notable: the Rays ground out a six-game series while the Brewers arrive rested from a sweep, which usually favors the swept-series team's pitching rotation alignment. Both are small-market clubs, making this a rare World Series with no large-payroll team involved.",
+      "source": "The Avocado — Sportacados Discussion Thread for October 21-22, 2026",
+      "url": "https://the-avocado.org/2026/10/21/sportacados-discussion-thread-for-october-21-22-2026/"
+     },
+     {
+      "en": "NBA Season Opens: Pistons Erase a 20-Point Deficit to Beat the Celtics; Knicks Lose on Banner Night",
+      "zh": "**NBA 2026-27 球季開幕：活塞逆轉 20 分落後擊敗塞爾提克**；尼克升起冠軍錦旗之夜卻敗給七六人，雷霆則擊敗馬刺。",
+      "summary": "The 2026-27 NBA season began with the Detroit Pistons erasing a twenty-point deficit to beat the Boston Celtics. The New York Knicks raised their championship banner but lost to the Philadelphia 76ers on the same night, and the Oklahoma City Thunder beat the San Antonio Spurs. A twenty-point comeback in a season opener is unusual because rotations are still unsettled and teams rarely have the defensive cohesion to force that kind of swing. The Knicks' banner-night loss continues a long pattern of defending champions starting slowly.",
+      "source": "The Avocado — Sportacados Discussion Thread for October 21-22, 2026",
+      "url": "https://the-avocado.org/2026/10/21/sportacados-discussion-thread-for-october-21-22-2026/"
+     },
+     {
+      "en": "WNBA Finals Draw Record Audience as Atlanta Dream Face Golden State Valkyries",
+      "zh": "**WNBA 總冠軍賽收視創紀錄**：亞特蘭大夢想對金州女武神，NBC 與 USA 頻道宣布系列賽開局寫下史上最高觀眾數。",
+      "summary": "NBC and USA Network claimed a record audience for the start of the WNBA Finals, where the Atlanta Dream are facing the Golden State Valkyries. The Valkyries reaching the Finals is the headline story given how recently the franchise entered the league, and the Bay Area market has delivered unusually strong local ratings. Record viewership for a women's basketball championship continues a multi-year trend that has reshaped broadcast rights negotiations. Game three of the series was scheduled for October 21, with coverage across NBC's platforms.",
+      "source": "Front Office Sports — NBC Claims Record Audience for Start of WNBA Finals",
+      "url": "https://frontofficesports.com/article/nbc-claims-record-audience-for-start-of-wnba-finals/"
+     }
+    ]
+   },
+   {
+    "label": "教育心理",
+    "items": [
+     {
+      "en": "Twin Study Suggests Screen Time's Link to Mental Health May Be Overstated",
+      "zh": "**雙胞胎研究指出：螢幕時間與心理健康的關聯可能被高估** —— 控制家庭與遺傳因素後，效果明顯縮小。",
+      "summary": "A new twin study suggests the association between screen time and poorer mental health may be substantially overstated. By comparing twins raised in the same household, researchers controlled for shared genetics and family environment, two confounders that inflate effect sizes in conventional observational studies. When those factors are held constant, the remaining association between screen use and mental health outcomes shrinks considerably. The finding does not say screens are harmless, but it does imply that families differing in screen habits also differ in many other ways, and those other differences carry much of the explanatory weight.",
+      "source": "MedicalXpress — Twin study suggests screen time's link to mental health may be overstated",
+      "url": "https://medicalxpress.com/news/2026-10-twin-screen-link-mental-health.html"
+     },
+     {
+      "en": "New Review Suggests Not All Screen Time Is Bad for Children",
+      "zh": "**新回顧研究：不是所有螢幕時間都有害** —— 關鍵在內容與使用情境，而非單純計算總時數。",
+      "summary": "A new review argues that screen time should not be treated as a single exposure, because content type and context shape outcomes more than total duration does. Interactive and co-viewed use patterns show different associations than passive solitary consumption, which means hour-counting guidelines may be measuring the wrong variable. The practical implication for students is that a blanket reduction target is less useful than auditing what the hours actually consist of. The review arrives alongside the twin study above, and together they mark a visible shift in how this literature is being framed.",
+      "source": "MedicalXpress — Is all screen time bad for children? Maybe not, new review suggests",
+      "url": "https://medicalxpress.com/news/2026-10-screen-bad-children.html"
+     },
+     {
+      "en": "Research Roundup Links Adolescent Study Strain to Measurable Mental Load",
+      "zh": "**研究整理指出青少年「讀書壓力」與可量測的心理負荷相關** —— 對正在排期中考衝刺的你，重點是「休息排程」比「總時數」更能決定成效。",
+      "summary": "A research roundup published this week collects studies linking adolescent academic strain to measurable increases in mental load, alongside the screen-time reassessments. The consistent thread across the papers is that recovery scheduling predicts outcomes better than raw study hours, because sustained high load without breaks degrades the encoding that studying is meant to produce. For a student facing two midterms and a makeup class inside two weeks, the actionable reading is to block fixed recovery windows first and fit study sessions around them, rather than treating rest as the residual after studying.",
+      "source": "DeepDyve Blog — Screen Time and Youth Mental Health: A Research Roundup",
+      "url": "https://blog.deepdyve.com/2026/10/19/screen-time-youth-mental-health-research-roundup/"
+     }
+    ]
+   },
+   {
+    "label": "產業動態（AI／半導體／量子）",
+    "items": [
+     {
+      "en": "Anthropic Launches Claude Duet, an Always-On Agent in Research Preview, Powered by Claude Opus 5.5",
+      "zh": "**Anthropic 推出 Claude Duet（研究預覽版）** —— 跑在自家雲端電腦上、關掉 App 仍持續工作的常駐代理人，共用記憶／技能／連接器，免額外費用但吃現有方案額度。",
+      "summary": "Anthropic announced Claude Duet on October 21, an always-on agent that works proactively inside connected apps. It is a research preview rolling out by waitlist to Pro and Max subscribers in the United States, and is not yet on Team or Enterprise plans. Duet runs on its own cloud computer so it keeps working after the app closes, shares memories, skills and connectors with regular Claude, and can search past conversations. Features include morning briefs over email and calendar, a Make tab returning editable files, a Tasks tab, Stripe and Shop Pay integrations, and a cloud browser. It is reported to run on Claude Opus 5.5.",
+      "source": "9to5Mac — Anthropic takes on ChatGPT Dots and Meta Muse with Claude Duet",
+      "url": "https://9to5mac.com/2026/10/21/anthropic-takes-on-chatgpt-dots-and-meta-muse-with-claude-duet"
+     },
+     {
+      "en": "Nvidia Standardizes Custom HBM Base-Die Production at TSMC; Samsung Reportedly Agrees to the Terms",
+      "zh": "**Nvidia 要求所有 NVHBM 的 base die 都在台積電生產，三星據報已同意** —— 這把記憶體的價值鏈往台積電方向再搬一塊，對台股 CoWoS／先進封裝供應鏈是結構性利多。",
+      "summary": "Nvidia is standardizing production of the base dies for its custom HBM, known as NVHBM, at TSMC, and Samsung has reportedly agreed to the terms. The base die is the logic layer beneath the stacked DRAM, and moving it to a leading-edge foundry process lets Nvidia specify performance and integration rather than accept each memory vendor's in-house logic. Strategically this shifts value from memory makers toward TSMC and tightens Nvidia's control over its own memory roadmap. DigiTimes flags four strategic concerns for Samsung in accepting the arrangement, chiefly dependence on a competitor's foundry.",
+      "source": "Techzine — Nvidia standardizes HBM production at TSMC",
+      "url": "https://www.techzine.eu/news/infrastructure/145117/nvidia-standardizes-hbm-production-at-tsmc/"
+     },
+     {
+      "en": "Google Cloud Adds OpenAI's GPT-Astra and GPT-6 Models to Vertex AI Model Garden",
+      "zh": "**Google Cloud 把 OpenAI 的 GPT-Astra 與 GPT-6 上架到 Model Garden** —— 雲端業者「中立貨架化」的趨勢加速，模型層與雲端層的綁定正在鬆開。",
+      "summary": "Google Cloud has added OpenAI's GPT-Astra and GPT-6 models to its Vertex AI Model Garden, placing a direct competitor's frontier models on Google's own distribution shelf. The move continues a pattern in which hyperscalers compete on infrastructure and tooling rather than on model exclusivity, because enterprise buyers increasingly refuse to accept single-vendor model lock-in. For developers the practical effect is that switching costs between frontier models keep falling, since the surrounding cloud plumbing stays the same. The strategic question is whether model differentiation can survive commoditized distribution.",
+      "source": "Unite.AI — Google Cloud Adds OpenAI's GPT-Astra and GPT-6 Models to Model Garden",
+      "url": "https://unite.ai/google-cloud-adds-openais-gpt-astra-and-gpt-6-models-to-model-garden"
+     }
+    ]
+   },
+   {
+    "label": "追星（僅限清單內歌手）",
+    "items": [
+     {
+      "en": "Fujii Kaze Adds Kaohsiung National Stadium on October 31, 2026 to the Prema World Tour; Hong Kong Show Canceled",
+      "zh": "**藤井 風 Prema World Tour 加場：10/31（六）高雄國家體育場** —— 就在 9 天後、台灣場次；香港場已取消，曼谷 12/26、首爾 2027/1/9。",
+      "summary": "Fujii Kaze has added Kaohsiung National Stadium on October 31, 2026 to his Prema World Tour, along with Supachalasai National Stadium in Bangkok on December 26 and Gocheok Sky Dome in Seoul on January 9, 2027. The Hong Kong date has been canceled. Japanese dates run Fukuoka's Mizuho PayPay Dome on November 14 and 15, Kyocera Dome Osaka on December 10 and 12 to 13, and Tokyo Dome on December 19 and 20. A summer 2027 leg is planned across Europe and North America with dates unconfirmed.",
+      "source": "NiEW — Fujii Kaze Reveals Additional Stops for Prema World Tour",
+      "url": "https://niewmedia.com/en/news/2604fujiikaze/"
+     },
+     {
+      "en": "Mrs. GREEN APPLE Sets Release Date for Sixth Album and Announces First Arena Tour in Three Years",
+      "zh": "**Mrs. GREEN APPLE 第 6 張專輯發行日確定，並宣布三年來首次巨蛋／Arena 巡迴。**",
+      "summary": "Mrs. GREEN APPLE has set the release date for their sixth studio album and announced their first arena tour in three years. The gap matters because the band spent the interim period in stadium-scale shows and media work rather than the arena circuit, so this tour returns them to venues where ticket demand historically outstrips supply by a wide margin. For overseas fans the practical note is that arena-scale Japanese tours rarely include international dates, so any Taiwan interest will depend on a separate announcement. Album and tour details were published via otomo.net.",
+      "source": "otomo.net — Release date set for Mrs. GREEN APPLE's 6th album, first arena tour in 3 years also announced",
+      "url": "https://otomo.net/contents/1083257?locale=en"
+     },
+     {
+      "en": "Music Awards Japan 2026 Entry List Puts Kenshi Yonezu, Ado and Mrs. GREEN APPLE in Direct Contention",
+      "zh": "**Music Awards Japan 2026 入圍名單公布：米津玄師、Ado、Mrs. GREEN APPLE 正面對決** —— 清單內三位歌手同場競爭，是今年 J-POP 獎季最值得追的一條線。",
+      "summary": "The entry works and artists for Music Awards Japan 2026 have been announced, placing Kenshi Yonezu, Ado and Mrs. GREEN APPLE in direct contention. All three appear on the tracked artist list, which makes this the single awards race most relevant to follow this season. Music Awards Japan is the country's newer industry-wide awards body, built to resemble the Grammys in structure rather than the sales-driven legacy formats, so entry lists carry more signal about critical standing than chart position does. Winners are determined by an industry voting panel.",
+      "source": "otomo.net — \"MUSIC AWARDS JAPAN 2026\" entry works / artists announced",
+      "url": "https://otomo.net/contents/1057982?locale=en"
+     },
+     {
+      "en": "Spotify Quick Links for the Tracked Artists",
+      "zh": "**追蹤清單快速連結** —— 藤井風、Mrs. GREEN APPLE、米津玄師、Ado、YOASOBI、King Gnu 等 16 位清單內歌手的 Spotify 入口。",
+      "summary": "Direct Spotify entry points for the tracked artist list, for checking new releases against the tour and awards news above: Fujii Kaze, Mrs. GREEN APPLE, Kenshi Yonezu, Ado, YOASOBI, King Gnu, Yuuri, YUIKA, back number, LiSA, Official Hige Dandism, Aimer, Vaundy, tuki., RADWIMPS and Aimyon. No new release announcements from the other twelve artists surfaced inside this forty-eight hour window, so the three items above are the complete set for today rather than a filtered selection.",
+      "source": "Spotify（清單內歌手搜尋入口）",
+      "url": "https://open.spotify.com/search/Fujii%20Kaze"
+     }
+    ]
+   }
+  ]
+ },
+ "market": {
+  "asOf": "台股＝**2026/10/21（三）13:30 收盤**；美股＝**2026/10/21（三）正規盤收盤**（台灣 10/22 清晨 04:00 結束）。　★ **為什麼不是 10/22 的數字**：本期是「10/22 早晨簡報」，依規格取**前一交易日收盤** —— 台股 10/22（四）的盤後資料與美股 10/22 夜盤均不在本期範圍內。　★ 另外提醒：**10/26（一）光復節補假，台股休市**，加上 10/23 可能的颱風因素，本週到下週的交易日會被切得很碎。",
+  "highlight": "**一句話：台股 10/21 收復 46,800 是「補漲＋族群輪動」，不是台積電帶的 —— 而美股同一晚漲的是太空、資安與晶片，兩邊這次方向一致。**台股 10/21：加權 **46,887.77（+1.28%、+594.84 點）**，成交 **8,331.91 億元**（量能回升），盤中最高 47,254.93、最低 46,454；**台積電只漲 0.62% 到 2,420 元**，真正的主角是**塑膠類股 +6.52%（全場最強）、光電類股 +3.61%**，以及**被動元件、低軌衛星、PCB／載板**三個族群的漲停潮 —— 上市 25 檔漲逾 9%（24 檔漲停）、上櫃 28 檔漲逾 9%（27 檔漲停）。**網通類股逆勢跌 2.15%**，智邦 -7.87% 是權值級的破口。美股 10/21：**那斯達克 26,702.86（+1.05%）、S&P 500 7,757.17（+0.58%）、道瓊 52,856.09（+0.69%）、QQQ +1.05%**，晶片股領漲，**SpaceX 財報優於預期收漲 7.79%** 直接點燃台股低軌衛星族群（昇達科、穩懋盤中漲停、終場皆漲逾 7%）—— 這是今天最乾淨的一條「美股→台股」傳導鏈。",
+  "note": "★ **今天（10/22）盤前只盯這三件，其他先放掉**：　**①「低軌衛星」這條傳導鏈是真的，但它已經反映了。**SpaceX 10/21 財報優於預期、收漲 7.79% 至 159.31，台股低軌衛星族群同日就把漲停吃完（昇達科、穩懋盤中漲停、終場漲逾 7%），同欣電、金寶、兆赫、仲琦、耀登、燿華同步走揚。**追高風險在於：這是別人財報的外溢，不是台廠自己的訂單確認。**要驗證就看接下來幾週這些公司有沒有實際出貨或接單公告，沒有就只是情緒。　**②真正的結構性消息是 NVHBM base die 全部交給台積電。**Nvidia 要求所有客製 HBM 的 base die 在台積電生產、三星據報已同意 —— 這件事的受益者不是記憶體股，而是**台積電＋先進封裝／CoWoS／載板鏈**。它不會在一天內反映在股價上，但它改變的是未來兩年的價值分配，比任何單日漲停都重要。對照觀察清單：台積電（2330）、日月光投控（3711，10/21 漲 3.64%）、欣興（3037）、台光電（2383）、金像電（2368）都在這條鏈上。　**③被動元件與塑膠的漲停潮要小心「補漲」性質。**塑膠類股 +6.52% 是全場最強，南亞 +8.28% 盤中一度漲停 —— 但塑膠與被動元件這兩個族群今年大多數時間都落後大盤，單日爆量漲停更常是落後補漲與資金輪動，而不是基本面反轉。**判斷方法很簡單：看第二天與第三天能不能守住。**守不住就是一日行情。　★ **觀察清單對照（10/21）**：清單內明確上漲的有 **台積電 2330 +0.62%（2,420）、鴻海 2317 +3.52%（250）、台達電 2308 +1.25%（1,625）、廣達 2382 +2.5%（328.5）、日月光投控 3711 +3.64%、中信金 2891 +4.47%、SPCX +7.79%、TSLA +3.41%、COIN 與 CRCL 各漲逾 4%（聯邦銀行監管機構定案穩定幣規則）**；清單內下跌的有 **聯發科 2454 -0.24%（4,140）、T（AT&T）-6.45%、NFLX -5.31%**。資安族群 **ZS／CRWD／NET** 因 PHP 重大漏洞盤中漲 5–7%，但收盤幅度未確認，故不列入下方 ≥5% 名單。",
+  "indices": [
+   {
+    "market": "TW",
+    "name": "加權指數 TAIEX",
+    "value": "46,887.77",
+    "change": 1.28,
+    "note": "10/21（三）13:30 收盤 · **漲 594.84 點、+1.28%**，成交 **8,331.91 億元**（量能回升）。開盤即大漲 161 點，盤中最高 **47,254.93**、最低 **46,454**，尾盤由台積電撐住（期指結算日）。前一交易日 10/20 為 -529.15 點（-1.13%），本日屬於**收復失土**而非突破。"
+   },
+   {
+    "market": "TW",
+    "name": "元大台灣50 0050",
+    "value": "—",
+    "change": 0.84,
+    "note": "10/21 **+0.84%**，明顯落後大盤的 +1.28% —— 原因是權值大型股（台積電 +0.62%、聯發科 -0.24%）被壓抑，資金跑向中小型與高股息。**0050 落後大盤本身就是「這天不是權值股在漲」的最直接證據。**（收盤價未取得多來源確認，故不列數值）"
+   },
+   {
+    "market": "TW",
+    "name": "元大高股息 0056",
+    "value": "—",
+    "change": 2.26,
+    "note": "10/21 **+2.26%**，大幅領先 0050 的 +0.84% 與大盤的 +1.28%。當日**全部 87 檔台股掛牌 ETF 全數上漲、無一平盤或下跌**，其中中小型與高股息 ETF 表現最好（00733 富邦中小 +4.26% 居冠、0055 元大金融 +2.29%）。金融股全面上漲（中信金 +4.47%）是 0056 走強的主因之一。（收盤價未取得多來源確認，故不列數值）"
+   },
+   {
+    "market": "TW",
+    "name": "櫃買指數 OTC",
+    "value": "—",
+    "change": 0,
+    "note": "⚠️ **本期未取得 10/21 櫃買指數收盤的可信數字**（多家報導皆未列出），故不填數值與漲跌幅。可參考的替代指標：**上櫃 28 檔漲逾 9%、其中 27 檔漲停；13 檔跌逾 4%、1 檔跌停** —— 中小型股的投機熱度明顯高於上市。"
+   },
+   {
+    "market": "US",
+    "name": "那斯達克綜合指數 Nasdaq Composite",
+    "value": "26,702.86",
+    "change": 1.05,
+    "note": "10/21（三）收盤 **+1.05%**，四大指數中最強，**由晶片股領漲**（NVDA 盤中漲逾 1.5%、AMD 盤中約 +2%）。Nasdaq 100 漲逾 1.2%，科技股內部的大型權值表現優於綜合指數。"
+   },
+   {
+    "market": "US",
+    "name": "S&P 500",
+    "value": "7,757.17",
+    "change": 0.58,
+    "note": "10/21（三）收盤 **+0.58%**，連續第 3 個交易日收紅。漲幅明顯小於那斯達克，顯示這一天是**科技／成長領漲、而非全面普漲**。"
+   },
+   {
+    "market": "US",
+    "name": "道瓊工業指數 Dow Jones",
+    "value": "52,856.09",
+    "change": 0.69,
+    "note": "10/21（三）收盤 **+0.69%**。成分股內部分歧很大：**IBM +3.94%、Danaher +4.29%** 撐盤，但 **AT&T -6.45%**（投資人評估 SpaceX Starlink Mobile 的競爭威脅）是最大拖累。"
+   },
+   {
+    "market": "US",
+    "name": "QQQ（Invesco QQQ Trust）",
+    "value": "—",
+    "change": 1.05,
+    "note": "10/21 **+1.05%**，與那斯達克綜合同步。（來源未提供收盤價，故不列數值）"
+   },
+   {
+    "market": "US",
+    "name": "VIX／風險情緒",
+    "value": "—",
+    "change": 0,
+    "note": "⚠️ 本期未取得 10/21 VIX 收盤可信數字，不填。間接判斷：三大指數同步收紅、S&P 500 連 3 紅、資安與太空族群出現 5% 以上單日漲幅 —— 屬於**風險偏好偏高但有族群分化**的環境。"
+   },
+   {
+    "market": "US",
+    "name": "加密資產相關股",
+    "value": "—",
+    "change": 0,
+    "note": "10/21：**Circle（CRCL）與 Coinbase（COIN）各漲逾 4%**，因**聯邦銀行監管機構定案穩定幣規則**；Robinhood、Gemini、Bullish、PayPal 同步走揚。這是法規落地推動的漲勢，比單純幣價連動更有延續性，但個股漲幅未達 5%，故不列入下方名單。"
+   }
+  ],
+  "movers": [
+   {
+    "name": "⚠️ 先說清楚今天這一區的資料基準",
+    "ticker": "—",
+    "change": 0,
+    "price": "以下全部是 2026/10/21（三）的收盤資料；台股 10/22（四）與美股 10/22 夜盤均不在本期範圍",
+    "reason": "★ **「≥5%」名單分三層標示**：①**收盤已確認**（有報導明列漲跌幅）；②**盤中達 ≥5% 但收盤數字未確認**（會註明「盤中」）；③**本期未取得可信數字者直接不列**，寧缺勿假。　★ **台股 10/21 的量化背景**：上市 **25 檔漲逾 9%（24 檔漲停）**、**16 檔跌逾 3%（1 檔跌停）**；上櫃 **28 檔漲逾 9%（27 檔漲停）**、**13 檔跌逾 4%（1 檔跌停）** —— 下方只列出有具名報導的部分，實際漲停家數遠多於此。"
+   },
+   {
+    "name": "★ 清單外新熱門：東台",
+    "ticker": "4526",
+    "change": 9.97,
+    "price": "漲停（10/21 收盤）",
+    "reason": "**工具機／設備股，單日漲停 +9.97%，是當日漲幅榜第一。**不在你的 75 檔觀察清單內。工具機在 AI 伺服器與半導體設備擴產週期中屬於「後段受益」族群 —— 前面的台積電資本支出要先落地，才會傳導到設備與機械加工。**單日漲停可以注意，但不要視為趨勢確立。**"
+   },
+   {
+    "name": "★ 清單外新熱門：德淵",
+    "ticker": "4720",
+    "change": 9.96,
+    "price": "爆量觸及漲停（10/21）",
+    "reason": "**化工／塗料與接著劑類股，爆量觸及漲停 +9.96%。**不在觀察清單內。**這一檔對你有額外意義：德淵是本土特用化學品（specialty chemicals）廠，產品線涵蓋聚氨酯（PU, polyurethane）、接著劑與塗料** —— 和你化工系的課程內容直接相關，當作產業觀察標的比當作交易標的更有價值。「爆量觸及漲停」通常代表漲停沒有鎖住，隔日續強度要再確認。"
+   },
+   {
+    "name": "華新科",
+    "ticker": "2492",
+    "change": 9.89,
+    "price": "漲停（10/21 收盤）",
+    "reason": "**被動元件族群龍頭之一，漲停 +9.89%。**同族群的信昌電、金山電、光頡、鈞寶、鈺鎧**多檔同步漲停**，國巨與禾伸堂漲約 2%～3%。**整個族群同日漲停是資金輪動的典型訊號，不是個股利多。**被動元件（passive components：MLCC 積層陶瓷電容、晶片電阻）在 AI 伺服器用量持續增加，但這個族群今年大半時間落後大盤 —— **單日族群漲停要先假設是「落後補漲」，看第二、三天能不能守住再說。**"
+   },
+   {
+    "name": "聯茂",
+    "ticker": "6213",
+    "change": 9.88,
+    "price": "漲停（10/21 收盤）",
+    "reason": "**高速 CCL（copper clad laminate 銅箔基板），漲停 +9.88%。**同族群騰輝電子-KY 同步漲停，南亞盤中一度漲停，景碩、欣興、臻鼎-KY 大漲。**這條鏈和你觀察清單高度重疊** —— 清單內的 **台光電（2383）、金像電（2368）、欣興（3037）、華通（2313）** 都在 PCB／CCL／載板這條線上。AI 伺服器要更高層數、更低損耗的板材，CCL 是實質受益者，**這一條的基本面支撐比被動元件強。**但同日**玻纖布族群（富喬、台玻）由紅翻黑**獲利了結 —— 同一條供應鏈的上下游走勢分歧，代表資金在鏈內挑選，不是整鏈看好。"
+   },
+   {
+    "name": "運錩",
+    "ticker": "2069",
+    "change": 9.84,
+    "price": "漲停（10/21 收盤）",
+    "reason": "**不鏽鋼／金屬加工，漲停 +9.84%。**不在觀察清單內。鋼鐵與金屬類股的單日漲停通常和原物料報價或特定訂單消息有關，與 AI 主軸關聯低。**對你的觀察清單沒有參考價值，列出只為完整呈現當日 ≥5% 名單。**"
+   },
+   {
+    "name": "南亞",
+    "ticker": "1303",
+    "change": 8.28,
+    "price": "+8.28%（10/21 收盤，盤中一度漲停）",
+    "reason": "**塑膠／電子材料，+8.28%，盤中一度漲停 —— 當日最強類股「塑膠 +6.52%」的核心。**不在你的 75 檔清單內，但**南亞同時是 PCB 銅箔基板與玻纖布的上游供應者**，所以它的強勢和上面聯茂那條鏈是同一件事的上游版本。注意：**同族群的富喬、台玻卻由紅翻黑** —— 這種「上游漲、同業跌」的分歧，通常意味著市場在定價南亞自己的特定題材（可能是電子材料而非傳統塑膠），而不是整個塑膠產業好轉。"
+   },
+   {
+    "name": "穩懋",
+    "ticker": "3105",
+    "change": 7.79,
+    "price": "+7.79%（10/21 收盤，盤中一度漲停）",
+    "reason": "**砷化鎵（GaAs）晶圓代工，低軌衛星族群主角，+7.79%、盤中漲停。****直接受 SpaceX 10/21 財報優於預期（美股收漲 7.79%）激勵** —— 這是本期最清楚的「美股→台股」傳導。穩懋的 GaAs 製程用於衛星與手機的射頻前端（RF front-end），Starlink 直連手機（direct-to-cell）放量對它是實質需求。**但要分清楚：SpaceX 財報好是 SpaceX 的訂單，台廠要等自己的出貨公告才算確認。**巧合的是穩懋與 SPCX 當日漲幅都是 7.79%，純屬數字巧合。"
+   },
+   {
+    "name": "昇達科",
+    "ticker": "3491",
+    "change": 7.0,
+    "price": "漲逾 7%（10/21 收盤，盤中一度漲停）",
+    "reason": "**微波／毫米波通訊元件，低軌衛星族群，終場漲逾 7%、盤中一度漲停。**與穩懋同一條 SpaceX 傳導鏈。同步走揚的還有**同欣電、金寶、兆赫、仲琦、耀登、燿華**（這些的具體漲幅報導未明列，故不單獨列項）。**整個族群同日啟動，又是外部財報驅動 —— 追高的風險報酬不划算，等回測月線再看。**（報導寫「漲逾 7%」未給精確值，此處以 7.0% 保守標示）"
+   },
+   {
+    "name": "聯一光",
+    "ticker": "3441",
+    "change": -9.89,
+    "price": "跌停（10/21 收盤）",
+    "reason": "**當日唯一具名的上市跌停股，-9.89%。**不在觀察清單內。在大盤大漲 1.28%、24 檔漲停的日子裡逆勢跌停，通常是個股自身的消息面問題（財報、訂單或營運事件），而非產業因素。**列出僅供完整性，不建議追究。**"
+   },
+   {
+    "name": "智邦",
+    "ticker": "2345",
+    "change": -7.87,
+    "price": "1,815 元（10/21 收盤）",
+    "reason": "**網通族群權值股，-7.87% 至 1,815 元 —— 當日最大的權值級破口。**不在你的 75 檔清單內，但**整個網通類股指數同日下跌 2.15%，是唯一明顯逆勢的主要族群**。這一點值得記住：**在 AI 伺服器行情裡，「網通」和「AI 伺服器」並不是同一件事** —— 交換器（switch）與白牌網通設備的競爭格局、毛利壓力與客戶集中度風險都和伺服器代工不同。清單內沒有網通股，這次反而是好事。"
+   },
+   {
+    "name": "ASST",
+    "ticker": "ASST",
+    "change": 13.64,
+    "price": "+13.64%（10/21 美股收盤）",
+    "reason": "**美股當日漲幅榜第一，+13.64%。**不在觀察清單內，小型股，無具名消息面報導。**小型股單日雙位數漲幅在美股極常見，不具指標意義 —— 列出只為滿足「≥5% 名單」的完整性要求。**"
+   },
+   {
+    "name": "ALMR",
+    "ticker": "ALMR",
+    "change": 11.68,
+    "price": "+11.68%（10/21 美股收盤）",
+    "reason": "美股當日漲幅榜第二，**+11.68%**。不在觀察清單內，無具名消息面報導。同上，小型股波動，不具指標意義。"
+   },
+   {
+    "name": "NTSK",
+    "ticker": "NTSK",
+    "change": 10.04,
+    "price": "+10.04%（10/21 美股收盤）",
+    "reason": "美股當日漲幅榜第三，**+10.04%**。不在觀察清單內，無具名消息面報導。"
+   },
+   {
+    "name": "INOD",
+    "ticker": "INOD",
+    "change": 10.01,
+    "price": "+10.01%（10/21 美股收盤）",
+    "reason": "美股當日漲幅榜第四，**+10.01%**。Innodata，AI 資料標註與資料工程服務商。不在觀察清單內，但**屬於「AI 資料供應鏈」這個比較少被注意的層次** —— 模型訓練需要的高品質標註資料是真實瓶頸。無當日具名消息，漲幅可能來自族群情緒。"
+   },
+   {
+    "name": "SMCI（超微電腦）",
+    "ticker": "SMCI",
+    "change": 9.55,
+    "price": "+9.55%（10/21 美股收盤，盤中一度漲 12%）",
+    "reason": "**Super Micro，+9.55%，盤中一度漲 12% —— 因「上調營收預測（raised its revenue forecast）」。**不在你的 75 檔清單內，但**這是本期美股最有基本面實質的漲幅**：SMCI 是 AI 伺服器整機組裝的主要玩家之一，它上調營收預測等於替整個 AI 伺服器需求鏈背書。**對照你清單內的台廠**：緯創（3231）、緯穎（6669）、英業達（2356）、廣達（2382）都在同一條 AI server 組裝鏈上 —— SMCI 的指引是這幾檔比較值得參考的領先指標，比台股自己的單日漲停可靠。"
+   },
+   {
+    "name": "SPCX（SpaceX）★清單內",
+    "ticker": "SPCX",
+    "change": 7.79,
+    "price": "159.31 美元（10/21 收盤）",
+    "reason": "**★ 觀察清單「太空/衛星」類別內的標的，+7.79% 至 159.31 美元，因季度財報優於預期。**同日馬斯克表示 **SpaceX 與特斯拉已各自成立特別委員會討論可能合併** —— 特別委員會是關係人交易的標準治理工具，代表討論已經過了非正式階段。另外 **AT&T 當日 -6.45%**，直接原因是投資人評估 **Starlink Mobile 方案**的競爭威脅。**這三件事串起來看**：SpaceX 的基本面、治理動作與對電信業的衝擊同時發生，而台股低軌衛星族群（穩懋、昇達科）同日漲停就是這條鏈的末端。清單內參考價位 149.4 → 現價 159.31。"
+   },
+   {
+    "name": "RCUS",
+    "ticker": "RCUS",
+    "change": -19.58,
+    "price": "-19.58%（10/21 美股收盤）",
+    "reason": "**美股當日跌幅第一，-19.58%。**Arcus Biosciences，生技股。不在觀察清單內。生技股單日 -20% 幾乎都是臨床試驗數據或法規審查結果不如預期 —— **這是生技股的結構性風險特徵（二元結果，binary outcome），和你清單內的 LLY、NVO、AMGN 這類已商業化的大型藥廠風險性質完全不同。**"
+   },
+   {
+    "name": "LAD",
+    "ticker": "LAD",
+    "change": -10.15,
+    "price": "-10.15%（10/21 美股收盤）",
+    "reason": "美股當日跌幅第二，**-10.15%**。Lithia Motors，汽車經銷商。不在觀察清單內，無具名消息面報導。"
+   },
+   {
+    "name": "TLX",
+    "ticker": "TLX",
+    "change": -10.13,
+    "price": "-10.13%（10/21 美股收盤）",
+    "reason": "美股當日跌幅第三，**-10.13%**。Telix Pharmaceuticals，放射性藥物生技股。不在觀察清單內。同 RCUS，生技股的二元風險。"
+   },
+   {
+    "name": "TAL",
+    "ticker": "TAL",
+    "change": -8.89,
+    "price": "-8.89%（10/21 美股收盤）",
+    "reason": "美股當日跌幅第四，**-8.89%**。TAL Education，中國教育科技股。不在觀察清單內，無具名消息面報導。"
+   },
+   {
+    "name": "MHO",
+    "ticker": "MHO",
+    "change": -8.08,
+    "price": "-8.08%（10/21 美股收盤）",
+    "reason": "美股當日跌幅第五，**-8.08%**。M/I Homes，美國住宅建商。不在觀察清單內。建商股對利率預期敏感，**在三大指數同步上漲的日子裡建商重挫，通常意味著當天長天期殖利率走高** —— 這是個值得留意的背景訊號。"
+   },
+   {
+    "name": "T（AT&T）★清單外但與清單標的直接相關",
+    "ticker": "T",
+    "change": -6.45,
+    "price": "-6.45%（10/21 美股收盤）",
+    "reason": "**-6.45%，原因是投資人評估 SpaceX「Starlink Mobile」方案對電信業的競爭威脅。**AT&T 不在你的清單內，**但它是 SPCX（清單內）這個題材的「對手盤」** —— 衛星直連手機如果真的放量，受害者是傳統電信商的無線業務。**這組「SPCX 漲 7.79%／T 跌 6.45%」的對稱走勢，是市場對 direct-to-cell 商業化可信度的直接定價**，比任何分析師報告都清楚。"
+   },
+   {
+    "name": "NFLX（Netflix）★清單外",
+    "ticker": "NFLX",
+    "change": -5.31,
+    "price": "-5.31%（10/21 美股收盤）",
+    "reason": "**-5.31%，因第四季營收展望偏弱，並下調 2026 年廣告營收指引。**不在觀察清單內。**值得注意的是「廣告營收指引下調」這一點** —— 串流廣告被視為數位廣告的新成長來源，指引下調對同樣依賴廣告的 META（清單內「核心科技」類別）是負面的交叉訊號，雖然 META 當日並未明顯受影響。"
+   }
+  ],
+  "quotes": {
+   "2330": 2420,
+   "2308": 1625,
+   "2317": 250,
+   "2454": 4140,
+   "2382": 328.5,
+   "3711": 591,
+   "META": 689,
+   "SPCX": 159.31,
+   "TSLA": 386.47
+  },
+  "disclaimer": "★ **本區所有內容為公開資訊整理，非投資建議，不構成任何買賣要約。**　★ **資料品質標示（請務必一併讀）**：①**已確認的收盤數字（多來源交叉）**：加權 46,887.77／+594.84 點／+1.28%／成交 8,331.91 億、台積電 2,420（+0.62%）、鴻海 250（+3.52%）、台達電 1,625（+1.25%）、聯發科 4,140（-0.24%）、廣達 328.5（+2.5%）、Nasdaq 26,702.86（+1.05%）、S&P 500 7,757.17（+0.58%）、道瓊 52,856.09（+0.69%）、SPCX 159.31（+7.79%）、TSLA 386.47（+3.41%）。②**單一來源、僅有漲跌幅無收盤價**：0050 +0.84%、0056 +2.26%、00733 +4.26%、0055 +2.29%、南亞 +8.28%、穩懋 +7.79%、中信金 +4.47%、智邦 -7.87%（1,815）、以及美股漲跌幅榜各檔。③**本期直接留空、不以推估填充**：櫃買指數收盤、VIX、0050／0056／QQQ 收盤價、昇達科精確漲幅（報導僅寫「漲逾 7%」）。　★ **觀察清單參考價**（site.json 內的 75 檔）大多仍為 2026/09/03 基準，**僅供 sparkline 縮放使用，不是現價** —— 上方 quotes 區已更新 10/21 實際收盤的 9 檔。　★ **交易日提醒**：**10/26（一）光復節補假，台股休市**；10/23（五）若台南／全台多縣市停班停課，台股仍可能正常開盤（證交所另行公告），請勿假設「停班課＝休市」。"
+ },
+ "generatedAt": "2026-10-22T17:58:00Z"
+}
