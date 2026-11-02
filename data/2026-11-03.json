@@ -1,0 +1,404 @@
+{
+ "date": "2026-11-03",
+ "dateShort": "2026 年 11 月 3 日（週二）",
+ "dateLabel": "2026 年 11 月 3 日（週二）",
+ "generatedAt": "2026-11-02T23:16:46Z",
+ "highlights": [
+  "**工程數學（一）期中考今天 10:10–11:40**，電機大樓 92283 教室，務必帶成大學生證",
+  "**A4 單面小抄考後和考卷一起收回、不發還**，進考場前先拍照或影印留底",
+  "**米津玄師 GHOST 中籤付款今天 13:00 截止**，考完只剩約 1.5 小時，先設手機提醒",
+  "**日文（三）期中考明天 11/4（三）**，範圍《來學日本語-基礎1》第 9、10 課（全）",
+  "**美國期中選舉今天投票**，國會席次變化是本週全球市場最大變數",
+  "**台股昨天收 44,920 點（−0.65%）失守 45K**，今天 09:00 開盤看能否站回"
+ ],
+ "weather": {
+  "icon": "🌦️",
+  "high": 30,
+  "low": 21,
+  "cities": [
+   {
+    "name": "台北",
+    "high": 25,
+    "low": 21,
+    "desc": "東北季風陰短暫雨"
+   },
+   {
+    "name": "台南",
+    "high": 30,
+    "low": 23,
+    "desc": "多雲到晴溫差大"
+   }
+  ],
+  "alerts": [
+   {
+    "type": "豪雨",
+    "level": "yellow",
+    "short": "東半部嚴防大雨",
+    "text": "東北季風影響，桃園以北、東半部及恆春半島有雨，東半部須防局部大雨"
+   },
+   {
+    "type": "其他",
+    "level": "yellow",
+    "short": "雲嘉南空品橘色提醒",
+    "text": "雲林、嘉義、台南空氣品質橘色提醒，午後臭氧濃度可能上升；基隆北海岸與東半部有長浪"
+   }
+  ]
+ },
+ "schedule": {
+  "available": true,
+  "tasks": [
+   {
+    "title": "工程數學（一）期中考",
+    "pri": "高",
+    "cat": "考試",
+    "time": "10:10–11:40",
+    "done": false
+   },
+   {
+    "title": "倒垃圾",
+    "pri": "低",
+    "cat": "家事",
+    "time": "全天",
+    "done": false
+   }
+  ],
+  "advice": [
+   "**09:30 出門**：帶成大學生證、A4 單面小抄，手機與手錶考前收好",
+   "**進考場前先拍照留底**：小抄考後收回不發還，沒留底等於整理歸零",
+   "**沒有計算機**：遇數值題要手算，小抄優先放 Laplace 與積分對照表",
+   "**12:00–13:00 處理米津付款**，13:00 截止，考完先辦這件再吃飯",
+   "**下午切換日文（三）**：主攻第 9、10 課單字與句型，晚上順手倒垃圾"
+  ]
+ },
+ "mail": {
+  "items": [
+   {
+    "level": "green",
+    "from": "論孟 授課教師 陳弘學",
+    "subject": "Moodle 公佈欄推薦閱讀《儒墨思想的現代詮解與觀照》",
+    "todo": "非作業、無截止日，期中考週後再翻即可",
+    "title": "原文重點：1151_論孟（1151_B114800）公佈欄於 11/2 12:59 發布【推薦閱讀】，教師推薦自著《儒墨思想的現代詮解與觀照》，附博客來連結。",
+    "kind": "完整待辦：今天不用處理。若期末報告或考試想補充儒墨比較的觀點，可把這本列入參考書單，先到圖書館查館藏再決定要不要買。",
+    "detail": "過去 24 小時其餘進信都是成大單位的宣傳／訂閱信，已過濾不列入待辦：Fulbright English Camp 報名、校學士學生案例分享（11/17 18:00 小格致廳，報名 activity.ncku.edu.tw）、11/20 醫療政策專題講座、11/24 國泰影響力投資論壇、研發處新進教師研究補助公告（116/01/08 截止，與學生身分無關）。PRO360 已全部排除。48 小時內沒有其他成大截止事項。",
+    "deadline": "—",
+    "calendar": null
+   }
+  ]
+ },
+ "news": {
+  "groups": [
+   {
+    "label": "頭條",
+    "items": [
+     {
+      "en": "Americans vote today: all 435 House seats, 35 Senate seats and 39 governorships are on the ballot",
+      "zh": "**美國期中選舉今天 11/3（二）投票**，眾議院全部 435 席、參議院 35 席、39 席州長同日改選，是本週最大政治變數。",
+      "summary": "The 2026 United States midterm elections take place on Tuesday, November 3. Every one of the 435 voting House seats is contested, along with 35 Senate seats, 39 governorships and roughly 100 ballot measures across 37 states. Control of Congress decides how much of the administration's fiscal programme can pass, so investors are watching the result for its effect on federal borrowing and Treasury yields. On the eve of the vote CNN counted eleven Senate seats as realistically in play, with Georgia, Michigan, Maine and Iowa the tightest, while mid-decade redistricting is expected to help Republicans hold House ground.",
+      "source": "CNN 選情直播／Wikipedia 2026 United States elections",
+      "url": "https://www.cnn.com/election/2026"
+     },
+     {
+      "en": "Fake nuclear and chemical alerts hit emergency warning apps in Ukraine and Russia",
+      "zh": "**烏克蘭與俄羅斯的緊急警報 App 同時發出假核災警報**，疑為網路攻擊，烏克蘭一度關閉 App。",
+      "summary": "Emergency warning applications in both Ukraine and Russia pushed false alerts on Monday, telling users of radiation leaks, chemical releases and nuclear threats that had not happened. Ukraine temporarily disabled its national alert app while engineers traced the source, and Russian regional apps showed similar bogus messages. Investigators have not named a perpetrator, and officials in neither country have confirmed how the systems were reached. The episode matters beyond the two countries because civil-defence apps are trusted channels: once people have seen a false nuclear warning, genuine alerts are harder to act on.",
+      "source": "BBC 彙整／Tech Startups 11/2 彙整",
+      "url": "https://techstartups.com/2026/11/02/top-tech-news-today-november-2-2026-the-biggest-stories-in-ai-startups-and-big-tech/"
+     },
+     {
+      "en": "Attackers remotely turned supermarket fridges up to 50C across five European countries",
+      "zh": "**歐洲五國逾 100 家超市冷藏設備遭遠端操控**，部分被調到攝氏 50 度，接續 10 月法國 700 家門市事件。",
+      "summary": "Attackers reached refrigeration controllers at more than one hundred retail sites in Belgium, Luxembourg, Sweden, Ireland and Estonia, in some cases setting them as high as fifty degrees Celsius and spoiling stock. Ahold Delhaize, Carrefour, Musgrave, Coop, ICA and IKEA were among the companies affected. The incident follows an October campaign that hit roughly seven hundred stores in France, and points at a common weakness: building-management and cold-chain controllers are often internet-exposed, rarely patched, and sit outside the corporate security perimeter that retailers actually monitor.",
+      "source": "Tech Startups 11/2 彙整",
+      "url": "https://techstartups.com/2026/11/02/top-tech-news-today-november-2-2026-the-biggest-stories-in-ai-startups-and-big-tech/"
+     },
+     {
+      "en": "Apple posts a record September quarter: $114.5bn revenue, up 12%, in John Ternus's first report as CEO",
+      "zh": "**蘋果 FY26 第四季營收 1,144.8 億美元、年增 12%**，為 9 月季度新高；iPhone 575.8 億、服務 315.7 億同創紀錄。",
+      "summary": "Apple reported fiscal fourth-quarter revenue of $114.48 billion, up twelve percent from $102.47 billion a year earlier and above its own guidance of nine to eleven percent growth. Net profit was $30.71 billion and earnings per share $2.10, against $27.47 billion and $1.85 last year. iPhone brought in $57.58 billion, Services set an all-time high at $31.57 billion, Mac $10.79 billion, iPad $6.23 billion and wearables $8.30 billion. Full-year revenue reached $479 billion. It was the first results call led by chief executive John Ternus, with the active installed base at a record.",
+      "source": "9to5Mac／AppleInsider（11/2 盤後）",
+      "url": "https://9to5mac.com/2026/11/02/apple-reports-q4-2026-earnings/"
+     },
+     {
+      "en": "South Korea's draft 2027 budget earmarks 21.3 trillion won for chips, physical AI and AI data centres",
+      "zh": "**南韓 2027 年度預算草案編列 21.3 兆韓元投入半導體、實體 AI 與 AI 資料中心**，另 4.7 兆元做自主 AI 模型。",
+      "summary": "South Korea's proposed 2027 budget sets aside 21.3 trillion won for semiconductors, physical AI and AI data centres, plus a further 4.7 trillion won for a sovereign domestic AI model. The overall budget is 820.9 trillion won, an increase of 12.8 percent, and still requires legislative approval. For Taiwan the plan is a competitive signal rather than a headline: Seoul is subsidising exactly the memory, foundry and AI-infrastructure layers where Samsung and SK Hynix compete most directly with TSMC and the Taiwanese supply chain.",
+      "source": "Tech Startups 11/2 彙整",
+      "url": "https://techstartups.com/2026/11/02/top-tech-news-today-november-2-2026-the-biggest-stories-in-ai-startups-and-big-tech/"
+     }
+    ]
+   },
+   {
+    "label": "科技",
+    "items": [
+     {
+      "en": "Marvell agrees to buy Lumentum in an all-stock deal valued around $115bn; both stocks fall hard",
+      "zh": "**Marvell 宣布以全股票方式併購 Lumentum，總價約 1,150 億美元**；MRVL 收跌 12.7%、LITE 跌 18.6%，市場不買單。",
+      "summary": "Marvell Technology agreed to acquire optical-components maker Lumentum in an all-stock transaction that values Lumentum's equity at about $102.5 billion, with holders receiving 4.5 Marvell shares each. The combination is pitched as a bet on optical interconnect for AI data centres, where bandwidth between accelerators is now the binding constraint. Investors disliked the price and the dilution: Marvell fell more than ten percent to $171.41 and Lumentum dropped over fifteen percent despite reporting fiscal first-quarter revenue of $1.26 billion. Closing is not expected until the first half of 2028.",
+      "source": "Tech Startups／Reuters（11/2）",
+      "url": "https://techstartups.com/2026/11/02/top-tech-news-today-november-2-2026-the-biggest-stories-in-ai-startups-and-big-tech/"
+     },
+     {
+      "en": "Oracle moves to raise about $20bn in stock and debt to fund AI infrastructure",
+      "zh": "**甲骨文計畫發行約 100 億美元普通股＋100 億美元債券**，籌措 AI 基建資金，ORCL 單日收跌 8.7%。",
+      "summary": "Oracle is pursuing roughly $10 billion of new common stock alongside about $10 billion of debt, with proceeds earmarked for AI data-centre capacity. Its outstanding borrowings stood near $125.34 billion as of August 31, so the equity leg reads as an admission that debt alone can no longer carry the build-out. Shares fell 8.72 percent on the news. The sell-off fits the pattern that has driven markets since late October: investors now treat heavy AI capital spending as a cost to be funded rather than a growth story to be rewarded.",
+      "source": "Tech Startups 11/2 彙整",
+      "url": "https://techstartups.com/2026/11/02/top-tech-news-today-november-2-2026-the-biggest-stories-in-ai-startups-and-big-tech/"
+     },
+     {
+      "en": "Google's Project Suncatcher ran a Gemma 4 model on a TPU in low Earth orbit",
+      "zh": "**Google「Project Suncatcher」衛星成功在低軌道上以 TPU 跑 Gemma 4 模型**，驗證太空資料中心概念。",
+      "summary": "A Google prototype satellite launched on October 1 has run the Gemma 4 model on a Trillium-generation TPU while in low Earth orbit, the company said. The constraint is power rather than compute: with roughly one kilowatt of solar generation, the satellite can only drive the TPU continuously for about twenty minutes at a time. The experiment is a feasibility test for putting inference capacity in orbit, where sunlight is nearly constant and cooling is free, and it is early enough that no production workload is implied.",
+      "source": "Tech Startups 11/2 彙整",
+      "url": "https://techstartups.com/2026/11/02/top-tech-news-today-november-2-2026-the-biggest-stories-in-ai-startups-and-big-tech/"
+     }
+    ]
+   },
+   {
+    "label": "運動",
+    "items": [
+     {
+      "en": "Kimi Antonelli becomes F1's youngest world champion at 20 years and 68 days",
+      "zh": "**20 歲 68 天的 Antonelli 在墨西哥城站拿下季軍，提前封王**，成為 F1 史上最年輕世界冠軍。",
+      "summary": "Mercedes driver Kimi Antonelli clinched the 2026 Formula One drivers' title by finishing third at the Mexico City Grand Prix, aged twenty years and sixty-eight days, the youngest champion in the sport's history. His lead became mathematically unassailable at 119 points. Max Verstappen won the race for Red Bull, his second victory of the season, with Lewis Hamilton second for Ferrari and Charles Leclerc fourth. George Russell, Antonelli's team-mate, sits fourth overall, 130 points back. Mercedes can secure the constructors' championship at the next round in Brazil.",
+      "source": "Formula 1 官網／Al Jazeera（11/1–11/2）",
+      "url": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city"
+     },
+     {
+      "en": "Milwaukee Brewers win the 2026 World Series, the franchise's first championship",
+      "zh": "**密爾瓦基釀酒人隊奪下 2026 年世界大賽冠軍**，為球隊史上首座總冠軍。",
+      "summary": "The Milwaukee Brewers have won the 2026 World Series, the first championship in the franchise's history after more than five decades without one. The title caps a postseason run through a bracket that CBS Sports had rated wide open, and it closes the Major League Baseball season just as the American football and basketball calendars take over the US sports schedule. For a club that has spent most of its existence as a small-market outsider, the win is the headline sports story of the week in the United States.",
+      "source": "CBS Sports MLB playoff bracket",
+      "url": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/"
+     },
+     {
+      "en": "Buffalo Bills beat the Baltimore Ravens after Lamar Jackson leaves injured",
+      "zh": "**水牛城比爾擊敗巴爾的摩烏鴉**，烏鴉四分衛 Lamar Jackson 傷退，衝擊球隊季後賽機會。",
+      "summary": "The Buffalo Bills defeated the Baltimore Ravens in the latest round of NFL fixtures, in a game turned by the loss of Ravens quarterback Lamar Jackson to injury. Jackson's absence leaves Baltimore without the player its offence is built around at the point in the season when playoff seeding starts to harden, and Sky Sports' live coverage treated the injury rather than the scoreline as the story. Buffalo's win strengthens its own position in a crowded AFC race.",
+      "source": "Sky Sports NFL 2026 live blog",
+      "url": "https://skysports.com/nfl/live-blog/13606714/nfl-2026-results-and-highlights-buffalo-bills-beat-baltimore-ravens-after-lamar-jackson-injury"
+     }
+    ]
+   },
+   {
+    "label": "教育心理",
+    "items": [
+     {
+      "en": "Allen Institute study: AI tutors give away answers unless told very explicitly not to",
+      "zh": "**AI 家教模型太愛直接給答案**：基本指令下只有 17–60% 能忍住，指令寫清楚後升到 60–91%。",
+      "summary": "Researchers at the Allen Institute for AI tested tutoring models against 462 real mathematics tutoring transcripts from grades two to seven. Given only basic instructions, the models avoided over-helping — handing over the answer instead of prompting the student — just seventeen to sixty percent of the time. With clearer, more specific instructions that rose to between sixty and ninety-one percent. The practical lesson for anyone studying with an AI is that the prompt has to forbid the answer explicitly. The study used simulated students, so it shows restraint, not learning gains.",
+      "source": "The Syllabus 11/2（Allen Institute for AI）",
+      "url": "https://newcurrent.substack.com/p/the-syllabus-november-2-2026"
+     },
+     {
+      "en": "Minnesota report calls student AI use a 'severe' threat as 70% pass off AI homework as their own",
+      "zh": "**明大報告警告學生使用 AI 對學習構成「嚴重」威脅**；調查顯示七成學生把 AI 作業當成自己的，只有 28% 被教過怎麼用。",
+      "summary": "A University of Minnesota report published in late October warns that the way students currently use generative AI poses a severe threat to learning, because the tool removes the struggle that produces understanding rather than merely speeding up the work. A separate survey found roughly seven in ten pupils have submitted AI-generated homework as their own, while only twenty-eight percent said they had been taught how to use such tools properly. Together the two findings describe a gap between adoption and instruction rather than a simple cheating problem.",
+      "source": "MPR News／AOL 調查報導（10/28 起）",
+      "url": "https://mprnews.org/story/2026/10/28/university-of-minnesota-report-warns-student-ai-use-poses-severe-threat-to-learning"
+     },
+     {
+      "en": "A Berkeley mathematician now grades homework for completion, not correctness",
+      "zh": "**柏克萊數學教授 Richard Borcherds 改成「按時交就給分」**，理由是 AI 已能解大部分大學部習題。",
+      "summary": "Richard Borcherds, a Fields Medallist at Berkeley, has switched to awarding homework credit for on-time submission rather than for correct answers, on the grounds that AI can now solve most undergraduate problem sets, so marking correctness measures tool access instead of understanding. Commentators note the trade-off: if in-person examinations become the only real assessment, students who do badly under timed conditions — including those with learning differences — carry more of the risk. The move is one of several experiments in reweighting coursework as AI assistance becomes assumed.",
+      "source": "The Syllabus 11/2",
+      "url": "https://newcurrent.substack.com/p/the-syllabus-november-2-2026"
+     }
+    ]
+   },
+   {
+    "label": "產業動態（AI／半導體／量子）",
+    "items": [
+     {
+      "en": "Anthropic's IPO moves closer: S-1 filed, Nasdaq ticker 'ANT', and a yen 552.9bn tranche for Japanese investors",
+      "zh": "**Anthropic 已向 SEC 送出 S-1、代號 ANT**，最快 11 月中掛牌；另規劃對日本投資人配售最高 5,529 億日圓（約 35 億美元）。",
+      "summary": "Anthropic filed its S-1 with the SEC on October 26 for a Nasdaq listing under the ticker ANT, and reports since then say it could price as early as mid-November. The filing shows first-half 2026 revenue of $16.3 billion against $1.2 billion a year earlier, alongside a very large net loss driven by compute and training spending. A separate tranche of up to 552.9 billion yen, about $3.5 billion, is earmarked for Japanese investors. Share count and price are not set, and valuation estimates in circulation range from roughly $1.5 trillion to $2 trillion.",
+      "source": "Axios／NBC News／Tech Startups 11/2",
+      "url": "https://www.axios.com/2026/10/26/anthropic-ipo"
+     },
+     {
+      "en": "Anthropic bans sustained abusive behaviour toward Claude from November 12",
+      "zh": "**Anthropic 將「持續且無意義的殘酷或辱罵行為」列入違反使用政策**，11/12 生效；一般抱怨、黑暗創作與模型測試不算。",
+      "summary": "From November 12, 2026, sustained and needless abusive or cruel behaviour toward Claude becomes a violation of Anthropic's Usage Policy. The company frames the rule as narrow, applying only in extreme cases of repeated cruelty with no apparent purpose, and explicitly excludes ordinary frustration, pushback, dark creative themes and red-teaming or research. Enforcement stays with Claude's existing ability to end a conversation rather than with account bans. The change grows out of Anthropic's model-welfare work, and it is contested: rivals including Microsoft AI reject the premise that models could warrant welfare consideration.",
+      "source": "tbreak／CNN Business（11/1）",
+      "url": "https://tbreak.com/anthropic-usage-policy-abuse-claude/"
+     },
+     {
+      "en": "Google unveils Gemini 4 Carbon for vulnerability hunting while OpenAI ships the cheaper GPT-6.1 Terra",
+      "zh": "**Google 發表 Gemini 4 Carbon**（限資安專家、專攻找漏洞與多日任務）；**OpenAI 推 GPT-6.1 Terra**，主打螢幕操作與十分之一成本。",
+      "summary": "Google announced Gemini 4 Carbon on October 28, describing it as its most capable model and aiming it at finding software vulnerabilities and sustaining multi-day tasks. Access is restricted to selected cyber-defence experts with no release date for the consumer app or API, and Google says it ranks first on the Artificial Analysis Intelligence Index v5.0. OpenAI released GPT-6.1 Terra on October 26, a mid-range model strong at operating on-screen applications and understanding images, which it claims performs close to GPT-6 Astra at roughly a tenth of the cost.",
+      "source": "AI Weekly Report（10/26–11/1）",
+      "url": "https://note.com/coconut_1122_/n/n73f25e80ee06?hl=en"
+     }
+    ]
+   },
+   {
+    "label": "追星（僅限清單內歌手）",
+    "items": [
+     {
+      "en": "Kenshi Yonezu reveals GHOST tour merchandise as the arena run opens Friday — Taipei Dome is December 26-27",
+      "zh": "**米津玄師 11/2 公開「2026 TOUR / GHOST」周邊視覺**，巡演 11/6 長野開跑；**台北大巨蛋 12/26–12/27 兩場**。　▶ **Spotify**：https://open.spotify.com/search/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB",
+      "summary": "Kenshi Yonezu published the merchandise visuals for 2026 TOUR / GHOST on November 2, all using the key art he drew himself: a synthetic-leather jacket, hoodies, sweatshirts, tees, mini bags, key pouches, wristbands, gloves, caps, large scarves, towels, and character goods including the rabbit charm and Tongari keyring, plus gachapon versions. The Japanese arena leg opens at Nagano Big Hat on November 6 and 7, then Yokohama, Osaka, Fukuoka, Miyagi, Nagoya and Yokohama again through December 17. The world tour reaches Taipei Dome on December 26 and 27.",
+      "source": "音楽ナタリー／USEN 活動資訊（11/2）",
+      "url": "https://e.usen.com/news/news-event/-2026-tour-ghost-2.html"
+     },
+     {
+      "en": "Vaundy closed his Asia tour with two Taipei Arena nights and a surprise free Instagram Live",
+      "zh": "**Vaundy 10/31、11/1 首攻台北小巨蛋兩場、約 2.6 萬人**，第二晚突然開 IG Live 免費放送數首歌。　▶ **Spotify**：https://open.spotify.com/search/Vaundy",
+      "summary": "Vaundy played Taipei Arena on October 31 and November 1 as the closing stop of his ASIA ARENA TOUR 2026 HORO, drawing about twenty-six thousand people across the two nights on a four-sided stage with a set running close to a hundred minutes. The setlist included Gyakko from One Piece Film Red, Todome no Ichigeki from Spy x Family, Chainsaw Blood, Kaiju no Hanauta and a new song, Idea ga Afurete Nemurenai, with Odoriko closing. On the second night he unexpectedly started a free Instagram Live, streaming several songs to fans without tickets.",
+      "source": "BELLA 儂儂（11/1 發布、11/2 更新）",
+      "url": "https://www.bella.tw/articles/music/60865/vaundy-tour-taipei-arena-2026"
+     },
+     {
+      "en": "YOASOBI's 10-city Asia dome and stadium tour hits Nagoya this weekend; Taipei Dome is January 9-10",
+      "zh": "**YOASOBI「ASIA 10-CITY DOME & STADIUM TOUR 2026」本週 11/7–11/8 唱名古屋巨蛋**；**台北大巨蛋 2027/1/9–1/10 兩天**，實名登記抽選制。　▶ **Spotify**：https://open.spotify.com/search/YOASOBI",
+      "summary": "YOASOBI's ASIA 10-CITY DOME & STADIUM TOUR 2026 is billed as the first tour of this scale by a Japanese act. The Japanese dome dates run through Nagoya's Vantelin Dome on November 7 and 8, Sapporo on November 14 and 15, Fukuoka on November 28 and 29, and Tokyo Dome on December 5 and 6, after Osaka in October. The overseas legs include Taipei Dome on January 9 and 10, with entry under a registered-name lottery system and tickets starting around NT$1,800, making this the act's first Taipei Dome appearance.",
+      "source": "J/K NEWS 彙整／自由娛樂、巴哈姆特售票資訊",
+      "url": "https://gnn.gamer.com.tw/detail.php?sn=310732"
+     },
+     {
+      "en": "Mrs. GREEN APPLE's sixth album is out and their first arena tour in three years is under way",
+      "zh": "**Mrs. GREEN APPLE 第 6 張原創專輯已於 9/30 發行**，約三年來首次全國 arena tour 正在進行，官方並已公布到 2029 年的演出構想。　▶ **Spotify**：https://open.spotify.com/search/Mrs.%20GREEN%20APPLE",
+      "summary": "Mrs. GREEN APPLE released their sixth original full album on September 30 and are touring Japanese arenas for the first time in about three years, both announced together in June on a television special. The band has also published an unusually long-range outline of live events and projects running to 2029, which is why their schedule page is worth checking periodically rather than waiting for single announcements. No Taiwan or Hong Kong date has been announced in this cycle, so the arena run remains domestic for now.",
+      "source": "音楽ナタリー／Mrs. GREEN APPLE 官方 schedule",
+      "url": "https://mrsgreenapple.com/schedule/list/?lang=en"
+     }
+    ]
+   }
+  ]
+ },
+ "market": {
+  "insights": [
+   "**美股資金輪動明顯**：道瓊 +0.41% 收紅，那斯達克 −1.07%，錢從 AI 科技撤出",
+   "**Marvell 以 1,150 億美元併 Lumentum**，MRVL −12.7%、LITE −18.6%，市場嫌貴",
+   "**甲骨文要發 200 億美元籌 AI 資金**，ORCL −8.7%，是本波疑慮的核心案例",
+   "**台股今天 09:00 看能否站回 45,000**，昨天盤中低點 44,399 是支撐參考",
+   "**美國期中選舉今天開票**，國會席次影響財政與美債殖利率；考試週別盯盤"
+  ],
+  "indices": [
+   {
+    "market": "TW",
+    "name": "加權指數 TAIEX",
+    "value": "44,920.14",
+    "change": -0.65,
+    "changePts": "-291.69",
+    "comment": "失守 45K，台積電跌 40 元是主壓"
+   },
+   {
+    "market": "TW",
+    "name": "櫃買指數 OTC",
+    "value": "369.24",
+    "change": -0.28,
+    "changePts": "-1.02",
+    "comment": "中小型股跌幅小於上週五"
+   },
+   {
+    "market": "TW",
+    "name": "0050 元大台灣50",
+    "value": "104.10",
+    "change": -0.81,
+    "changePts": "-0.85",
+    "comment": "連兩跌，累計回檔 3.41%"
+   },
+   {
+    "market": "TW",
+    "name": "0056 元大高股息",
+    "value": "—",
+    "change": null,
+    "comment": "11/2 精確收盤未取得"
+   },
+   {
+    "market": "US",
+    "name": "那斯達克 Nasdaq Composite",
+    "value": "25,164.32",
+    "change": -1.07,
+    "comment": "晶片與 AI 股續弱，跌最深"
+   },
+   {
+    "market": "US",
+    "name": "S&P 500",
+    "value": "7,541.40",
+    "change": -0.51,
+    "comment": "科技拖累，連兩個交易日收黑"
+   },
+   {
+    "market": "US",
+    "name": "道瓊工業指數 Dow Jones",
+    "value": "51,983.98",
+    "change": 0.41,
+    "comment": "資金輪動進傳產與金融"
+   },
+   {
+    "market": "US",
+    "name": "羅素 2000 Russell 2000",
+    "value": "—",
+    "change": null,
+    "comment": "精確收盤未取得"
+   },
+   {
+    "market": "US",
+    "name": "費半／半導體指數",
+    "value": "—",
+    "change": null,
+    "comment": "收盤未取得；成分股普遍續跌"
+   },
+   {
+    "market": "US",
+    "name": "QQQ（那斯達克100 ETF）",
+    "value": "681.09",
+    "change": -1.36,
+    "comment": "跌幅大於 S&P，科技續遭減碼"
+   }
+  ],
+  "quotes": {
+   "MRVL": -12.72,
+   "INTC": -8.8,
+   "ORCL": -8.72,
+   "AMD": -7.5,
+   "2330": -1.69,
+   "2454": 1.4,
+   "2308": 1.5,
+   "2317": 2.24,
+   "3711": 0.9,
+   "0050": -0.81
+  },
+  "prices": {
+   "2330": 2330,
+   "2454": 3970,
+   "2308": 1355,
+   "2317": 251,
+   "3711": 674,
+   "0050": 104.1,
+   "MRVL": 171.41
+  },
+  "movers": [
+   {
+    "name": "Marvell（清單內）",
+    "ticker": "MRVL",
+    "change": -12.72,
+    "price": "171.41 美元",
+    "reason": "全股票併購 Lumentum，市場質疑代價過高"
+   },
+   {
+    "name": "Intel（清單內）",
+    "ticker": "INTC",
+    "change": -8.8,
+    "price": "—",
+    "reason": "AI 資本支出疑慮延續，晶片股續遭賣壓"
+   },
+   {
+    "name": "Oracle（清單內）",
+    "ticker": "ORCL",
+    "change": -8.72,
+    "price": "—",
+    "reason": "擬發行 200 億美元股債籌 AI 基建資金"
+   },
+   {
+    "name": "AMD（清單內）",
+    "ticker": "AMD",
+    "change": -7.5,
+    "price": "—",
+    "reason": "財報前獲利了結，GPU 競爭與估值疑慮"
+   }
+  ]
+ }
+}
