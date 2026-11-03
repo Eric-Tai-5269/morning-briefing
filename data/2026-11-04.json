@@ -1,0 +1,400 @@
+{
+ "date": "2026-11-04",
+ "dateShort": "2026 年 11 月 4 日（週三）",
+ "dateLabel": "2026 年 11 月 4 日（週三）",
+ "generatedAt": "2026-11-03T23:30:00Z",
+ "highlights": [
+  "**日文（三）期中考今天**，範圍《來學日本語-基礎1》第 9、10 課全部",
+  "**台股昨天崩 1,612 點收 43,307**，史上第七大單日跌點，今天看能否止穩",
+  "**櫃買指數昨跌 6.42%**，中小型股殺更凶，0050 同步跌 3.36%",
+  "**美股昨夜晶片股反彈**，AMD 盤後財報亮眼，台股開盤壓力稍減",
+  "**美國期中選舉開票中**，國會多數結果今天白天陸續出爐",
+  "**今天台南高溫 31 度**，明晚東北季風增強，下週一到三冷空氣更強"
+ ],
+ "weather": {
+  "icon": "🌤️",
+  "high": 31,
+  "low": 21,
+  "cities": [
+   {
+    "name": "台北",
+    "high": 30,
+    "low": 22,
+    "desc": "多雲到晴回溫"
+   },
+   {
+    "name": "台南",
+    "high": 31,
+    "low": 23,
+    "desc": "多雲到晴溫差大"
+   }
+  ],
+  "alerts": []
+ },
+ "schedule": {
+  "available": true,
+  "tasks": [
+   {
+    "title": "日文（三）期中考（第 9、10 課）",
+    "pri": "高",
+    "cat": "考試",
+    "time": "依課表",
+    "done": false
+   },
+   {
+    "title": "刷廁所",
+    "pri": "低",
+    "cat": "家事",
+    "time": "全天",
+    "done": false
+   }
+  ],
+  "advice": [
+   "**考前 30 分鐘只複習第 9、10 課**單字與句型，不要再碰新內容",
+   "**動詞變化先過一輪**：ます形、て形、た形對照表最常考",
+   "**作文或翻譯題先寫會的**，卡住就跳過，最後再補",
+   "**考完休息一小時**再接工程數學錯題，別連續硬撐",
+   "**今天不要盯盤**：台股昨天重挫，看盤只會分散考試專注"
+  ]
+ },
+ "mail": {
+  "items": []
+ },
+ "news": {
+  "groups": [
+   {
+    "label": "頭條",
+    "items": [
+     {
+      "en": "US midterm votes are being counted with control of both chambers of Congress on the line",
+      "zh": "**美國期中選舉昨天投票、開票進行中**，眾院 435 席與參院 35 席全面改選，結果決定國會多數。",
+      "summary": "Polls closed across the United States on the evening of November 3 and counting is under way in the first midterm elections of the current administration. All 435 House seats, 35 Senate seats and 39 governorships were contested. Going into the vote national polling showed Democrats leading the generic congressional ballot by around eight points, with presidential approval near 32 percent, but mid-decade redistricting was expected to cushion Republican losses in the House. Analysts counted about eleven Senate races as competitive. Investors are watching the outcome because congressional control shapes fiscal policy, tariffs and the regulatory treatment of data centres and AI.",
+      "source": "CNN 選情直播／10 Things Global News",
+      "url": "https://www.cnn.com/2026/11/03/politics/live-news/midterm-election-congress"
+     },
+     {
+      "en": "Russian strike on a Zaporizhzhia aid centre kills at least 26 as new talks are set for Abu Dhabi",
+      "zh": "**俄軍攻擊札波羅結援助中心，至少 26 人死亡**，俄烏代表團預定 11/10–11 在阿布達比會談。",
+      "summary": "At least 26 people were killed in a Russian strike on a humanitarian aid centre in Zaporizhzhia, one of the deadliest single attacks on a civilian aid site in recent months. The strike landed days before Russian and Ukrainian delegations are due to meet in Abu Dhabi on November 10 and 11 for another round of indirect talks. Separately the United States is preparing to ask NATO allies for additional funding to buy American weapons for Ukraine, with roughly two billion dollars of earlier pledges still unpaid, which European governments say limits how fast new packages can be agreed.",
+      "source": "10 Things Global News（11/3）",
+      "url": "https://www.10things.news/p/10-things-global-news-3rd-november-4b6"
+     },
+     {
+      "en": "Hacked emergency alert apps pushed false nuclear warnings in both Ukraine and Russia",
+      "zh": "**烏克蘭與俄羅斯的緊急警報 App 遭入侵**，同步推送假核子警報，兩案是否相關尚不清楚。",
+      "summary": "Emergency alert applications in both Ukraine and Russia were compromised and used to push false nuclear warnings to users' phones, briefly causing panic in several cities before authorities issued corrections. Officials in both countries have not said whether the two intrusions are connected or who was responsible. Security researchers treat the episode as a warning about civil-defence software, which is trusted by default and often maintained with far weaker security than banking or military systems. It follows a broader run of attacks on consumer-facing critical systems across Europe this autumn.",
+      "source": "10 Things Global News（11/3）",
+      "url": "https://www.10things.news/p/10-things-global-news-3rd-november-4b6"
+     },
+     {
+      "en": "Suspected cyberattacks altered supermarket refrigeration in seven European countries",
+      "zh": "**歐洲七國超市冷藏系統疑遭駭**，部分冷凍櫃溫度被推到 50°C，尚無組織出面宣稱負責。",
+      "summary": "Supermarkets in seven European countries reported refrigeration systems behaving abnormally after suspected cyberattacks, with some freezer units driven as high as 50 degrees Celsius and large volumes of stock destroyed. No group has claimed responsibility and investigators have not confirmed a single common vendor, though attention has focused on remotely managed building-control systems. The incidents add to warnings that industrial control software in ordinary retail infrastructure is poorly defended, and Britain's National Cyber Security Centre separately said an AI-assisted attack on critical national infrastructure is highly likely before 2028.",
+      "source": "10 Things Global News（11/3）",
+      "url": "https://www.10things.news/p/10-things-global-news-3rd-november-4b6"
+     },
+     {
+      "en": "Dozens of French high schools were blockaded over teacher shortages, with national strikes called",
+      "zh": "**法國數十所高中遭學生封鎖**，抗議師資不足與班級過大，週四將有全國性罷工。",
+      "summary": "Dozens of French high schools were blockaded by students returning from the autumn holidays, in protest at unfilled teaching posts and overcrowded classes. Student unions say some classes have started the year without a permanent teacher in core subjects, and they are coordinating with staff unions ahead of nationwide strike action on Thursday. The education ministry says recruitment has improved year on year but acknowledges shortages in mathematics and the sciences. The dispute is the first large education protest the current government has faced this school year.",
+      "source": "10 Things Global News（11/3）",
+      "url": "https://www.10things.news/p/10-things-global-news-3rd-november-4b6"
+     }
+    ]
+   },
+   {
+    "label": "科技",
+    "items": [
+     {
+      "en": "Anthropic publishes FlashProve, an open-source way to prove which model produced an output",
+      "zh": "**Anthropic 發表開源系統 FlashProve**，用密碼學證明某段輸出確實來自指定模型，防止偷換模型。",
+      "summary": "Anthropic released a technical specification and working code for FlashProve, an open-source system for what it calls provable inference: a cryptographic proof that a given output really came from a specific model. Labs would publish a fingerprint for each released model, and outputs could later be matched against that fingerprint without exposing model weights, so closed-weight companies could adopt it. Verification is light enough to run on a local device. The stated aims are to stop a provider quietly substituting a cheaper model, to stop inflated benchmark claims, and to resist impostors even when the impostor is the lab itself. Anthropic calls it intermediate progress with no deployment plans yet.",
+      "source": "TechCrunch（11/3）",
+      "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/"
+     },
+     {
+      "en": "Apple slipped 1.9% and Palantir 1.7% as investors kept punishing AI valuations",
+      "zh": "**蘋果昨天跌 1.9%、Palantir 跌 1.65%**，財報後市場仍在修正 AI 相關的高估值。",
+      "summary": "Apple fell about 1.9 percent and Palantir about 1.65 percent on November 3, both continuing to slide after quarterly results that beat on headline numbers but left investors unconvinced about the pace of AI-driven revenue. The split with the rest of the market was sharp: the Nasdaq Composite rose 0.83 percent the same day on a semiconductor rebound. Analysts read the divergence as money rotating toward companies whose AI spending turns into measurable hardware demand, and away from software names whose AI revenue is still largely promised rather than booked.",
+      "source": "StockTitan／Invezz（11/3）",
+      "url": "https://invezz.com/pk/news/2026/11/03/nasdaq-rises-as-chip-stocks-rebound-while-apple-and-palantir-shares-fall/"
+     },
+     {
+      "en": "UK cyber agency says an AI-powered attack on critical infrastructure is highly likely by 2028",
+      "zh": "**英國國家網路安全中心警告**，2028 年前極可能出現由 AI 驅動、針對關鍵基礎設施的攻擊。",
+      "summary": "Britain's National Cyber Security Centre said an AI-powered attack on critical national infrastructure is highly likely before 2028, its strongest wording so far on the subject. The agency's concern is not fully autonomous attacks but the compression of the attacker's timeline: AI tools shorten the gap between a vulnerability being disclosed and being exploited at scale, while defenders still patch on human schedules. It urged operators of energy, water and transport systems to assume shorter windows and to automate their own detection and response. The warning landed the same week as suspected attacks on European retail refrigeration systems.",
+      "source": "10 Things Global News（11/3）",
+      "url": "https://www.10things.news/p/10-things-global-news-3rd-november-4b6"
+     }
+    ]
+   },
+   {
+    "label": "運動",
+    "items": [
+     {
+      "en": "Manchester United beat Roma 3-2 in a five-goal European night at Old Trafford",
+      "zh": "**曼聯主場 3–2 擊敗羅馬**，五球大戰下半場逆轉，歐賽積分戰保住主場優勢。",
+      "summary": "Manchester United came through a five-goal night against Roma at Old Trafford, winning 3-2 after an open game that swung twice in the second half. United's attack produced chances throughout but the defence again looked vulnerable to quick transitions, which is where both Roma goals came from. The result keeps United's European campaign on track and eases pressure before a difficult run of league fixtures, though the manager acknowledged afterwards that conceding twice at home against a side missing key forwards is not sustainable.",
+      "source": "NBC Sports（11/3）",
+      "url": "https://nbcsports.com/soccer/live/manchester-united-vs-roma-team-live-updates-score-goals-highlights-stats-2026-november-3"
+     },
+     {
+      "en": "No NBA games were played on November 3 because of US Election Day",
+      "zh": "**NBA 11/3 整天沒有比賽**，因美國選舉日停賽；前一晚東契奇 42 分、SGA 43 分。",
+      "summary": "The NBA scheduled no games on November 3, keeping its calendar clear for United States Election Day, a practice the league has followed in recent national election years. The night before produced heavy individual numbers: Luka Doncic put up 42 points and 13 assists as the Lakers beat Miami 138-117, Shai Gilgeous-Alexander scored 43 in Oklahoma City's 117-112 win over Cleveland, and Stephen Curry scored 34 as Golden State edged Phoenix 116-113. New Orleans also beat Memphis 135-134 in overtime with 25 from Zion Williamson.",
+      "source": "Yahoo Sports／KORN Radio（11/3）",
+      "url": "https://sports.yahoo.com/articles/why-no-nba-games-november-141431397.html"
+     },
+     {
+      "en": "Chicago beat Seattle 34-17 on Monday Night Football behind three Swift touchdowns",
+      "zh": "**芝加哥熊 34–17 擊敗海鷹**，Swift 跑陣三次達陣，Williams 傳 247 碼一記達陣。",
+      "summary": "The Chicago Bears beat the Seattle Seahawks 34-17 on Monday Night Football. D'Andre Swift ran for three touchdowns and Caleb Williams threw for 247 yards and one score in a game Chicago controlled on the ground after half-time. Seattle's offence stalled in the red zone and the defence could not get off the field on third down. Earlier in the weekend Arizona beat Dallas 33-30 in overtime, Gardner Minshew throwing three touchdown passes as the Cardinals came back from a 14-point deficit.",
+      "source": "KORN Radio Tuesday Sports（11/3）",
+      "url": "https://kornradio.com/sports/tuesday-sports-november-3-2026/"
+     }
+    ]
+   },
+   {
+    "label": "教育心理",
+    "items": [
+     {
+      "en": "A worldwide survey finds young people's mental well-being still declining",
+      "zh": "**全球調查顯示年輕族群心理健康持續下滑**，18–34 歲自評幸福感低於中高齡者。",
+      "summary": "A large multi-country survey reports that mental well-being among young adults continues to decline, with 18 to 34 year olds now scoring lower on self-reported well-being than older age groups in most countries sampled. The pattern inverts the long-standing assumption that well-being falls in mid-life and recovers later. Researchers point to a cluster of correlates rather than one cause: financial precarity, weaker in-person social ties, heavy social-media use, and disrupted schooling during adolescence. The authors caution that self-report measures may also be picking up greater willingness to describe distress.",
+      "source": "News-Medical（11/2）",
+      "url": "https://news-medical.net/news/20261102/Worldwide-survey-reveals-declining-mental-well-being-among-young-people.aspx"
+     },
+     {
+      "en": "Inside Higher Ed lists five digital-age threats to student well-being",
+      "zh": "**美國高教媒體整理五大數位時代學生困境**：睡眠、注意力、比較心理、孤立與線上騷擾。",
+      "summary": "Inside Higher Ed set out five challenges to student well-being in the digital age, drawing on campus wellness directors: disrupted sleep from late-night device use, fragmented attention that makes sustained study harder, constant social comparison, loneliness despite dense online contact, and exposure to online harassment. The piece argues that counselling capacity alone cannot absorb these, and that course design matters: predictable deadlines, fewer always-on communication channels, and explicit norms about response times reduce measured stress more cheaply than adding staff.",
+      "source": "Inside Higher Ed（11/3）",
+      "url": "https://www.insidehighered.com/news/student-success/health-wellness/2026/11/03/5-challenges-student-well-being-digital-age"
+     },
+     {
+      "en": "Education Week says the research base on AI in schools is a mess",
+      "zh": "**Education Week 直言 AI 教育研究一團亂**，多數研究樣本小、缺對照組，難作政策依據。",
+      "summary": "Education Week reviewed the fast-growing literature on artificial intelligence in education and concluded that the evidence base is in poor shape. Most studies are small, short, run by the tool's own developers, and lack control groups or pre-registered outcomes, so effect sizes vary wildly between studies of apparently similar products. The result is that schools buying AI tutoring or grading tools cannot tell from the literature whether they work. The piece calls for common outcome measures and independent replication before districts commit budgets.",
+      "source": "Education Week（11/2026）",
+      "url": "https://edweek.org/technology/the-research-on-ai-in-education-is-a-mess/2026/11"
+     }
+    ]
+   },
+   {
+    "label": "產業動態（AI／半導體／量子）",
+    "items": [
+     {
+      "en": "Anthropic's IPO preparation dominates AI headlines, with Claude said to help design its own chips",
+      "zh": "**Anthropic IPO 題材成焦點**，向投資人表示 Claude 已參與自家晶片設計，信評機構傳給出高收益等級。",
+      "summary": "Anthropic's move toward a public listing dominated AI coverage on November 3. Reports said the company told prospective investors that Claude is already used in designing its own accelerator hardware, part of an argument that model capability now compounds into cost advantages down the stack. Separately the Financial Times reported that credit agencies are expected to assign the company a high-yield rating after listing, reflecting heavy capital commitments against still-young revenue. Anthropic also published a warning that it considers itself close to recursive self-improvement capability, and released the FlashProve verification work.",
+      "source": "GuruFocus／AI Weekly／FT 轉述（11/3）",
+      "url": "https://www.gurufocus.com/news/9165762/anthropic-explores-ai-chip-design-with-potential-15-trillion-ipo"
+     },
+     {
+      "en": "Chip stocks rebounded on November 3 and AMD reported data centre revenue up 97%",
+      "zh": "**美股晶片股昨天反彈**：AMD 漲約 5%、Intel 約 4%、NVDA 約 3%；AMD 盤後公布資料中心營收年增 97% 至 85 億美元。",
+      "summary": "Semiconductor shares rebounded on November 3 after three sessions of losses, with AMD up around five percent, Intel around four percent, Nvidia around three percent and Micron leading early gains. After the close AMD reported data centre revenue up 97 percent year on year to 8.5 billion dollars, beating expectations, and Super Micro also beat on AI server demand. Both moved higher in after-hours trade. The results push back against the argument that AI capital spending is about to stall, though the market is still separating companies that sell the hardware from those that only promise AI revenue.",
+      "source": "24/7 Wall St／Motley Fool（11/3）",
+      "url": "https://247wallst.com/investing/2026/11/03/amd-advances-5-intel-rises-4-marvell-gains-2-as-chip-stocks-bounce-ahead-of-amd-earnings/"
+     },
+     {
+      "en": "DRAM prices have doubled in 2026 and a Kioxia guidance miss triggered a memory selloff in Taiwan",
+      "zh": "**DRAM 今年以來價格翻倍**，但鎧俠財測不如預期引爆記憶體賣壓，台股南亞科、華邦電昨天跌停。",
+      "summary": "Contract DRAM prices have roughly doubled during 2026 as memory makers divert capacity to AI servers, squeezing PC and phone manufacturers who now face both higher component costs and shortages. That price strength had driven a strong run in memory shares, which is exactly why a weaker-than-expected forecast from Kioxia hit so hard: Taiwanese memory and silicon-wafer names fell limit-down on November 3, with Nanya Technology and Winbond both down close to ten percent and GlobalWafers down 9.87 percent. The episode shows how much of the sector's valuation now rests on pricing assumptions rather than volume.",
+      "source": "Nikkei Asia／風傳媒（11/3）",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/dram-prices-double-in-2026-as-ai-focus-squeezes-pc-makers"
+     }
+    ]
+   },
+   {
+    "label": "追星（僅限清單內歌手）",
+    "items": [
+     {
+      "en": "Kenshi Yonezu's 2026 TOUR / GHOST opens this Friday in Nagano, with Taipei Dome in December",
+      "zh": "**米津玄師「2026 TOUR / GHOST」11/6（五）長野開跑**，日本 6 城 14 場到 12/17；**台北大巨蛋 12/26–27**。　▶ **Spotify**：https://open.spotify.com/search/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB",
+      "summary": "Kenshi Yonezu's arena tour 2026 TOUR / GHOST opens on Friday November 6 at Nagano Big Hat, running 14 shows across six Japanese cities until December 17: Nagano, Yokohama's K-Arena, Osaka-jo Hall, Marine Messe Fukuoka, Sekisui Heim Super Arena in Miyagi and Nagoya. The world leg brings him to Taipei Dome on December 26 and 27. Merchandise visuals released at the start of November use key art Yonezu drew himself. Ticket lottery payment windows for the Japanese dates have now closed, so remaining access is through resale and any later general sale.",
+      "source": "REISSUE RECORDS／ライブドアニュース",
+      "url": "https://news.livedoor.com/article/detail/28837160/"
+     },
+     {
+      "en": "An Ado and Vaundy collaboration was picked as the Mezamashi TV opening theme",
+      "zh": "**Ado × Vaundy 合作新曲成為《めざましテレビ》開場曲**，定位是替努力的人加油的應援歌。　▶ **Spotify**：https://open.spotify.com/search/Ado%20Vaundy",
+      "summary": "A collaboration between Ado and Vaundy was chosen as the opening theme for Fuji TV's long-running morning programme Mezamashi TV, described by both artists as a song meant to push along people who are grinding through ordinary days. Vaundy wrote and produced the track and Ado sings it, continuing a run of high-profile tie-ups for both. The placement guarantees daily national exposure, which in Japan reliably converts into streaming chart positions, and it follows Vaundy's Asia tour dates in Taipei at the end of October.",
+      "source": "ファッションプレス",
+      "url": "https://www.fashion-press.net/news/101237"
+     },
+     {
+      "en": "New releases from YOASOBI, Official HIGE DANdism and Mrs. GREEN APPLE land in the same week",
+      "zh": "**YOASOBI、Official髭男dism、Mrs. GREEN APPLE 新曲同週上線**，日媒選為本週重點新作。　▶ **Spotify**：https://open.spotify.com/search/YOASOBI",
+      "summary": "Japanese music media flagged a crowded release week with new songs from YOASOBI, Official HIGE DANdism and Mrs. GREEN APPLE arriving together, alongside a Tokyo Ska Paradise Orchestra collaboration and an anime theme from Hitsujibungaku. All three of the headline acts are on the user's tracking list, and all three now release primarily around drama or anime tie-ups rather than conventional album cycles, which is why their singles tend to cluster at the start of a broadcast season. No Taiwan or Hong Kong dates have been announced alongside these releases.",
+      "source": "SPICE / New Music Wednesday",
+      "url": "https://spice.eplus.jp/articles/330091"
+     }
+    ]
+   }
+  ]
+ },
+ "market": {
+  "insights": [
+   "**台股昨天崩 1,612 點收 43,307**，史上第七大單日跌點，成交爆 9,280 億元",
+   "**殺盤主因記憶體與光通訊**：鎧俠財測差、美光續跌，南亞科、華邦電跌停",
+   "**櫃買 −6.42% 比大盤慘**，清單外大立光、穩懋跌停，環球晶 −9.87%",
+   "**美股昨夜晶片股反彈**，AMD 盤後資料中心營收 +97%，今天開盤壓力減輕",
+   "**今天先看 43,000 守不守**，站不回 44,000 之前都只能算反彈不是翻多"
+  ],
+  "indices": [
+   {
+    "market": "TW",
+    "name": "加權指數 TAIEX",
+    "value": "43,307.54",
+    "change": -3.59,
+    "changePts": "-1,612.60",
+    "comment": "史上第七大跌點，失守 44K"
+   },
+   {
+    "market": "TW",
+    "name": "櫃買指數 OTC",
+    "value": "345.52",
+    "change": -6.42,
+    "changePts": "-23.72",
+    "comment": "中小型股殺更重"
+   },
+   {
+    "market": "TW",
+    "name": "0050 元大台灣50",
+    "value": "—",
+    "change": -3.36,
+    "comment": "溢價 +0.09%，收盤價未取得"
+   },
+   {
+    "market": "TW",
+    "name": "0056 元大高股息",
+    "value": "—",
+    "change": null,
+    "comment": "11/3 精確收盤未取得"
+   },
+   {
+    "market": "US",
+    "name": "那斯達克 Nasdaq Composite",
+    "value": "25,372",
+    "change": 0.83,
+    "changePts": "+207.65",
+    "comment": "晶片股反彈領漲"
+   },
+   {
+    "market": "US",
+    "name": "S&P 500",
+    "value": "7,568.92",
+    "change": 0.36,
+    "changePts": "+27.52",
+    "comment": "中止連三跌"
+   },
+   {
+    "market": "US",
+    "name": "道瓊工業指數 Dow Jones",
+    "value": "51,787",
+    "change": -0.38,
+    "changePts": "-197.26",
+    "comment": "資金轉進科技，傳產轉弱"
+   },
+   {
+    "market": "US",
+    "name": "羅素 2000 Russell 2000",
+    "value": "—",
+    "change": null,
+    "comment": "精確收盤未取得"
+   },
+   {
+    "market": "US",
+    "name": "費半／半導體指數",
+    "value": "—",
+    "change": null,
+    "comment": "收盤未取得；成分股普遍反彈"
+   },
+   {
+    "market": "US",
+    "name": "QQQ（那斯達克100 ETF）",
+    "value": "—",
+    "change": 0.62,
+    "comment": "優於 S&P，科技股回神"
+   }
+  ],
+  "quotes": {
+   "2408": -9.97,
+   "2344": -9.88,
+   "3711": -8.6,
+   "2454": -7.43,
+   "2308": -6.27,
+   "2317": -2.2,
+   "2382": -2.0,
+   "2330": -1.5,
+   "2881": -3.4,
+   "2882": -2.6,
+   "2891": -1.1,
+   "2886": -1.7,
+   "0050": -3.36,
+   "AMD": 5.0,
+   "INTC": 4.0,
+   "NVDA": 3.0,
+   "MRVL": 2.0,
+   "AAPL": -1.9,
+   "PLTR": -1.65
+  },
+  "prices": {
+   "2330": 2295,
+   "2454": 3675,
+   "2308": 1270,
+   "2317": 245.5,
+   "2382": 311.5,
+   "3711": 616,
+   "2408": 411,
+   "2344": 146,
+   "2881": 154,
+   "2882": 113
+  },
+  "movers": [
+   {
+    "name": "南亞科（清單內）",
+    "ticker": "2408",
+    "change": -9.97,
+    "price": "411 元",
+    "reason": "鎧俠財測不如預期，記憶體跌停"
+   },
+   {
+    "name": "華邦電（清單內）",
+    "ticker": "2344",
+    "change": -9.88,
+    "price": "146 元",
+    "reason": "記憶體漲價行情遇美股殺盤"
+   },
+   {
+    "name": "日月光投控（清單內）",
+    "ticker": "3711",
+    "change": -8.6,
+    "price": "616 元",
+    "reason": "封測隨費半重挫，外資提款"
+   },
+   {
+    "name": "聯發科（清單內）",
+    "ticker": "2454",
+    "change": -7.43,
+    "price": "3,675 元",
+    "reason": "權值股遭外資調節，IC 設計同步弱"
+   },
+   {
+    "name": "台達電（清單內）",
+    "ticker": "2308",
+    "change": -6.27,
+    "price": "1,270 元",
+    "reason": "AI 電源獲利了結，跌破月線"
+   },
+   {
+    "name": "AMD（清單內）",
+    "ticker": "AMD",
+    "change": 5.0,
+    "price": "—",
+    "reason": "財報前買盤，盤後資料中心營收 +97%"
+   }
+  ]
+ }
+}
