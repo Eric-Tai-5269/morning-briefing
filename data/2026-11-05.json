@@ -1,0 +1,391 @@
+{
+ "date": "2026-11-05",
+ "dateShort": "2026 年 11 月 5 日（週四）",
+ "dateLabel": "2026 年 11 月 5 日（週四）",
+ "generatedAt": "2026-11-04T23:30:00Z",
+ "highlights": [
+  "**今天上午成大校慶週「2026 成功論壇」09:30–12:10**，光復校區直接入場、免報名",
+  "**台股昨天留 1,093 點長下影線收 42,948**，盤中崩 1,451 點後尾盤狂拉千點",
+  "**美國期中選舉民主黨全拿參眾兩院**，道瓊昨夜飆 3.03%，44 年來期中後最強",
+  "**費半逆勢跌 3.13%**，記憶體與晶片股是台股今天最大變數",
+  "**今天午後東北季風增強**，台北轉局部短暫雨、宜蘭明天留意大雨",
+  "**11/13 校慶交響音樂會免費索票中**，席次有限，想去要今天處理"
+ ],
+ "weather": {
+  "icon": "🌦️",
+  "high": 31,
+  "low": 23,
+  "cities": [
+   {
+    "name": "台北",
+    "high": 28,
+    "low": 23,
+    "desc": "午後轉局部短暫雨"
+   },
+   {
+    "name": "台南",
+    "high": 31,
+    "low": 23,
+    "desc": "多雲到晴偏熱"
+   }
+  ],
+  "alerts": [
+   {
+    "type": "其他",
+    "level": "yellow",
+    "short": "午後東北季風增強",
+    "text": "北部東部午後雲增轉局部雨，宜蘭明天（11/6）留意大雨。"
+   },
+   {
+    "type": "颱風",
+    "level": "yellow",
+    "short": "關島海面可能生成",
+    "text": "週末關島附近有熱帶系統發展機會，目前研判偏北、遠離台灣。"
+   }
+  ]
+ },
+ "schedule": {
+  "available": true,
+  "tasks": [
+   {
+    "title": "洗衣服",
+    "pri": "低",
+    "cat": "家事",
+    "time": "全天",
+    "done": false
+   }
+  ],
+  "advice": [
+   "**09:20 前到光復校區**聽成功論壇，12:10 結束剛好接午餐",
+   "**論壇後下午留 2 小時讀書**，校慶週活動多，功課先推進一段",
+   "**洗衣服改晚上曬室內**，午後可能下雨，別晾陽台",
+   "**開盤先不要盯盤**，等 10:30 看 43,000 站不站回再說",
+   "**順手去索 11/13 音樂會票**，免費但席次有限，晚了就沒"
+  ]
+ },
+ "mail": {
+  "items": [
+   {
+    "level": "green",
+    "from": "成大校方（NCKU IHQ）",
+    "subject": "11/5 上午「2026 成功論壇」校慶週登場",
+    "todo": "今天 09:30 直接到光復校區成功廳入場",
+    "title": "📢 11/5 上午【2026 成功論壇】即將登場｜歡迎直接蒞臨現場參與！",
+    "kind": "今天 09:30–12:10 參加，免報名；材料、電機、機械、工程科學四系聯合主辦",
+    "detail": "校慶週首度由四大學系聯合舉辦，邀請重量級領袖與傑出校友演講。工程科學系是你本系，現場免報名直接入場。",
+    "deadline": "今天 09:30",
+    "calendar": {
+     "title": "2026 成功論壇（光復校區）",
+     "date": "2026-11-05",
+     "cat": "特殊課",
+     "pri": "中"
+    }
+   },
+   {
+    "level": "amber",
+    "from": "成大藝術中心",
+    "subject": "11/13 校慶交響音樂會《命運狂潮》免費索票",
+    "todo": "今天去索票，席次有限先搶先贏",
+    "title": "【藝術中心演藝活動】11/13（五）《命運狂潮》2026 校慶交響音樂會，開放索票中!",
+    "kind": "11/13（五）成功廳演出，免費索票入場，需自行索票",
+    "detail": "高雄市交響樂團重返成功廳，駐團指揮吳曜宇執棒，曲目為布拉姆斯、莫札特與貝多芬。免費索票、席次有限。",
+    "deadline": "索完為止",
+    "calendar": {
+     "title": "校慶交響音樂會《命運狂潮》",
+     "date": "2026-11-13",
+     "cat": "出遊",
+     "pri": "低"
+    }
+   },
+   {
+    "level": "green",
+    "from": "成大心輔組",
+    "subject": "11/5 通識認證講座：面對背叛與內在安全感重建",
+    "todo": "有興趣就今天去，可累積通識認證點數",
+    "title": "【心輔組活動】「練」愛11月精選：一起探索愛情的模樣",
+    "kind": "11/5 通識認證講座，另有 11/14 白雪公主劇場工作坊（需報名）",
+    "detail": "心輔組 11 月系列活動，含 11/5 通識認證講座與 11/14（六）09:30–17:00 劇場工作坊（光復校區學生活動中心 B1 舞蹈教室，需線上報名）。",
+    "deadline": "—",
+    "calendar": null
+   }
+  ]
+ },
+ "news": {
+  "groups": [
+   {
+    "label": "頭條",
+    "items": [
+     {
+      "en": "Democrats sweep the US midterms, taking control of both the House and the Senate",
+      "zh": "**民主黨期中選舉全面勝選**，同時拿下眾議院與參議院多數，是對川普政府的重大打擊。",
+      "summary": "Democrats won control of both chambers of Congress in the November 3 midterm elections, flipping the Senate as well as the House in a result that exceeded most pre-election forecasts. Counting continued in several races but control of both chambers was called on November 4. Analysts framed the outcome as a rebuke of the administration's economic record, with voters citing prices and health costs. Trump struck a conciliatory tone afterwards. A divided government now makes major new legislation unlikely, which investors read as reducing policy risk over the next two years.",
+      "source": "CNN／CNBC 選情直播（11/4）",
+      "url": "https://www.cnn.com/2026/11/04/politics/live-news/midterm-election-congress"
+     },
+     {
+      "en": "The Dow posted its best post-midterm day in 44 years while oil collapsed",
+      "zh": "**道瓊昨夜飆 1,569 點（+3.03%）**，為 44 年來期中選舉後最佳單日表現；油價同步崩跌。",
+      "summary": "The Dow Jones Industrial Average rose 1,569 points, or 3.03 percent, to 53,356 on November 4, its strongest day following a midterm election in 44 years. The S&P 500 gained 1.58 percent and the Nasdaq Composite 1.44 percent. Energy was the worst sector as oil benchmarks slid, with Brent reported down about ten dollars a barrel intraday and trading below one hundred, which traders attributed both to the election result and to signs of de-escalation with Iran. Semiconductors were the notable exception, falling against the broad rally.",
+      "source": "TheStreet／Benzinga（11/4）",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-04-2026"
+     },
+     {
+      "en": "Australia defends its under-16 social media ban in the High Court",
+      "zh": "**澳洲政府在高等法院為「16 歲以下禁用社群媒體」辯護**，主張這是保護發育中大腦的必要手段。",
+      "summary": "Australian government lawyers told the High Court that the country's ban on social media for children under 16 is necessary to protect developing brains. The government is defending two constitutional challenges, brought by Reddit and the Sydney-based Digital Freedom Project, to a law that took effect last year. Counsel listed addictive use, disrupted sleep, depression, anxiety, suicidal ideation, worsened disordered eating and more intense ADHD symptoms among the harms cited. The case is being watched closely by other governments weighing similar age limits.",
+      "source": "Morning Star World in Brief（11/4）",
+      "url": "https://morningstaronline.co.uk/article/world-brief-november-4-2026"
+     },
+     {
+      "en": "Indonesia deployed over 20,000 troops in Jakarta over an alleged wiretapping plot",
+      "zh": "**印尼在雅加達部署超過 2 萬名軍警**，調查針對總統普拉伯沃的非法監聽案，總統府稱近乎叛國。",
+      "summary": "More than 20,000 troops and personnel were deployed across Jakarta on November 4 while Indonesian authorities investigate an alleged illegal wiretapping operation targeting President Prabowo Subianto. The presidential palace said the alleged operation could be regarded as leading toward treason. General Listyo Sigit Prabowo, appointed presidential chief of staff only last month, is among those implicated and was dismissed the same day. The scale of the deployment in a capital with no reported unrest drew comment from analysts about the government's reading of the threat.",
+      "source": "Morning Star World in Brief（11/4）",
+      "url": "https://morningstaronline.co.uk/article/world-brief-november-4-2026"
+     },
+     {
+      "en": "North Korea fired multiple missiles after ruling out renewed talks with Washington",
+      "zh": "**北韓向東部海域試射多枚飛彈**，發生在其表態無意恢復對美外交的數小時後。",
+      "summary": "North Korea launched multiple missiles toward its eastern waters on November 4, hours after saying it saw no need to resume diplomacy with the United States. Pyongyang framed the launches as a protest against accusations that North Korean hackers were behind a recent cryptocurrency theft at Binance. South Korea's joint chiefs of staff confirmed they had detected the launches and said the South stands ready to repel any provocation. The timing, immediately after the US midterms, was read as a test of how the new Congress affects Washington's posture.",
+      "source": "Morning Star World in Brief（11/4）",
+      "url": "https://morningstaronline.co.uk/article/world-brief-november-4-2026"
+     }
+    ]
+   },
+   {
+    "label": "科技",
+    "items": [
+     {
+      "en": "Anthropic released FlashProve, a cryptographic way to verify which model answered",
+      "zh": "**Anthropic 發表 FlashProve**，用密碼學證明回應確實來自指定模型，且不需公開模型權重。",
+      "summary": "Anthropic published research and working code for FlashProve, a system for checking whether an AI response actually came from the model a provider claims to have used. The method relies on cryptographic proofs, so verification does not expose private model weights, which means closed-weight providers could adopt it. The stated aims are to stop a provider quietly substituting a cheaper model, to make benchmark claims auditable, and to resist impostors even when the impostor is the lab itself. Anthropic calls the work experimental and has announced no production deployment.",
+      "source": "The Neuron AI Digest（11/4）",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/"
+     },
+     {
+      "en": "Apple warned investors that autonomous AI agents could exceed their permissions",
+      "zh": "**蘋果在年報中警告 AI 代理風險**，指出自主代理可能超出授權、造成難以回復的未授權交易。",
+      "summary": "Apple warned investors in its annual filing that autonomous AI agents could exceed their granted permissions or behave unpredictably, raising the possibility of unauthorised transactions and effects that are hard to reverse. The warning is notable because it landed the same week Apple expanded Siri AI's ability to take actions across third-party applications and opened Siri AI to developers in a preview build. Risk disclosures of this kind are becoming a standard place to look for what large platforms actually believe about agent reliability, as opposed to what their marketing says.",
+      "source": "The Neuron AI Digest（11/4）",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/"
+     },
+     {
+      "en": "OpenAI built Pando, a Git-compatible backend, and says ChatGPT has 1.2bn weekly users",
+      "zh": "**OpenAI 自建 Git 相容後端 Pando**，推送延遲中位數降近 80%；同時宣稱 ChatGPT 週活 12 億人。",
+      "summary": "OpenAI said it built Pando, a Git-compatible backend designed for the volume of code produced by its engineers and coding agents. Pando now powers the company's main repository, cut median code-push latency by nearly 80 percent, and serves close to a petabyte of repository data a day. Separately OpenAI reported 1.2 billion weekly ChatGPT users, estimated its search-like query volume at roughly 20 percent of Google's, and said it plans to merge its Chat and Work products into a single experience. The search figure is OpenAI's own estimate, not an independent audit.",
+      "source": "The Neuron AI Digest（11/4）",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/"
+     }
+    ]
+   },
+   {
+    "label": "運動",
+    "items": [
+     {
+      "en": "Fenerbahce beat Liverpool 3-2 for Liverpool's first Champions League defeat this season",
+      "zh": "**費內巴切 3–2 擊敗利物浦**，利物浦本季歐冠首敗，兩度領先仍被逆轉。",
+      "summary": "Fenerbahce beat Liverpool 3-2 in Istanbul on November 4, handing Liverpool their first defeat of this season's Champions League league phase. Liverpool led twice through Trey Nyoni and Alexander Isak but conceded to Mason Greenwood, Archie Brown and Vedat Muriqi. Manager Andoni Iraola summed the night up as cheap, messy goals, and the defensive pattern repeated what has troubled Liverpool in away games this autumn. The result leaves the league-phase table tighter at the top and puts more weight on Liverpool's remaining fixtures.",
+      "source": "Football360／KSAT（11/4）",
+      "url": "https://football360.com.au/champions-league-results-matchday-4-liverpool-real-madrid/"
+     },
+     {
+      "en": "Valverde's stoppage-time winner kept Real Madrid perfect, 3-2 at AEK Athens",
+      "zh": "**皇馬 3–2 客勝 AEK 雅典**，瓦爾韋德補時進球，歐冠聯賽階段四戰全勝。",
+      "summary": "Real Madrid came from behind twice in Athens to beat AEK 3-2, with Jude Bellingham and Kylian Mbappe scoring before Federico Valverde struck in stoppage time. Madrid remain unbeaten in the league phase with four wins from four. Elsewhere Manchester City ended a losing run by winning 3-2 at RB Leipzig, Erling Haaland scoring the 78th-minute winner, and Arsenal won 1-2 at Slavia Prague through Noni Madueke and Viktor Gyokeres to stay unbeaten in third place on ten points.",
+      "source": "Yahoo Sports／Football360（11/4）",
+      "url": "https://sports.yahoo.com/soccer/live/champions-league-scores-live-updates-scores-highlights-leipzig-vs-manchester-city-real-madrid-arsenal-190000043.html"
+     },
+     {
+      "en": "Como won 9-1 at Lens in the highest-scoring Champions League away win of the season",
+      "zh": "**科莫 9–1 血洗朗斯**，杜維卡斯帽子戲法、七名不同球員進球，本季歐冠最大比分客場勝。",
+      "summary": "Como won 9-1 at Lens on November 4, with Anastasios Douvikas scoring a hat-trick and seven different players finding the net, the heaviest away win of this Champions League season. Ruben Aguilar scored the Lens consolation. On the same night Porto took their first points of the campaign by beating Napoli 4-1, with Napoli defender Rafa Marin sent off, Borussia Dortmund beat Real Betis 2-1 to inflict Betis's first league-phase loss, Club Brugge won 2-1 at PSV for a third straight win, and Viking beat Sabah 4-1.",
+      "source": "Football360（11/4）",
+      "url": "https://football360.com.au/champions-league-results-matchday-4-liverpool-real-madrid/"
+     }
+    ]
+   },
+   {
+    "label": "教育心理",
+    "items": [
+     {
+      "en": "Australia's court case put adolescent brain development at the centre of platform regulation",
+      "zh": "**澳洲高等法院審理 16 歲以下社群禁令**，政府列出成癮、睡眠、憂鬱、焦慮等一整串發展風險。",
+      "summary": "The Australian government's High Court defence of its under-16 social media ban set out an unusually explicit list of developmental harms: addictive patterns of use, disrupted sleep, depression, anxiety, suicidal ideation, worsened disordered eating and more intense ADHD symptoms. Reddit and the Digital Freedom Project are challenging the law on constitutional grounds. Researchers have noted that the evidence for each individual harm varies in strength, and that the case will effectively test how much certainty a government needs before restricting a medium for minors.",
+      "source": "Morning Star World in Brief（11/4）",
+      "url": "https://morningstaronline.co.uk/article/world-brief-november-4-2026"
+     },
+     {
+      "en": "Google's new education settings force schools to choose between AI tools and Search",
+      "zh": "**Google 新教育設定讓學校二選一**：關掉 AI 工具就連 Google 搜尋也一併失去學生帳號權限。",
+      "summary": "Under new education settings, schools that disable Google's AI tools for student accounts also lose access to Google Search for those accounts. Google says AI is now integrated into Search and cannot be separated, and is adding Guided Learning features intended to walk students through reasoning rather than hand them answers. Schools that want conventional search therefore have to accept an AI-enabled experience. Administrators have objected that the choice removes a basic research tool from classrooms that are not yet ready to supervise AI use.",
+      "source": "The Neuron AI Digest（11/4）",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/"
+     },
+     {
+      "en": "New work examines how climate anxiety affects college students' functioning",
+      "zh": "**研究檢視氣候焦慮對大學生的影響**，發現焦慮本身不必然致病，關鍵是有沒有行動管道。",
+      "summary": "Researchers looking at climate anxiety among college students report that distress about climate change is now common on campuses but does not map neatly onto impairment. Students who channel the concern into coursework, research or local action tend to function normally, while those who feel they have no avenue for action report more avoidance and difficulty concentrating. The authors argue counselling framings that treat climate anxiety purely as a symptom miss this, and that giving students something concrete to do is often the more effective intervention.",
+      "source": "Phys.org（11/2026）",
+      "url": "https://phys.org/news/2026-11-anxiety-climate-affects-college-students.html"
+     }
+    ]
+   },
+   {
+    "label": "產業動態（AI／半導體／量子）",
+    "items": [
+     {
+      "en": "Anthropic says it uses Claude to design its own AI accelerator chips",
+      "zh": "**Anthropic 表示已用 Claude 參與自家 AI 加速器晶片設計**，被視為直接挑戰 Nvidia、AMD 的成本結構。",
+      "summary": "Anthropic said it is using Claude in the design of its own AI accelerator hardware, part of an argument that model capability compounds into cost advantages further down the stack. Coverage framed it as a challenge to Nvidia and AMD, though Anthropic has not claimed a shipping product and custom silicon takes years to reach volume. The company separately added instructions to Claude Code for Opus 5.5 that block cloning specific existing video games after a wave of AI recreations, a restriction some developers say also catches legitimate work.",
+      "source": "Emergent／CryptoBriefing（11/4）",
+      "url": "https://emergent.sh/news/anthropic-uses-claude-design-own-ai-chips"
+     },
+     {
+      "en": "The semiconductor index fell 3.13% while the rest of the market rallied hard",
+      "zh": "**費半昨夜逆勢跌 3.13% 收 10,268 點**，那斯達克 100 卻漲 0.91%，資金明顯從晶片股撤出。",
+      "summary": "The Philadelphia Semiconductor Index fell 3.13 percent to about 10,268 on November 4 even as the Dow rose more than three percent and the Nasdaq 100 gained 0.91 percent. The equal-weighted Nasdaq 100 rose 1.23 percent, which means the breadth was in the broad market rather than in large-cap technology. The divergence suggests money rotating out of the AI hardware trade and into sectors expected to benefit from a divided Congress, and it sets up a difficult open for Taiwanese chip and memory names that follow the index closely.",
+      "source": "TS2／KuCoin News（11/4）",
+      "url": "https://ts2.tech/en/nasdaq-100-rises-as-chip-index-falls-3-13/"
+     },
+     {
+      "en": "Drax proposed a 20 billion pound data centre campus in North Yorkshire",
+      "zh": "**英國 Drax 提出 200 億英鎊資料中心開發案**，與 Brookfield、Radiant 合作，規模最終可能超過 1GW。",
+      "summary": "Drax proposed a twenty billion pound data centre development in North Yorkshire with partners Brookfield and Radiant, a site that could eventually exceed one gigawatt of computing capacity. Construction depends on planning permission, regulatory approvals and customer commitments, none of which are secured. The announcement fits a pattern of power-adjacent companies positioning land and grid connections as the scarce input in AI infrastructure, and it is the kind of project that shapes multi-year demand for the power, cooling and networking suppliers on the Taiwan supply chain.",
+      "source": "The Neuron AI Digest（11/4）",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-4-2026/"
+     }
+    ]
+   },
+   {
+    "label": "追星（僅限清單內歌手）",
+    "items": [
+     {
+      "en": "Kenshi Yonezu's 2026 TOUR / GHOST opens tomorrow in Nagano, Taipei Dome in December",
+      "zh": "**米津玄師「2026 TOUR / GHOST」明天 11/6（五）長野開跑**，日本 6 城 14 場到 12/17；**台北大巨蛋 12/26–27**。　▶ **Spotify**：https://open.spotify.com/search/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB",
+      "summary": "Kenshi Yonezu's arena tour 2026 TOUR / GHOST opens on Friday November 6 at Nagano Big Hat, running 14 shows across six Japanese cities until December 17: Nagano, Yokohama's K-Arena, Osaka-jo Hall, Marine Messe Fukuoka, Sekisui Heim Super Arena in Miyagi and Nagoya. The world leg brings him to Taipei Dome on December 26 and 27. Tour merchandise released this week reissues the Nekochan, Tongarikun and Teethkun character goods, and a new single carries the fastest-priority ticket serial number for later dates.",
+      "source": "ライブドアニュース／音楽ナタリー",
+      "url": "https://natalie.mu/music/news/696163"
+     },
+     {
+      "en": "tuki. finished her first overseas show at Taipei Arena, with Hong Kong next",
+      "zh": "**tuki. 首次海外公演在台北小巨蛋完成**，唱了 20 首、安可〈純恋愛のインゴット〉；接著是香港場。　▶ **Spotify**：https://open.spotify.com/search/tuki.",
+      "summary": "tuki. played her first overseas concert at Taipei Arena as part of the 1st ASIA TOUR 2026, performing twenty songs including Ichirinka, Jigoku Renbun, Kodoku no Kujira, Bansan Uta and Gilty, with Junrenai no Ingot as the encore. Her backing band was Sumito Kansa on keys, Yuki Nara on guitar, Riku Sakurai on bass and Ryo Kanda on drums. The Hong Kong date follows on the same tour. For a singer who built an audience almost entirely online, the Taipei show was her first test of that audience in a physical arena.",
+      "source": "tuki. 官方／unipa 現場報導",
+      "url": "https://tuki-official.net/contents/1006330"
+     },
+     {
+      "en": "An Ado and Vaundy collaboration became the new Mezamashi TV opening theme",
+      "zh": "**Ado × Vaundy 合作新曲成《めざましテレビ》開場曲**，兩人定位是替努力的普通人加油的應援歌。　▶ **Spotify**：https://open.spotify.com/search/Ado%20Vaundy",
+      "summary": "A collaboration between Ado and Vaundy was chosen as the opening theme for Fuji TV's long-running morning programme Mezamashi TV, described by both artists as a song meant to push along people grinding through ordinary days. Vaundy wrote and produced the track and Ado sings it, continuing a run of high-profile tie-ups for both. The placement guarantees daily national exposure in Japan, which in recent years has been a reliable route onto the domestic streaming charts for songs that are not anime or drama themes.",
+      "source": "ファッションプレス",
+      "url": "https://www.fashion-press.net/news/101237"
+     }
+    ]
+   }
+  ]
+ },
+ "market": {
+  "insights": [
+   "**台股昨天收 42,948（−358 點、−0.83%）**，盤中崩 1,451 點後尾盤狂拉，留 1,093 點長下影線",
+   "**成交爆 1.11 兆、震幅 1,885 點**，外資連 5 賣提款約 1,499 億，投信連 17 買",
+   "**殺盤主角還是記憶體**：華邦電法說後盤中一度 −9%、南亞科 −7.4%、旺宏 −6.7%（收盤未確認）",
+   "**美股昨夜大漲但費半 −3.13%**，資金從晶片轉向受惠分立政府的傳產與金融",
+   "**今天看 43,000 能不能站回**，長下影線只是止跌訊號，站不上 44,000 都算反彈"
+  ],
+  "indices": [
+   {
+    "market": "TW",
+    "name": "加權指數 TAIEX",
+    "value": "42,948.91",
+    "change": -0.83,
+    "changePts": "-358.63",
+    "comment": "留 1,093 點長下影線"
+   },
+   {
+    "market": "TW",
+    "name": "櫃買指數 OTC",
+    "value": "343.50",
+    "change": -0.58,
+    "changePts": "-2.02",
+    "comment": "盤中一度殺 3.7% 後拉回"
+   },
+   {
+    "market": "TW",
+    "name": "0050 元大台灣50",
+    "value": "—",
+    "change": -2.6,
+    "comment": "失守百元，成交逾 20 萬張"
+   },
+   {
+    "market": "TW",
+    "name": "0056 元大高股息",
+    "value": "—",
+    "change": null,
+    "comment": "11/4 精確收盤未取得"
+   },
+   {
+    "market": "US",
+    "name": "那斯達克 Nasdaq Composite",
+    "value": "25,736.51",
+    "change": 1.44,
+    "changePts": "+364.50",
+    "comment": "選後反彈但晶片拖累"
+   },
+   {
+    "market": "US",
+    "name": "S&P 500",
+    "value": "7,688.62",
+    "change": 1.58,
+    "changePts": "+119.70",
+    "comment": "幾乎全類股上漲"
+   },
+   {
+    "market": "US",
+    "name": "道瓊工業指數 Dow Jones",
+    "value": "53,356.12",
+    "change": 3.03,
+    "changePts": "+1,569.40",
+    "comment": "44 年來期中選後最強"
+   },
+   {
+    "market": "US",
+    "name": "羅素 2000 Russell 2000",
+    "value": "2,856.96",
+    "change": 1.58,
+    "changePts": "+44.51",
+    "comment": "中小型股同步走強"
+   },
+   {
+    "market": "US",
+    "name": "費半／半導體指數 SOX",
+    "value": "10,268.65",
+    "change": -3.13,
+    "comment": "全場唯一大跌，台股最大變數"
+   },
+   {
+    "market": "US",
+    "name": "QQQ（那斯達克100 ETF）",
+    "value": "—",
+    "change": null,
+    "comment": "那斯達克100 +0.91%，QQQ 收盤未取得"
+   }
+  ],
+  "quotes": {
+   "2330": -1.53,
+   "2308": -3.94,
+   "2317": -2.24,
+   "2454": 1.09,
+   "3711": 1.79,
+   "2383": 3.64,
+   "0050": -2.6
+  },
+  "prices": {
+   "2330": 2260,
+   "2308": 1220,
+   "2317": 240,
+   "2454": 3715,
+   "3711": 627
+  },
+  "movers": []
+ }
+}
