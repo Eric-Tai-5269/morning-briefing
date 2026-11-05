@@ -1,0 +1,566 @@
+{
+ "date": "2026-11-06",
+ "dateShort": "2026 年 11 月 6 日（週五）",
+ "dateLabel": "2026 年 11 月 6 日（週五）",
+ "generatedAt": "2026-11-05T23:30:00Z",
+ "highlights": [
+  "**美股昨夜崩盤、費半暴跌 12.25%**，台股夜盤一度失守 4 萬點，今天開盤壓力極大",
+  "**台股昨天已重挫 1,374 點收 41,574**，連 6 跌、櫃買更慘跌 6.41%",
+  "**第三次工業革命分組 LINE 群組要加入**，組員寄了連結，今天 5 分鐘處理掉",
+  "**職涯教練計畫 UNIQLO 組報名 11/9（一）10:00 截止**，要投這幾天就得決定",
+  "**今天東北季風到、台北轉涼有雨**，高溫只剩 24–26 度，記得帶傘跟薄外套",
+  "**11/9 英語午餐桌開放報名**，主題 Pet Peeves，午餐時間就能練口說"
+ ],
+ "weather": {
+  "icon": "🌧️",
+  "high": 31,
+  "low": 21,
+  "cities": [
+   {
+    "name": "台北",
+    "high": 26,
+    "low": 22,
+    "desc": "東北季風到，陰有雨"
+   },
+   {
+    "name": "台南",
+    "high": 31,
+    "low": 23,
+    "desc": "多雲到晴仍偏熱"
+   }
+  ],
+  "alerts": [
+   {
+    "type": "其他",
+    "level": "yellow",
+    "short": "宜蘭花蓮局部大雨",
+    "text": "東北季風今天增強，宜蘭、花蓮有局部短暫陣雨並可能出現較大雨勢。"
+   },
+   {
+    "type": "颱風",
+    "level": "yellow",
+    "short": "查帕卡最快週末生成",
+    "text": "關島東南方熱帶擾動最快週末到下週一發展為颱風查帕卡，氣象署研判轉北、不影響台灣。"
+   }
+  ]
+ },
+ "schedule": {
+  "available": true,
+  "tasks": [
+   {
+    "title": "倒垃圾",
+    "pri": "低",
+    "cat": "家事",
+    "time": "全天",
+    "done": false
+   }
+  ],
+  "advice": [
+   "**開盤先不要急著看帳面**，美股崩盤已反映，等 10:30 看 40,000 守不守",
+   "**今天先把分組 LINE 群組加入**，第三次工業革命要聯絡，5 分鐘搞定",
+   "**中午決定職涯教練要不要報名**，UNIQLO 組 11/9 早上 10:00 就截止",
+   "**下午留 2 小時推進課業**，期中考剛過最容易鬆掉，先把進度補回來",
+   "**倒垃圾趁晚上出門前**，今天有雨，順手帶傘再下樓"
+  ]
+ },
+ "mail": {
+  "items": [
+   {
+    "level": "amber",
+    "from": "第三次工業革命組員 李睿渝",
+    "subject": "分組報告 LINE 群組建好了，請加入",
+    "todo": "今天點連結加入 G5 群組，之後討論報告用",
+    "title": "第三次工業革命(course_project_G5)",
+    "kind": "加入分組 LINE 群組，方便後續討論報告與聯絡（共 7 位組員）",
+    "detail": "組員李睿渝建立了「第三次工業革命」分組報告的 LINE 群組，信中附加入連結。整組 7 人同時收到，越早加入越不會漏掉討論。",
+    "deadline": "越快越好",
+    "calendar": {
+     "title": "加入第三次工業革命分組 LINE 群組",
+     "date": "2026-11-06",
+     "cat": "報告",
+     "pri": "中"
+    }
+   },
+   {
+    "level": "amber",
+    "from": "成大學務處生涯發展組",
+    "subject": "第十七屆職涯教練計畫開放報名，UNIQLO 組 11/9 10:00 截止",
+    "todo": "這幾天決定要不要報，UNIQLO 組 11/9 早上截止",
+    "title": "【教練領航/跨域探索/職涯聚焦】第十七屆成大職涯教練計畫｜多家企業參與！開放報名中",
+    "kind": "報名職涯教練計畫；企業自選小組長 UNIQLO 開放報名至 11/9（一）10:00",
+    "detail": "計畫邀請企業中高階主管擔任小組職涯教練，內容含產業趨勢、履歷與面試技巧、企業與同儕人脈。參與企業還有台積電、永豐等，其他教練名單要到官網查。",
+    "deadline": "11/9（一）10:00（UNIQLO 組）",
+    "calendar": {
+     "title": "職涯教練計畫 UNIQLO 組報名截止",
+     "date": "2026-11-09",
+     "cat": "實習",
+     "pri": "中"
+    }
+   },
+   {
+    "level": "green",
+    "from": "成大雙語教育推動辦公室",
+    "subject": "11/9 英語午餐桌報名開跑，主題 Pet Peeves",
+    "todo": "想練口說就報名 11/9 中午場",
+    "title": "11月9日英語午餐桌報名開跑！快來一起練口說！",
+    "kind": "11/9（一）12:10–13:00 英語午餐桌，12:00 開始報到，需線上報名",
+    "detail": "每週不同主題的英語聊天活動，有桌長帶、可以問英語對話小撇步，還提供餐點。這週主題是 Pet Peeves（讓你爆炸的小事）。",
+    "deadline": "11/9（一）前報名",
+    "calendar": {
+     "title": "英語午餐桌（Pet Peeves）",
+     "date": "2026-11-09",
+     "cat": "英文",
+     "pri": "低"
+    }
+   },
+   {
+    "level": "green",
+    "from": "成大國際關係組",
+    "subject": "11/10 台北科大 × 九州大學聯合研討會開放報名",
+    "todo": "對 AI／先進材料有興趣可報名 11/10 場",
+    "title": "活動轉知｜2026 Taipei Tech x Kyushu University Joint Symposium，歡迎有興趣之師生踴躍報名參加!",
+    "kind": "11/10（二）台北科大與日本九州大學聯合研討會，開放本校師生報名",
+    "detail": "聚焦人工智慧、智慧工程、先進材料、光電元件與綠色能源，是臺日學術交流場合。對工程科學系跨域或日本留學有興趣的話值得去看看。",
+    "deadline": "11/10（二）前報名",
+    "calendar": {
+     "title": "Taipei Tech × 九州大學聯合研討會",
+     "date": "2026-11-10",
+     "cat": "特殊課",
+     "pri": "低"
+    }
+   }
+  ]
+ },
+ "news": {
+  "groups": [
+   {
+    "label": "頭條",
+    "items": [
+     {
+      "en": "Wall Street suffers worst day in 19 months as the chip index plunges 12.25%",
+      "zh": "**美股四大指數全面重挫**，費半單日暴跌 12.25%，那斯達克跌 5.52% 正式進入修正區間。",
+      "summary": "US stocks fell sharply on Thursday November 5. The Nasdaq Composite dropped 1,421.52 points, or 5.52%, to 24,315.00, its worst single session in nineteen months and enough to confirm a correction after an eleven percent slide over the past month. The S&P 500 lost 4.36% to 7,353.73, the Dow fell 1,833.06 points or 3.44% to 51,523.06, and the Russell 2000 shed 4.4%. The Philadelphia Semiconductor Index collapsed 12.25%, its steepest fall since March 2020. Money moved into Treasuries, pushing the ten-year yield down about six basis points to 4.83%, while gold rose and bitcoin fell roughly 5.4%.",
+      "source": "鉅亨網／世界日報（11/5 美股盤後）",
+      "url": "https://news.cnyes.com/news/id/6648369"
+     },
+     {
+      "en": "Post-election data centre policy fears trigger the AI selloff",
+      "zh": "**殺盤主因是 AI 政策風險**：民主黨期中選舉全勝後，多位新任州長主張嚴限資料中心興建，參議員桑德斯更喊全國暫停。",
+      "summary": "Investors read the Democratic sweep of both chambers and five governorships as a turning point for AI infrastructure policy. Newly elected governors including Gina Hinojosa in Texas, Keisha Lance Bottoms in Georgia and Amy Acton in Ohio campaigned on strict conditions for large data centre projects, and several incoming senators want limits on construction and power supply. Senator Bernie Sanders called for a nationwide pause on data centre building, a political proposal rather than an enacted ban. A Meta executive also said building data centres would become harder. The Nasdaq lost about 2.5 trillion dollars of market value in one day.",
+      "source": "經濟日報／中央社（11/6）",
+      "url": "https://money.udn.com/money/story/123398/9860953"
+     },
+     {
+      "en": "Taiwan's TAIEX falls for a sixth straight day, down 1,374 points",
+      "zh": "**台股昨天已先跌 1,374.19 點收 41,574.72**，連 6 跌失守 42,000，外資賣超 1,024 億是史上第 10 大。",
+      "summary": "Taiwan's benchmark index closed on November 5 at 41,574.72, down 1,374.19 points or 3.2%, falling below 42,000 and marking a sixth consecutive decline. Turnover reached NT$926.0 billion. Foreign investors net sold about NT$102.5 billion, the tenth largest single-day outflow on record, and have now sold for six sessions running. The over-the-counter TPEx index fared far worse, dropping 22.03 points or 6.41% to 321.47, prompting the exchange to issue a statement urging investors not to panic. Memory and PCB names led the fall, with several hitting limit down, while textile stocks rose against the trend.",
+      "source": "鉅亨網／聯合新聞網（11/5 台股盤後）",
+      "url": "https://news.cnyes.com/news/id/6647916"
+     },
+     {
+      "en": "COP31 climate summit opens in Antalya, Türkiye on November 9",
+      "zh": "**COP31 氣候峰會 11/9–20 在土耳其安塔利亞登場**，焦點是各國能否補上過去承諾的減碳與氣候資金缺口。",
+      "summary": "The thirty-first United Nations climate conference runs from November 9 to 20 in Antalya, Türkiye. Negotiators arrive with a credibility problem: the national climate plans submitted so far still point to warming well above the Paris Agreement's 1.5 degree goal, and the finance pledged to developing countries remains far short of what was promised at earlier summits. Expected flashpoints include the pace of the transition away from fossil fuels, rules for carbon markets, and who pays for adaptation and loss and damage. Delivery on existing commitments, rather than new headline targets, is the test observers say matters.",
+      "source": "Climate Home News／United Nations",
+      "url": "https://www.climatechangenews.com/2026/11/05/cop31-briefing-what-to-expect-from-the-antalya-climate-summit/"
+     },
+     {
+      "en": "Vote counting continues in Alaska, Mississippi and Kansas after the Democratic sweep",
+      "zh": "**期中選舉開票仍在收尾**：阿拉斯加、密西西比與堪薩斯仍在計票，民主黨已確定同時掌握參眾兩院。",
+      "summary": "Counting continued in Alaska, Mississippi and Kansas several days after the November 3 midterms, though control of both chambers of Congress had already been decided for the Democrats. The result hands the party the House and the Senate alongside five governorships taken from Republicans, and analysts have framed it as a verdict on prices, health costs and tariffs. President Trump told CNBC he could work with Democrats on more issues than people expect. A divided government makes sweeping new legislation unlikely, which some investors read as lower policy risk even as AI regulation fears hit markets.",
+      "source": "NBC News 選情直播",
+      "url": "https://www.nbcnews.com/politics/2026-election/live-blog/election-results-house-senate-trump-congress-live-updates-rcna607549"
+     }
+    ]
+   },
+   {
+    "label": "科技",
+    "items": [
+     {
+      "en": "Apple puts five new products on sale today, including its first touchscreen MacBook Pro",
+      "zh": "**蘋果今天（11/6）開賣五款新品**：OLED iPad mini、M6 iMac、M6 MacBook Pro，以及史上第一款 OLED 觸控 MacBook Pro 14／16 吋。",
+      "summary": "Apple's five new products go on sale on Friday November 6, with pre-orders already open. The redesigned iPad mini starts at 699 dollars with an 8.5-inch OLED display, the A20 Pro chip, IP67 water resistance and a thinner body. A new iMac with the M6 chip starts at 1,499 dollars, and a spec-bumped 14-inch MacBook Pro with M6 starts at 1,999 dollars. The headline models are Apple's first touchscreen MacBook Pros, with OLED displays at 2,899 dollars for 14 inches and 3,399 dollars for 16 inches. Most pre-orders arrive on launch day, though Space Black touchscreen units slip three to four weeks.",
+      "source": "MacRumors",
+      "url": "https://www.macrumors.com/2026/11/05/apple-launching-five-new-products-tomorrow/"
+     },
+     {
+      "en": "OpenAI hires away Anthropic's Claude Code product lead",
+      "zh": "**OpenAI 挖走 Anthropic 的 Claude Code 產品負責人 Cat Wu**，AI 寫程式工具的人才戰持續升溫。",
+      "summary": "OpenAI has recruited Cat Wu, who led product for Anthropic's Claude Code, the command line coding agent that became one of the company's fastest growing products. The move continues an unusually aggressive run of hiring between the two largest frontier labs, concentrated on the people who ship developer tools rather than on researchers. Coding agents have turned into the most commercially proven application of large language models, and both firms are racing to own the workflow that developers keep open all day. Neither company commented in detail on what she will build at OpenAI.",
+      "source": "WinBuzzer",
+      "url": "https://winbuzzer.com/2026/11/05/openai-hires-anthropics-ai-coding-product-leader-cat-wu-xcxwbn"
+     },
+     {
+      "en": "Claude adds a personal finance feature with read-only bank access",
+      "zh": "**Claude 新增個人理財功能**，可用唯讀方式連結銀行帳戶做支出分析，資料不會被寫入或動用。",
+      "summary": "Anthropic is rolling out a personal finance capability in Claude that connects to a user's bank accounts in read-only mode. The assistant can then categorise spending, summarise cash flow and answer questions about a household budget without any ability to move money or change account settings. Read-only access is the key design choice: it limits the blast radius if the model misreads something, and it sidesteps the approval problem that has slowed agentic finance tools elsewhere. The feature puts Claude into direct competition with budgeting apps, and raises the usual questions about how long sensitive transaction data is retained.",
+      "source": "TestingCatalog",
+      "url": "https://testingcatalog.com/claude-adds-personal-finance-with-read-only-bank-access"
+     }
+    ]
+   },
+   {
+    "label": "運動",
+    "items": [
+     {
+      "en": "Thunder hold off the Lakers at home as Los Angeles fades on the road",
+      "zh": "**雷霆主場擊退湖人**，湖人客場後段跟不上節奏，衛冕軍開季手感依舊火燙。",
+      "summary": "Oklahoma City beat the Los Angeles Lakers at home, with the Lakers unable to match the defending champions' pace once the game tightened in the second half. The Thunder have leaned on the same formula that carried them through last season: relentless ball pressure, a deep rotation and enough shot creation to survive stretches when the outside shots stop falling. For the Lakers the loss continued a pattern of road games decided in the final quarter. The result keeps Oklahoma City near the top of the Western Conference standings in the early weeks of the season.",
+      "source": "Yahoo Sports",
+      "url": "https://sports.yahoo.com/articles/lakers-vs-thunder-live-score-003300991.html"
+     },
+     {
+      "en": "Milwaukee Brewers win the first World Series title in franchise history",
+      "zh": "**釀酒人拿下隊史首座世界大賽冠軍**，結束球團五十多年的等待，2026 季後賽正式落幕。",
+      "summary": "The Milwaukee Brewers won the 2026 World Series, the first championship in a franchise history stretching back to 1969 and the end of one of baseball's longest title droughts. Milwaukee reached the series as the best regular season team in the National League and carried that form through October, winning with pitching depth and a lineup that produced without a single superstar bat. The win leaves only a handful of clubs still without a World Series trophy. Attention now turns to a free agent market that several contenders are expected to attack aggressively.",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/"
+     },
+     {
+      "en": "Japanese media grade the 2026 MLB season: Ohtani an A, Suzuki an S",
+      "zh": "**日媒評 2026 年大聯盟日籍球員**：鈴木誠也拿到最高的 S，大谷翔平只拿 A，投打二刀流負荷被點名。",
+      "summary": "Japanese media published season grades for Japanese players in Major League Baseball in 2026, giving Seiya Suzuki the top S rating and Shohei Ohtani an A. Suzuki's grade reflects a full healthy season and production that held up through the summer, while the assessment of Ohtani focused on the cost of carrying both a pitching and a hitting workload, which trimmed his numbers at the plate relative to his best years. The exercise is as much a commentary on usage as on talent, and feeds a long running debate in Japan about how long the two-way role is sustainable.",
+      "source": "NOWnews 今日新聞",
+      "url": "https://www.nownews.com/news/6889365"
+     }
+    ]
+   },
+   {
+    "label": "教育心理",
+    "items": [
+     {
+      "en": "Lawsuit says a Google AI tool used in school triggered a teenager's mental health crisis",
+      "zh": "**美國家庭提告**：校內使用的 Google AI 工具被指引發青少年心理危機，學校導入 AI 的責任界線成焦點。",
+      "summary": "A lawsuit filed in the United States alleges that a Google artificial intelligence tool used in a school setting contributed to a teenager's mental health crisis. The case matters less for its specific claims than for the question it forces: when a district deploys a general purpose AI system to students, who carries responsibility for how the model responds to a child in distress. Schools have adopted these tools quickly, often without the safeguarding review applied to counselling services. Expect the filing to be cited in arguments for clearer duty of care standards on educational AI.",
+      "source": "Claims Journal",
+      "url": "https://www.claimsjournal.com/news/national/2026/11/05/341139.htm"
+     },
+     {
+      "en": "Scientists warn permanent daylight saving time carries a hidden cost",
+      "zh": "**永久日光節約時間有副作用**：研究指出長期把時鐘往後撥會讓生理時鐘與日照長期錯位，影響睡眠與學習表現。",
+      "summary": "Researchers warn that making daylight saving time permanent would leave clock time chronically misaligned with the solar day, pushing sunrise later in winter mornings. The concern is circadian: light in the early morning is what anchors the body clock, and removing it is associated with shorter sleep, later bedtimes and worse alertness, with adolescents the most exposed because school start times are fixed. The scientists argue permanent standard time fits human physiology better than permanent daylight saving, even though the latter is more politically popular for its late summer evenings.",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261103003157.htm"
+     },
+     {
+      "en": "Psychologists petition the APA to create a psychedelic science division",
+      "zh": "**心理學界推動成立迷幻科學分支**，向美國心理學會請願設立專門部門，反映臨床研究已成主流議題。",
+      "summary": "A group of psychologists has petitioned the American Psychological Association to create a division dedicated to psychedelic science. Supporters argue the field has outgrown its position at the margins: clinical trials of psilocybin and MDMA assisted therapy now run at major universities, and practitioners need professional standards, training pathways and ethics guidance that no existing division owns. A dedicated division would also give the work institutional legitimacy inside the largest body of American psychologists. Critics inside the profession caution that evidence for durable benefit remains thinner than public enthusiasm suggests.",
+      "source": "PsyPost",
+      "url": "https://www.psypost.org/psychologists-petition-to-create-a-psychedelic-science-division-within-the-apa/"
+     }
+    ]
+   },
+   {
+    "label": "產業動態（AI／半導體／量子）",
+    "items": [
+     {
+      "en": "Chip stocks post historic losses: Micron down 17%, AMD down 17%, SanDisk down 22%",
+      "zh": "**半導體股歷史性重挫**：美光 −17.46%、AMD −17.26%、SanDisk −22.26%、SK海力士 ADR −13.40%、台積電 ADR −10.78%。",
+      "summary": "The semiconductor selloff on November 5 was broad and violent. Micron fell 17.46%, AMD 17.26% and SanDisk 22.26%, with SK Hynix's ADR down 13.40% and TSMC's ADR down 10.78%. Nvidia lost 9.26%, erasing roughly 447 billion dollars of market value in a single session. Qualcomm fell about 9.5% after reporting weaker smartphone chip sales and margins squeezed by rising memory costs, and Arm's 27% revenue growth still missed the most optimistic outlooks. Dell dropped 15% and CoreWeave 9.8%. Analysts expect volatility-driven funds to sell roughly 135 billion dollars of US equity futures over the next day or two.",
+      "source": "世界日報／鉅亨網",
+      "url": "https://www.worldjournal.com/wj/story/121477/9860949"
+     },
+     {
+      "en": "Memory makers lead Taiwan's rout with multiple limit-down closes",
+      "zh": "**台股記憶體與 PCB 族群跌停**：南亞科、華邦電雙雙跌停，日月光 −8.77%、旺宏 −8.60%、台光電與金像電跌停。",
+      "summary": "Taiwan's memory and PCB groups absorbed the worst of the November 5 selling. Nanya Technology and Winbond both closed limit down at 9.89%, at NT$360 and NT$127.5 respectively, while Macronix fell 8.60% and Elite Semiconductor 7.56%. ASE Technology dropped 8.77% and Delta Electronics 7.38%, the latter caught by the same data centre policy fears hitting US power names. In copper clad laminate and PCB, Elite Material closed limit down at NT$4,100 and Career Technology at NT$868. MediaTek fell 6.86% to NT$3,460 while TSMC held up far better at a 0.88% decline.",
+      "source": "鉅亨網台股盤後",
+      "url": "https://news.cnyes.com/news/id/6647916"
+     },
+     {
+      "en": "Claude's user base grows 1,260% but ChatGPT still leads by a wide margin",
+      "zh": "**Claude 一年成長 1,260%**，但 ChatGPT 仍穩居第一，Gemini 則靠 Google 生態系緊追。",
+      "summary": "App analytics from Sensor Tower show Claude growing about 1,260% year on year, the fastest expansion among the major consumer AI assistants, while ChatGPT remains comfortably the largest by downloads and active users. Gemini sits between them, boosted less by standalone app installs than by distribution through Google's existing products. The pattern suggests the consumer assistant market is still widening rather than consolidating: rapid percentage growth from a smaller base has not yet dented the incumbent's lead. Enterprise and developer revenue, where Anthropic is strongest, is not captured by these figures at all.",
+      "source": "Trending Topics／Sensor Tower",
+      "url": "https://trendingtopics.eu/sensor-tower-claude-growth-chatgpt-gemini"
+     }
+    ]
+   },
+   {
+    "label": "追星（僅限清單內歌手）",
+    "items": [
+     {
+      "en": "Kenshi Yonezu's 2026 TOUR / GHOST opens tonight in Nagano",
+      "zh": "**米津玄師「2026 TOUR / GHOST」今天 11/6（五）長野 Big Hat 開跑**，日本 6 城 14 場到 12/17 橫濱；**台北大巨蛋 12/26–27**。　▶ **Spotify**：https://open.spotify.com/search/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB",
+      "summary": "Kenshi Yonezu's arena tour 2026 TOUR / GHOST opens on Friday November 6 at Nagano Big Hat, the first of fourteen shows across six Japanese cities. The run takes in K-Arena Yokohama on November 11 and 12, Osaka-jo Hall on the 18th and 19th, Marine Messe Fukuoka on the 27th and 28th, Sendai's Sekisui Heim Super Arena in early December and Portmesse Nagoya on December 8 and 9, before closing with two nights back at K-Arena Yokohama on December 16 and 17. Reserved seats are 9,900 yen. The overseas leg brings him to Taipei Dome on December 26 and 27.",
+      "source": "Mikiki／音楽ナタリー",
+      "url": "https://mikiki.tokyo.jp/articles/-/41560"
+     },
+     {
+      "en": "YOASOBI sell out two Taipei Dome nights, about 70,000 tickets gone at once",
+      "zh": "**YOASOBI 2027 年 1 月台北大巨蛋 2 天**，約 7 萬張票開賣即完售，是台灣場規模最大的一次。　▶ **Spotify**：https://open.spotify.com/search/YOASOBI",
+      "summary": "YOASOBI will play two nights at Taipei Dome in January 2027, and the roughly seventy thousand tickets across both shows sold out almost immediately. The scale is a step up from the group's earlier Taiwan appearances at arena-sized venues, and puts them among the small number of Japanese acts who can fill a dome outside Japan. The dates sit inside the same world tour cycle that has been running through Asia this year. Fans who missed out are watching for resale arrangements and for whether a third date gets added.",
+      "source": "ORICON NEWS／音楽ナタリー",
+      "url": "https://natalie.mu/music/news/687365"
+     },
+     {
+      "en": "King Gnu announce their first headline US tour for 2027",
+      "zh": "**King Gnu 宣布 2027 年首度美國巡演**，接在史上最大規模亞洲巡迴 15 城 29 場之後。　▶ **Spotify**：https://open.spotify.com/search/King%20Gnu",
+      "summary": "King Gnu have announced their first headline tour of the United States, scheduled for 2027. It follows the band's largest Asian tour to date, a twenty-nine show run across fifteen cities, and continues a steady widening of their touring map rather than a one-off festival appearance. The band has also been unusually relaxed about phone filming at recent shows, saying they do not actively encourage it but will allow photography and recording during the new tour, a policy that has helped their live clips spread outside Japan.",
+      "source": "音楽ナタリー",
+      "url": "https://natalie.mu/music/news/696068"
+     },
+     {
+      "en": "Aimer announces a national hall tour starting next September",
+      "zh": "**Aimer 宣布明年 9 月起全國 Hall 巡迴**，場館型巡演規模，台港場次尚未公布。　▶ **Spotify**：https://open.spotify.com/search/Aimer",
+      "summary": "Aimer has announced a national hall tour in Japan beginning next September. Hall venues rather than arenas suit the detail in her live arrangements, and the long lead time gives room for a release to land before the tour starts. No Taiwan or Hong Kong dates have been announced yet, which for an artist with a sizeable following across Chinese-speaking Asia usually means an overseas leg is decided later. Ticket priority is expected to run through her fan club first, as on previous tours.",
+      "source": "Skream!",
+      "url": "https://en.skream.jp/news/2026/11/aimer_hall_tour.php"
+     }
+    ]
+   }
+  ]
+ },
+ "market": {
+  "insights": [
+   "**美股昨夜崩盤**：費半 −12.25% 是 2020/3 以來最慘，那指 −5.52% 正式進入修正",
+   "**殺盤主因是政策風險**：民主黨全勝後新州長主張嚴限 AI 資料中心，桑德斯喊全國暫停興建",
+   "**台股昨天已先跌 1,374 點收 41,574**，連 6 跌、櫃買 −6.41%，外資賣超 1,024 億史上第 10 大",
+   "**台股夜盤一度失守 4 萬點**，今天 40,000 整數關卡是最關鍵支撐，開盤先別急著接刀",
+   "**資金轉進避險**：10 年期美債殖利率降至 4.83%、黃金走強，比特幣反而跌 5.4%"
+  ],
+  "indices": [
+   {
+    "market": "TW",
+    "name": "加權指數 TAIEX",
+    "value": "41,574.72",
+    "change": -3.2,
+    "changePts": "-1,374.19",
+    "comment": "連 6 跌，失守 42,000"
+   },
+   {
+    "market": "TW",
+    "name": "櫃買指數 OTC",
+    "value": "321.47",
+    "change": -6.41,
+    "changePts": "-22.03",
+    "comment": "中小型股殺更深"
+   },
+   {
+    "market": "TW",
+    "name": "0050 元大台灣50",
+    "value": "—",
+    "change": null,
+    "comment": "連 6 跌、百元關卡以下，精確收盤未取得"
+   },
+   {
+    "market": "TW",
+    "name": "0056 元大高股息",
+    "value": "—",
+    "change": null,
+    "comment": "11/5 精確收盤未取得"
+   },
+   {
+    "market": "US",
+    "name": "那斯達克 Nasdaq Composite",
+    "value": "24,315.00",
+    "change": -5.52,
+    "changePts": "-1,421.52",
+    "comment": "19 個月最慘，進入修正"
+   },
+   {
+    "market": "US",
+    "name": "S&P 500",
+    "value": "7,353.73",
+    "change": -4.36,
+    "changePts": "-334.89",
+    "comment": "幾乎全類股下跌"
+   },
+   {
+    "market": "US",
+    "name": "道瓊工業指數 Dow Jones",
+    "value": "51,523.06",
+    "change": -3.44,
+    "changePts": "-1,833.06",
+    "comment": "一日倒吐前天漲幅"
+   },
+   {
+    "market": "US",
+    "name": "羅素 2000 Russell 2000",
+    "value": "2,729.89",
+    "change": -4.4,
+    "changePts": "-127.06",
+    "comment": "中小型股同步補跌"
+   },
+   {
+    "market": "US",
+    "name": "費半／半導體指數 SOX",
+    "value": "—",
+    "change": -12.25,
+    "comment": "2020/3 以來最大單日跌幅"
+   },
+   {
+    "market": "US",
+    "name": "QQQ（那斯達克100 ETF）",
+    "value": "—",
+    "change": null,
+    "comment": "11/5 精確收盤未取得"
+   }
+  ],
+  "quotes": {
+   "2408": -9.89,
+   "2344": -9.89,
+   "3711": -8.77,
+   "2337": -8.6,
+   "2308": -7.38,
+   "2454": -6.86,
+   "2330": -0.88,
+   "2317": -2.08,
+   "2382": -0.83,
+   "MU": -17.46,
+   "AMD": -17.26,
+   "SNDK": -22.26,
+   "NVDA": -9.26,
+   "TSM": -10.78,
+   "QCOM": -9.5,
+   "DELL": -15.0,
+   "CRWV": -9.8
+  },
+  "prices": {
+   "2408": 360,
+   "2344": 127.5,
+   "2454": 3460,
+   "2330": 2240,
+   "2383": 4100,
+   "2368": 868,
+   "NVDA": 181.6,
+   "CRWV": 43.66
+  },
+  "movers": [
+   {
+    "name": "SanDisk",
+    "ticker": "SNDK",
+    "change": -22.26,
+    "price": "—",
+    "reason": "記憶體財報與成本壓力，跌幅之冠"
+   },
+   {
+    "name": "美光 Micron",
+    "ticker": "MU",
+    "change": -17.46,
+    "price": "—",
+    "reason": "記憶體漲價紅利被 AI 支出疑慮抵銷"
+   },
+   {
+    "name": "超微 AMD",
+    "ticker": "AMD",
+    "change": -17.26,
+    "price": "—",
+    "reason": "AI 晶片需求展望遭重新評價"
+   },
+   {
+    "name": "戴爾 Dell（清單外）",
+    "ticker": "DELL",
+    "change": -15.0,
+    "price": "—",
+    "reason": "AI 伺服器出貨節奏被質疑"
+   },
+   {
+    "name": "SK海力士 ADR（清單外）",
+    "ticker": "SKHY",
+    "change": -13.4,
+    "price": "—",
+    "reason": "記憶體族群連動重挫"
+   },
+   {
+    "name": "台積電 ADR",
+    "ticker": "TSM",
+    "change": -10.78,
+    "price": "—",
+    "reason": "外資提款 AI 權值龍頭"
+   },
+   {
+    "name": "南亞科",
+    "ticker": "2408",
+    "change": -9.89,
+    "price": "360 元",
+    "reason": "跌停，記憶體賣壓最重"
+   },
+   {
+    "name": "華邦電",
+    "ticker": "2344",
+    "change": -9.89,
+    "price": "127.5 元",
+    "reason": "跌停，記憶體八雄全倒"
+   },
+   {
+    "name": "台光電",
+    "ticker": "2383",
+    "change": -9.9,
+    "price": "4,100 元",
+    "reason": "跌停，CCL／PCB 族群重災區"
+   },
+   {
+    "name": "金像電",
+    "ticker": "2368",
+    "change": -9.9,
+    "price": "868 元",
+    "reason": "跌停，PCB 跟著 AI 伺服器修正"
+   },
+   {
+    "name": "CoreWeave（清單外）",
+    "ticker": "CRWV",
+    "change": -9.8,
+    "price": "43.66 美元",
+    "reason": "資料中心政策風險直接受害"
+   },
+   {
+    "name": "高通 Qualcomm（清單外）",
+    "ticker": "QCOM",
+    "change": -9.5,
+    "price": "—",
+    "reason": "手機晶片不如預期、記憶體成本吃掉毛利"
+   },
+   {
+    "name": "輝達 NVIDIA",
+    "ticker": "NVDA",
+    "change": -9.26,
+    "price": "181.60 美元",
+    "reason": "一日蒸發約 4,470 億美元市值"
+   },
+   {
+    "name": "日月光投控",
+    "ticker": "3711",
+    "change": -8.77,
+    "price": "—",
+    "reason": "封測龍頭同步補跌"
+   },
+   {
+    "name": "旺宏",
+    "ticker": "2337",
+    "change": -8.6,
+    "price": "—",
+    "reason": "記憶體族群殺盤主角之一"
+   },
+   {
+    "name": "晶豪科（清單外）",
+    "ticker": "3006",
+    "change": -7.56,
+    "price": "—",
+    "reason": "記憶體 IC 設計跟跌"
+   },
+   {
+    "name": "台達電",
+    "ticker": "2308",
+    "change": -7.38,
+    "price": "—",
+    "reason": "電源族群被資料中心政策波及"
+   },
+   {
+    "name": "聯發科",
+    "ticker": "2454",
+    "change": -6.86,
+    "price": "3,460 元",
+    "reason": "電子權值股全數收黑"
+   },
+   {
+    "name": "儒鴻（清單外 · 逆勢大漲）",
+    "ticker": "1476",
+    "change": 8.64,
+    "price": "—",
+    "reason": "資金從電子轉進紡織傳產避險"
+   }
+  ]
+ }
+}
