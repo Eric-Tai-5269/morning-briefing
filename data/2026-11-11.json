@@ -1,0 +1,537 @@
+{
+ "date": "2026-11-11",
+ "dateShort": "2026 年 11 月 11 日（週三）",
+ "dateLabel": "2026 年 11 月 11 日（週三）",
+ "generatedAt": "2026-11-11T14:55:01+08:00",
+ "highlights": [
+  "**外語中心第156期進修班報名今天 11/11 截止**，想修日文班要今天決定",
+  "**程控小考時間投票 11/18（三）23:59 截止**，12 月第一週考、19:00–21:00",
+  "**程控 11/18（三）課堂發期中考卷**，要閱卷一定要出席",
+  "**米津玄師台北大巨蛋一般販售 11/19 12:00**，12/26–27 兩場、實名制限 2 張",
+  "**台股 11/10 收 42,712、大漲 1,050 點**，國安基金進場兩日反彈 3,010 點",
+  "**美國 10 月 CPI 超預期、10 年期殖利率站上 5%**，12 月升息機率升溫"
+ ],
+ "weather": {
+  "icon": "🌦️",
+  "high": 28,
+  "low": 19,
+  "cities": [
+   {
+    "name": "台北",
+    "high": 23,
+    "low": 19,
+    "desc": "東北季風，陰短暫雨"
+   },
+   {
+    "name": "台南",
+    "high": 28,
+    "low": 21,
+    "desc": "多雲到晴，白天回溫"
+   }
+  ],
+  "alerts": []
+ },
+ "schedule": {
+  "available": true,
+  "tasks": [
+   {
+    "title": "刷廁所",
+    "pri": "低",
+    "cat": "家事",
+    "time": "全天",
+    "done": false
+   }
+  ],
+  "advice": [
+   "**外語進修班報名今天截止**：中午前決定要不要報日文班，4,800 元學生 75 折",
+   "**程控 Moodle 小考投票先投掉**：只要兩分鐘，別拖到 11/18 最後一天",
+   "**12 月第一週小考排 19:00–21:00**：今天先把那週晚上空出來",
+   "**明天 11/12 15:20 資源系學術演講**：今晚先決定去不去，水文 AI 模型主題",
+   "**刷廁所排 21:00 後**：低優先，不要吃掉白天讀書時段"
+  ]
+ },
+ "mail": {
+  "items": [
+   {
+    "level": "red",
+    "from": "成大外語中心",
+    "subject": "第156期外語進修班報名今天 11/11 最後一天",
+    "todo": "今天線上報名並轉帳繳費，否則等下一期",
+    "title": "**【倒數最後一天】第 156 期外語進修班報名即將截止**：報名期間「即日起至 115 年 11 月 11 日（今天）止」，**11/16 起陸續開課**。每門課程定價 **4,800 元**（不含教材費）。",
+    "kind": "①今天上「成功大學推廣教育中心線上報名系統」（apps.pers.ncku.edu.tw/res/）選課並以轉帳繳費；②或親自到外語中心辦公室填報名表、到出納組繳費後把報名表與收據繳回；③先看第156期開課總表確認日文班時段是否和程控、物化課表衝突。",
+    "detail": "★ **學費優待**：成大在學生／教職員（含眷屬）享 **75 折**（約 3,600 元）；舊生或校友報 2 門以上 75 折、單報 1 門 8 折；新生報 2 門以上 85 折。　★ **對學日文的實際意義**：這是校內最便宜、時段最固定的日文課來源，比外面補習班便宜不少，而且 11/16 就開課，報名後馬上能接上這學期剩下的時間。　★ **退費規則**：報名後要退費或換課，須以 Email 或親自到外語中心辦理，所以今天決定前先把課表衝突確認清楚。　★ 聯絡電話 06-2757575 轉 52030。",
+    "deadline": "2026-11-11（三）報名截止",
+    "calendar": {
+     "title": "外語進修班報名截止（第156期）",
+     "date": "2026-11-11",
+     "cat": "日文",
+     "pri": "高"
+    }
+   },
+   {
+    "level": "amber",
+    "from": "程序控制 王之賢老師（NCKU Moodle）",
+    "subject": "小考時間調查，11/18（三）23:59 前要投票",
+    "todo": "上 Moodle 投票 12 月第一週小考日期",
+    "title": "**【程序控制 1151_E335500_2】小考時間調查**：十二月第一週將舉行小考，**時間為 19:00–21:00**，請同學到 Moodle 投票考試日期，老師會視出席狀況與教室借用情形安排。**請在 11/18（三）23:59 之前完成投票。**",
+    "kind": "①今天就上 moodle.ncku.edu.tw 的程控課程討論區完成投票（只要兩分鐘）；②投票前先翻 12 月第一週的晚上行程，避開其他課或打工；③把「12 月第一週小考」先用大概日期記到行事曆，等老師公布再改精確時間。",
+    "detail": "★ **為什麼要早投**：投票結果決定考試日期，等到最後一天投，熱門時段早被填滿，被排到不方便的晚上就只能接受。　★ **考試在 19:00–21:00**，是晚間時段，代表當天白天課照上、晚上要留整段時間，通勤與晚餐都要先算進去。　★ 這封和同一天另一封「期中考閱卷」是同一位老師在 11/11 下午 13:48、13:59 連續發的兩則公告，建議一次處理完。",
+    "deadline": "2026-11-18（三）23:59 投票截止",
+    "calendar": {
+     "title": "程控小考時間投票截止",
+     "date": "2026-11-18",
+     "cat": "考試",
+     "pri": "中"
+    }
+   },
+   {
+    "level": "amber",
+    "from": "程序控制 王之賢老師（NCKU Moodle）",
+    "subject": "11/18（三）課堂發期中考卷，要閱卷記得出席",
+    "todo": "11/18 課堂到場領考卷、對分數",
+    "title": "**【程序控制】期中考閱卷**：11/18（三）的課堂會發期中考卷，**要閱卷的同學記得出席**。",
+    "kind": "①把 11/18（三）程控課堂標成「必到」；②當天帶自己的解題筆記去對答案，發現登分或計分錯誤要當場反映；③同一天 23:59 也是小考投票截止，可以在課堂就順手確認投完了沒。",
+    "detail": "★ **閱卷通常只有那一堂課**：沒出席等於放棄申訴分數的機會，期中考權重通常佔學期成績三成以上，值得為此調整當天行程。　★ **順便做的事**：對完答案後把錯題分類（觀念錯／計算錯／沒讀到），直接變成 12 月第一週小考的複習清單，不用另外整理。",
+    "deadline": "2026-11-18（三）課堂",
+    "calendar": {
+     "title": "程控期中考閱卷（課堂發卷）",
+     "date": "2026-11-18",
+     "cat": "考試",
+     "pri": "中"
+    }
+   },
+   {
+    "level": "green",
+    "from": "成大資源工程學系",
+    "subject": "學術演講 11/12（四）15:20，Dr. Qingyun Duan",
+    "todo": "明天下午有空就去聽，水文模型 AI 主題",
+    "title": "**【學術演講】Dr. Qingyun Duan（段青雲教授），河海大學水文水資源學院講座教授、歐洲科學院外籍院士**，時間 **11/12（四）15:20**，主題 Reducing Model Parametric Uncertainties（降低模型參數不確定性）。",
+    "kind": "①明天下午 15:20 前到場即可，不需報名；②如果要去，今晚先查一下「參數不確定性分析」與「模型最佳化」兩個關鍵字，聽起來會順很多。",
+    "detail": "★ **和化工的連結**：段教授的專長是水文模型的參數不確定性分析、模型最佳化與 AI 方法，這套方法論和化工的 process model calibration／parameter estimation 幾乎同源，對程控與化工模擬課都有直接幫助。　★ **專題用得上**：如果大學專題會碰到模型校正或靈敏度分析，這場是少見能直接問到國際級學者的機會。",
+    "deadline": "2026-11-12（四）15:20",
+    "calendar": {
+     "title": "資源系學術演講（Dr. Qingyun Duan）",
+     "date": "2026-11-12",
+     "cat": "特殊課",
+     "pri": "低"
+    }
+   },
+   {
+    "level": "green",
+    "from": "成大國際教育組",
+    "subject": "2027 芝加哥大學 UCTS 暑期研究說明會 11/23 報名開放",
+    "todo": "有興趣就先線上報名說明會，名額補助 10 名",
+    "title": "**2027 University of Chicago–Taiwan Student (UCTS) Exchange Program 說明會**：時間 **11/23（一）11:10–12:30**（10:40 開放報到），地點光復校區國際會議廳第三演講室，報名連結 activity.ncku.edu.tw（活動編號 18057）。",
+    "kind": "①想去就先報名說明會，門檻低、會後有餐盒；②確認自己符合資格：成大大學部或研究所在學、申請期間與 2027 赴美期間都須在學、研究領域屬自然科學／工程／生醫／管理／人文社科並具研究基礎；③聽完再決定要不要備齊正式申請文件。",
+    "detail": "★ **補助內容**：計畫補助 **10 名成大學生**在芝加哥大學短期研究期間的**全額學雜費與校園住宿費**，以非學位訪問學生（NDVS）身分於 **2027 暑期**赴芝大做研究。　★ **說明會內容**：芝大 Pritzker 分子工程學院徐伯均助理教授線上連線分享研究環境，另有今年參與的學長姊現場分享。　★ **為什麼值得聽**：化工背景申請分子工程領域相當對口，而且暑期短期研究比正式交換好安排，不會卡到學期修課。",
+    "deadline": "2026-11-23（一）11:10 說明會",
+    "calendar": {
+     "title": "UCTS 芝加哥大學暑期研究說明會",
+     "date": "2026-11-23",
+     "cat": "特殊課",
+     "pri": "低"
+    }
+   }
+  ]
+ },
+ "news": {
+  "groups": [
+   {
+    "label": "頭條",
+    "items": [
+     {
+      "en": "Russia, Ukraine and US open first US-brokered trilateral talks since February in Abu Dhabi",
+      "zh": "**俄烏美三方在阿布達比重啟談判**，是今年 2 月以來首場由美方促成的三方會談，頓內茨克歸屬仍是最大分歧。",
+      "summary": "Russia, Ukraine and the United States opened trilateral talks in Abu Dhabi on November 10, the first US-brokered round of three-way negotiations since February 2026. The sides remain far apart over the status of Donetsk, which both Moscow and Kyiv treat as non-negotiable. The White House described itself as cautiously optimistic without predicting a breakthrough. President Zelensky said the talks also covered post-war security arrangements modelled on NATO's Article 5 collective-defence pledge, which Ukraine has sought as a substitute for full membership. No ceasefire timetable was announced and further rounds are expected.",
+      "source": "彙整國際新聞（11/10–11/11）",
+      "url": "https://www.viewstorys.com/2026/11/top-world-news-november-11-2026-abu.html"
+     },
+     {
+      "en": "US October CPI runs hot at 0.4%, pushing a December Fed hike into view and the 10-year yield to 5.00%",
+      "zh": "**美國 10 月 CPI 月增 0.4%、核心 0.3%，雙雙高於預期**，12 月升息機率跳升，10 年期公債殖利率站上 5.00%。",
+      "summary": "US consumer prices rose a seasonally adjusted 0.4% in October, above the 0.3% economists expected, while core CPI rose 0.3% against a 0.2% forecast. The report pushed markets toward pricing another Federal Reserve rate increase in December; Fed Governor Christopher Waller said he would support at least a quarter-point hike and floated a half-point move if core prices keep rising at 0.3% or more. The 10-year Treasury yield jumped 13.8 basis points to 5.00%. Investors rotated out of AI and momentum names into defensive sectors such as healthcare, hitting leveraged funds hardest.",
+      "source": "TheStreet（11/10 收盤報導）",
+      "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-10-2026"
+     },
+     {
+      "en": "France blames Iran's Revolutionary Guard for a cyberattack that raised supermarket fridge temperatures",
+      "zh": "**法國指控伊朗革命衛隊發動網攻**，手法是調高超市冷藏櫃溫度，巴黎將尋求歐盟制裁，德黑蘭否認。",
+      "summary": "France has formally attributed a cyberattack carried out last month to Iran's Islamic Revolutionary Guard Corps. The intrusion targeted refrigeration control systems and raised temperatures in supermarket fridges and freezers, a sabotage method aimed at food supply rather than data theft. Paris said it will push for European Union sanctions in response. Iran has not accepted responsibility. The attribution lands amid wider Iran-West friction: President Trump called a renewed military campaign against Iran quite unlikely, Qatar's prime minister described talks with US officials as positive, and the US reportedly relocated aircraft from RAF Mildenhall after an Iranian threat.",
+      "source": "彙整國際新聞（11/10–11/11）",
+      "url": "https://www.viewstorys.com/2026/11/top-world-news-november-11-2026-abu.html"
+     },
+     {
+      "en": "South Africa's ANC falls to 32.5% in municipal elections, its worst result ever",
+      "zh": "**南非非洲民族議會（ANC）地方選舉僅得 32.5%**，創黨史最差，多數議會將被迫組聯合政府。",
+      "summary": "South Africa's governing African National Congress took 32.5% of the vote in municipal elections, the worst performance in the party's history and a further erosion of the dominance it has held since 1994. The Democratic Alliance finished second on 22.9% and Jacob Zuma's uMkhonto weSizwe party took 9.9%. The result leaves the ANC unable to govern alone in many councils and dependent on coalition partners, extending the national pattern of coalition politics down to local government. Analysts link the slide to service-delivery failures, electricity problems and corruption cases.",
+      "source": "彙整國際新聞（11/10–11/11）",
+      "url": "https://www.viewstorys.com/2026/11/top-world-news-november-11-2026-abu.html"
+     },
+     {
+      "en": "M. John Harrison, 81, wins the 2026 Booker Prize and becomes its oldest winner",
+      "zh": "**英國作家 M. John Harrison 以《The End of Everything》奪 2026 布克獎**，81 歲創下該獎最年長得主紀錄。",
+      "summary": "British writer M. John Harrison won the 2026 Booker Prize for his novel The End of Everything, becoming at 81 the oldest winner in the prize's history. Harrison spent decades as a cult figure in science fiction and literary weird fiction before this mainstream recognition, and the award is being read as a late vindication of a career built outside the literary establishment. The Booker carries a GBP 50,000 purse and usually produces a large sales uplift. Elsewhere in UK news, comedian Russell Brand was sentenced to 10 years and six months after convictions for rape and three sexual assaults.",
+      "source": "彙整國際新聞（11/10–11/11）",
+      "url": "https://www.viewstorys.com/2026/11/top-world-news-november-11-2026-abu.html"
+     }
+    ]
+   },
+   {
+    "label": "科技",
+    "items": [
+     {
+      "en": "Google unveils TPU 8tx and 8i Max, widening its in-house AI chip push against Nvidia",
+      "zh": "**Google 推出 TPU 8tx 與 8i Max 兩款專用 AI 晶片**，8tx 主打硬體層機密運算、8i Max 把兩顆推論晶片封裝在一起。",
+      "summary": "Google announced two additions to its eighth-generation TPU line on November 10. The TPU 8tx, developed with AMD and based on the TPU 8t, is built for confidential training and inference, isolating data and model weights at the hardware layer so companies can train on proprietary data without moving it between devices; it also carries a custom inferencing network that runs reasoning alongside training. The TPU 8i Max packages two of April's TPU 8i inference chips together, doubling memory capacity, compute and bandwidth. Google did not disclose pricing or availability. Microsoft, Amazon, OpenAI and Anthropic are all building rival silicon to cut Nvidia dependence.",
+      "source": "TechCrunch（11/10）",
+      "url": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/"
+     },
+     {
+      "en": "Meta rolls out AI age detection worldwide, forcing suspected teens into restricted accounts",
+      "zh": "**Meta 全球啟用 AI 年齡偵測**，即使註冊時填成年生日，判定為 13–17 歲者一律轉成受限制的青少年帳號。",
+      "summary": "Meta expanded its AI-based age detection system globally, moving users it judges to be between 13 and 17 into restricted teen accounts even when they registered with an adult date of birth. Teen accounts default to stricter messaging limits, content filtering and time reminders. The move follows regulatory pressure in the US and Europe over minors' exposure to harmful content and over self-declared ages being trivially easy to falsify. Meta also launched Muse Ember, a small low-cost model aimed at repetitive agent tasks, as it pushes cheaper inference for automation workloads.",
+      "source": "The Neuron AI Digest（11/10）",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-10-2026/"
+     },
+     {
+      "en": "Apple starts selling $49.99 one-time Intelligence Usage Packs once monthly AI limits run out",
+      "zh": "**Apple 推出 49.99 美元一次性 Apple Intelligence 用量包**，月配額用完可加購，等於為裝置端 AI 開了計費閘門。",
+      "summary": "Apple began selling one-time Apple Intelligence Usage Packs priced at $49.99, which add capacity once a user exhausts their monthly allowance of AI features. The change marks a shift away from treating on-device and Private Cloud Compute AI as a wholly bundled part of the hardware price, and gives Apple a metered revenue line as inference costs rise. Heavy users of writing tools, image generation and Siri's model-backed requests are the obvious buyers. Separately, OpenAI made ChatGPT Enterprise available through AWS Marketplace so companies can buy it on existing AWS billing and count it toward AWS spend commitments.",
+      "source": "The Neuron AI Digest（11/10）",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-10-2026/"
+     }
+    ]
+   },
+   {
+    "label": "運動",
+    "items": [
+     {
+      "en": "Celtics bury the 76ers 123-101 in Philadelphia",
+      "zh": "**NBA 塞爾提克作客 123-101 大勝 76 人**，22 分差距，費城主場防線整場被拉開。",
+      "summary": "The Boston Celtics beat the Philadelphia 76ers 123-101 on the road on November 10, a 22-point margin in one of the league's oldest rivalries. Boston controlled the game through its perimeter scoring and kept Philadelphia from mounting a sustained run, with the Sixers unable to answer Boston's shooting volume. The win continues a strong early run for the Celtics in the 2026-27 season, while Philadelphia's home form remains a problem. The two sides meet again later in the schedule, with Boston holding the season-series edge for now.",
+      "source": "ESPN／NBA.com（11/10）",
+      "url": "https://www.espn.com/nba/game/_/gameId/401909961/celtics-76ers"
+     },
+     {
+      "en": "No. 5 Michigan State routs No. 2 Duke in the Champions Classic; Kansas handles Kentucky",
+      "zh": "**NCAA 冠軍經典賽：第 5 名密西根州大全場領先痛擊第 2 名杜克**，另一場堪薩斯輕取肯塔基。",
+      "summary": "Michigan State, ranked fifth, led from start to finish in a dominant win over second-ranked Duke in the Champions Classic on November 10, the most impressive result of the young college basketball season. CBS Sports described the Spartans as controlling every phase rather than winning on a late run. In the companion game, No. 15 Kansas beat No. 24 Kentucky comfortably, with the Jayhawks showing a clear talent gap. The doubleheader is the sport's traditional early-season measuring stick and will reshape the next Associated Press poll, with Duke likely to slide several places.",
+      "source": "CBS Sports（11/10）",
+      "url": "https://www.cbssports.com/college-basketball/news/duke-michigan-state-live-updates-score-college-basketball-2026/live/"
+     },
+     {
+      "en": "Women's Champions League: Man City win 4-1 at Inter, Bayern beat PSG 2-1 in Paris",
+      "zh": "**女子歐冠第 4 輪：曼城作客 4-1 大勝國際米蘭**，拜仁在巴黎 2-1 擊敗 PSG，Klara Bühl 進致勝球。",
+      "summary": "Manchester City won 4-1 away at Internazionale in the fourth round of the Women's Champions League league phase on November 10, a result that strengthens their position in the standings. In Paris, Bayern Munich came from behind to beat Paris Saint-Germain 2-1, with Klara Buhl scoring the decisive goal to seal the win. Chelsea travelled to BK Hacken and Real Madrid hosted Paris FC on the same matchday. The expanded league-phase format means these margins matter for seeding as well as qualification, with two more rounds to play before the knockout cut.",
+      "source": "ESPN／VAVEL（11/10）",
+      "url": "https://www.espn.com/soccer/team-stats/_/gameId/401916988/league/uefa.wchampions"
+     }
+    ]
+   },
+   {
+    "label": "教育心理",
+    "items": [
+     {
+      "en": "Students who turn to AI chatbots for emotional support report worse mental health",
+      "zh": "**新調查：把 AI 當情緒支持對象的學生，心理健康指標反而更差**，研究者警告替代了真人求助管道。",
+      "summary": "A survey reported by Education Week finds that students who turn to AI chatbots for emotional support score worse on mental health measures than peers who do not. The direction of causation is unsettled: struggling students may be more likely to seek out an always-available listener, but researchers also warn that chatbot reliance can displace help from counsellors, teachers and friends, and that an agreeable model may validate distorted thinking rather than challenge it. The findings matter for schools now deploying AI tools broadly, and argue for routing emotional disclosures to human staff rather than leaving them inside a chat window.",
+      "source": "Education Week（2026/11）",
+      "url": "https://www.edweek.org/technology/students-who-turn-to-ai-for-emotional-support-report-worse-mental-health/2026/11"
+     },
+     {
+      "en": "US teen mental health shows measured improvement, but gaps between groups persist",
+      "zh": "**美國青少年心理健康整體略有改善，但族群間差距仍在**，弱勢群體的改善幅度明顯落後。",
+      "summary": "New national data on US adolescent mental health shows improvement on several indicators compared with the pandemic-era lows, including reported persistent sadness and hopelessness. The gains are not evenly shared: disparities persist across income, race and ethnicity, and sexual orientation, with some groups showing little or no improvement. Researchers caution that aggregate improvement can mask worsening conditions in specific populations and that access to care, not just symptom prevalence, drives much of the gap. The report argues for targeting resources at the groups where indicators have stayed flat rather than treating the national average as the story.",
+      "source": "PR Newswire 研究發布（2026/11）",
+      "url": "https://prnewswire.com/news-releases/where-does-us-teen-mental-health-stand-improvements-reported-but-disparities-persist-302934163.html"
+     },
+     {
+      "en": "Systematic review of a decade of research links psychological capital to student wellbeing",
+      "zh": "**十年文獻系統性回顧：心理資本（希望、效能、韌性、樂觀）與大學生福祉高度相關**，且可透過訓練提升。",
+      "summary": "A systematic review published in Education Sciences synthesises studies from 2014 to 2024 on psychological capital in higher education, covering the four components of hope, self-efficacy, resilience and optimism. The review reports consistent positive associations between psychological capital and student wellbeing, engagement and academic persistence, and negative associations with burnout and dropout intention. Crucially, the authors note psychological capital is a state rather than a fixed trait, so short structured interventions can raise it. They call for more experimental designs and non-Western samples, since most existing evidence is correlational and drawn from a narrow set of countries.",
+      "source": "Education Sciences／MDPI（2026/11）",
+      "url": "https://www.mdpi.com/2227-7102/16/11/1893"
+     }
+    ]
+   },
+   {
+    "label": "產業動態",
+    "items": [
+     {
+      "en": "Anthropic ships Claude Fable 5.2 and Mythos 5.2, then pulls details of a $69.3bn IPO",
+      "zh": "**Anthropic 發表 Claude Fable 5.2 與 Mythos 5.2**，主打複雜程式與科研；另路透報導其 693 億美元 IPO 資料已先發後撤。",
+      "summary": "Anthropic released Claude Fable 5.2 and Mythos 5.2, aimed at complex coding and scientific research, with both said to respond up to 30% faster than their predecessors. Fable is generally available at $8 per million input tokens and $40 per million output tokens, while Mythos is restricted to verified organisations on approved research and retains cybersecurity and biology capabilities Fable blocks. Anthropic says an engineer used Fable 5.2 to build an operating system by coordinating over 1,000 agents across eight days, and that the models contributed to two open black-hole physics problems. Reuters reports Anthropic circulated then retracted details of a potential $69.3 billion IPO as inaccurate.",
+      "source": "The Neuron／Reuters（11/10）",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-10-2026/"
+     },
+     {
+      "en": "OpenAI builds a Control Room that can halt model output within 35 seconds",
+      "zh": "**OpenAI 推出內部 Control Room**，監控 AI 研究負載，決定介入後 35 秒內可切斷模型輸出。",
+      "summary": "OpenAI introduced an internal system called Control Room that monitors AI research workloads and can stop a model's output within 35 seconds of a decision to intervene. The design includes a fail-safe so output halts if the monitoring layer itself fails, addressing the scenario where a safety system goes down while a training or evaluation run continues. The move reflects a wider industry shift from policy-level safety commitments toward operational kill switches with measurable response times. OpenAI separately listed ChatGPT Enterprise on AWS Marketplace, letting companies buy it against existing AWS billing commitments.",
+      "source": "The Neuron AI Digest（11/10）",
+      "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-tuesday-november-10-2026/"
+     },
+     {
+      "en": "Nvidia caps China cloud rentals at 49% as investors discount AI chip loans",
+      "zh": "**NVIDIA 要求海外雲端夥伴保留至少 51% 產能給非中國客戶**；同時投資人開始折價拋售 AI 晶片與資料中心貸款。",
+      "summary": "Nvidia is reported to require overseas cloud partners to reserve at least 51% of their services for non-Chinese clients, an attempt to keep rental routes from becoming a workaround for export controls; B300 server racks are said to fetch up to $2.8 million inside China. At the same time, investors have begun selling AI chip and data-centre loans at steep discounts, citing how fast GPUs depreciate relative to loan terms, an early sign of financing stress beneath the capex boom. TSMC is meanwhile reported to be backing AI model labs with up to $1 billion in downstream investment, deepening the financing links across the stack.",
+      "source": "The Neuron／404k Research（11/10）",
+      "url": "https://404kresearch.substack.com/p/456x-evening-brief-november-10-2026"
+     }
+    ]
+   },
+   {
+    "label": "追星",
+    "items": [
+     {
+      "en": "Kenshi Yonezu's Taipei Dome general sale is set for Nov 19 at noon",
+      "zh": "**米津玄師台北大巨蛋 12/26、27 一般販售 11/19（四）12:00 開賣**，實名制、每帳號每場限 2 張，可能視售況取消。",
+      "summary": "The general sale for Kenshi Yonezu's December 26 and 27 shows at Taipei Dome is scheduled for Thursday, November 19 at 12:00 on the Ticket Plus platform, the final step after the real-name lottery closed on October 31 and results were published November 2. Yonezu is the first Japanese solo artist to headline the venue. Ticket prices run from NT$1,800 to NT$5,980, with accessible seating at NT$2,240 and NT$2,840. Each account is limited to two tickets per show and each ID may be registered for only one seat. Organisers warn the general sale may be cancelled if inventory sells out in the resale lotteries.",
+      "source": "Ticket Plus／遠大售票公告彙整",
+      "url": "https://tw.news.yahoo.com/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB1226%E3%80%8127%E8%87%BA%E5%8C%97%E5%A4%A7%E5%B7%A8%E8%9B%8B%E9%96%8B%E5%94%B1%EF%BC%81%E5%84%AA%E5%85%88%E8%B3%BC%E6%99%82%E9%96%93%E3%80%81%E5%AF%A6%E5%90%8D%E7%99%BB%E8%A8%98%E6%8A%BD%E9%81%B8%E3%80%81%E7%A5%A8%E5%83%B9%E5%BA%A7%E4%BD%8D%E4%B8%80%E6%AC%A1%E7%9C%8B-141954113.html",
+      "spotify": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+     },
+     {
+      "en": "GHOST tour merchandise revealed as Yonezu's six-city arena run gets under way",
+      "zh": "**米津玄師 2026 TOUR / GHOST 周邊視覺公開**，含米津親繪主視覺服飾與復刻ねこちゃん、とんがりくん、ティースくん，巡迴 11/6 起走 6 城市。",
+      "summary": "Merchandise visuals for Kenshi Yonezu's 2026 TOUR / GHOST have been published, built around a key visual Yonezu drew himself. The line spans apparel and character goods, including reissues of the ねこちゃん, とんがりくん and ティースくん figures that previous tours made collectible, alongside shirts and accessories using the GHOST artwork. The Japanese leg began November 6 and runs through six cities, feeding into the Taipei Dome dates on December 26 and 27. For overseas fans the practical point is that tour goods usually sell online only to Japanese addresses, so Taipei show merchandise is the realistic route.",
+      "source": "音楽ナタリー／THE FIRST TIMES（11 月）",
+      "url": "https://www.thefirsttimes.jp/news/0000910204/",
+      "spotify": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+     },
+     {
+      "en": "YOASOBI confirm Taipei Dome on Jan 9-10 as the opener of a renamed 11-city tour",
+      "zh": "**YOASOBI 巡演改名為 11 城亞洲大洋洲巡迴**，海外首站台北大巨蛋 2027/1/9–10，香港亞博館 1/21–22。",
+      "summary": "YOASOBI's reworked tour, renamed the 11-CITY ASIA-OCEANIA TOUR 2026-2027, opens its overseas leg at Taipei Dome on January 9 and 10, 2027, followed by Hong Kong's AsiaWorld-Arena on January 21-22, Singapore's National Stadium on February 20, Melbourne and Sydney in March, and Korea on April 17. The duo dropped shows in some originally planned countries and venues while adding their first Australian dates. For Taiwan fans the Taipei dates sit two weeks after Yonezu's December shows at the same venue, so the two ticket cycles overlap and budgeting for both is worth planning now.",
+      "source": "TVfan／巴哈姆特 GNN 彙整",
+      "url": "https://gnn.gamer.com.tw/detail.php?sn=310732",
+      "spotify": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+     },
+     {
+      "en": "Mrs. GREEN APPLE's SHADOWS arena tour rolls on behind their sixth album",
+      "zh": "**Mrs. GREEN APPLE 第 6 張原創專輯＋3 年來首次巡演「SHADOWS」進行中**，11/4 佐賀場全 20 曲，各場曲目有變動。",
+      "summary": "Mrs. GREEN APPLE are mid-way through SHADOWS, their first arena tour in three years, staged behind their sixth original album. Setlist trackers logged a 20-song show at the Saga date on November 4, and note that the band has been changing selections between venues rather than running a fixed set, so attending more than one date is not a repeat. The trio also continue to top Japanese streaming charts, trading weekly number-one positions with Kenshi Yonezu and King Gnu at above ten million weekly plays. No Taiwan or Hong Kong dates have been announced for this run.",
+      "source": "音楽ナタリー／ORICON／巡演曲目彙整",
+      "url": "https://mrsgreenapple.com/schedule/list/?lang=en",
+      "spotify": "https://open.spotify.com/search/Mrs.%20GREEN%20APPLE"
+     }
+    ]
+   }
+  ]
+ },
+ "market": {
+  "insights": [
+   "**台股 11/10 收 42,712、大漲 1,050 點（+2.52%）**，國安基金進場兩日已反彈 3,010 點",
+   "**散熱、PCB、ASIC 全面漲停**：台達電連二根、奇鋐、世芯、金像電同步衝頂",
+   "**美國 10 月 CPI 月增 0.4% 超預期**，10 年期殖利率站上 5.00%，12 月升息機率跳升",
+   "**NVDA 連二日下跌 −4.27%**：執行長爭議＋AI 晶片貸款折價賣出，是半導體最大壓力源",
+   "**清單外新熱門：智邦 2345、力旺 3529、旺矽 6223** 同日漲停，網通與矽智財值得追蹤"
+  ],
+  "indices": [
+   {
+    "market": "TW",
+    "name": "加權指數 TAIEX",
+    "value": "42,712",
+    "change": 2.52,
+    "changePts": "+1,050.00",
+    "comment": "國安基金兩日反彈 3,010 點"
+   },
+   {
+    "market": "TW",
+    "name": "櫃買指數 OTC",
+    "value": "332.97",
+    "change": 3.42,
+    "changePts": "+11.00",
+    "comment": "中小型股反彈力道勝加權"
+   },
+   {
+    "market": "TW",
+    "name": "0050 元大台灣50",
+    "value": "—",
+    "change": 2.31,
+    "comment": "市值型 ETF 同步回升"
+   },
+   {
+    "market": "TW",
+    "name": "0056 元大高股息",
+    "value": "—",
+    "change": 1.06,
+    "comment": "高息型落後大盤屬正常"
+   },
+   {
+    "market": "US",
+    "name": "那斯達克 Nasdaq",
+    "value": "25,065.88",
+    "change": -0.74,
+    "comment": "科技股連二日走弱"
+   },
+   {
+    "market": "US",
+    "name": "S&P 500",
+    "value": "7,520.93",
+    "change": -0.38,
+    "changePts": "-29.01",
+    "comment": "CPI 超預期壓抑評價"
+   },
+   {
+    "market": "US",
+    "name": "道瓊 Dow Jones",
+    "value": "52,231.89",
+    "change": -0.3,
+    "changePts": "-157.86",
+    "comment": "跌幅最小，資金轉防禦"
+   },
+   {
+    "market": "US",
+    "name": "羅素 2000 Russell 2000",
+    "value": "2,821.38",
+    "change": -0.68,
+    "comment": "殖利率走高壓抑小型股"
+   },
+   {
+    "market": "US",
+    "name": "費半 SOXX（半導體 ETF）",
+    "value": "—",
+    "change": -0.12,
+    "comment": "僅小跌，優於科技類股"
+   }
+  ],
+  "quotes": {
+   "2330": 2.24,
+   "2308": 9.91,
+   "2317": 1.05,
+   "2454": 2.82,
+   "2382": 0.68,
+   "3017": 9.84,
+   "3661": 9.97,
+   "2368": 9.96,
+   "2059": 6.93,
+   "2891": -2.9,
+   "AMD": 13.26,
+   "AVGO": 8.78,
+   "NVDA": -4.27
+  },
+  "prices": {
+   "2330": 2285,
+   "2308": 1275,
+   "2317": 241.5,
+   "2454": 3830,
+   "2382": 298.5,
+   "3017": 2790,
+   "3661": 3420,
+   "2368": 983,
+   "2059": 8565,
+   "2891": 73.7,
+   "AMD": 508.58,
+   "AVGO": 319.48,
+   "NVDA": 178.67
+  },
+  "movers": [
+   {
+    "name": "AMD（清單內 · 本日漲幅之冠）",
+    "ticker": "AMD",
+    "change": 13.26,
+    "price": "508.58 美元",
+    "reason": "AI 加速器訂單預期轉強，單日大漲"
+   },
+   {
+    "name": "台達電（清單內 · 連二根漲停）",
+    "ticker": "2308",
+    "change": 9.91,
+    "price": "1,275 元",
+    "reason": "電源散熱族群領漲，國安基金帶量"
+   },
+   {
+    "name": "世芯-KY（清單內）",
+    "ticker": "3661",
+    "change": 9.97,
+    "price": "3,420 元",
+    "reason": "ASIC 題材回神，自低點強彈"
+   },
+   {
+    "name": "金像電（清單內）",
+    "ticker": "2368",
+    "change": 9.96,
+    "price": "983 元",
+    "reason": "PCB／CCL 補漲，AI 伺服器拉貨"
+   },
+   {
+    "name": "奇鋐（清單內）",
+    "ticker": "3017",
+    "change": 9.84,
+    "price": "2,790 元",
+    "reason": "液冷散熱需求帶動，直奔漲停"
+   },
+   {
+    "name": "Broadcom（清單內）",
+    "ticker": "AVGO",
+    "change": 8.78,
+    "price": "319.48 美元",
+    "reason": "Google TPU 新品強化 ASIC 題材"
+   },
+   {
+    "name": "川湖（清單內）",
+    "ticker": "2059",
+    "change": 6.93,
+    "price": "8,565 元",
+    "reason": "伺服器機構件隨供應鏈反彈"
+   },
+   {
+    "name": "智邦（清單外新熱門）",
+    "ticker": "2345",
+    "change": 9.96,
+    "price": "1,545 元",
+    "reason": "高速交換器需求，漲停鎖量"
+   },
+   {
+    "name": "力旺（清單外新熱門）",
+    "ticker": "3529",
+    "change": 9.93,
+    "price": "2,215 元",
+    "reason": "矽智財題材回溫，漲停作收"
+   },
+   {
+    "name": "旺矽（清單外）",
+    "ticker": "6223",
+    "change": 9.99,
+    "price": "4,075 元",
+    "reason": "探針卡受惠先進封裝測試需求"
+   },
+   {
+    "name": "同欣電（清單外）",
+    "ticker": "6271",
+    "change": 10.0,
+    "price": "203.5 元",
+    "reason": "封測材料題材，直接漲停"
+   },
+   {
+    "name": "Applied Materials（清單外）",
+    "ticker": "AMAT",
+    "change": 11.37,
+    "price": "370.55 美元",
+    "reason": "半導體設備展望優於預期"
+   },
+   {
+    "name": "Arista Networks（清單外）",
+    "ticker": "ANET",
+    "change": 9.0,
+    "price": "186.17 美元",
+    "reason": "AI 資料中心網路需求強勁"
+   },
+   {
+    "name": "Hims & Hers（清單外 · 本日最大跌幅）",
+    "ticker": "HIMS",
+    "change": -16.61,
+    "price": "—",
+    "reason": "財測不佳，單日重挫"
+   },
+   {
+    "name": "Goosehead Insurance（清單外）",
+    "ticker": "GSHD",
+    "change": -15.64,
+    "price": "—",
+    "reason": "成長放緩，保險科技遭殺"
+   }
+  ]
+ }
+}
